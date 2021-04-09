@@ -1,0 +1,847 @@
+Gene	Disease	Variant	Effect	Source	Drug	Drug_Class	Evidence Level	PubMed ID	Gene Class	Variant Type
+AKT1	---	p.E17K	Sensitive	SageDB	AKT inhibitors	AKT inhibitor	Preclinical	21464312, 17611497, 23134728	Pleckstrin homology domain containing	missense
+AKT1	BRCA	p.D3N	Sensitive	CancerDR	AKT inhibitors	AKT inhibitor	Preclinical	23486013	Pleckstrin homology domain containing	missense
+AKT1	BRCA	p.E17K	Sensitive	SageDB	AKT inhibitors	AKT inhibitor	Preclinical	21464312, 17611497	Pleckstrin homology domain containing	missense
+AKT1	OV	p.E17K	Sensitive	SageDB	AKT inhibitors	AKT inhibitor	Clinical Trials	26351323	Pleckstrin homology domain containing	missense
+AKT1	SARC	p.H238Y	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	ASCO 2015 (abstr 11010)	Pleckstrin homology domain containing	missense
+AKT1	SKCM	p.Q79K	Resistant	SageDB	BRAF inhibitors	B-Raf inhibitor	Preclinical	24265152	Pleckstrin homology domain containing	missense
+AKT2	---	CNA	Sensitive	SageDB	AKT inhibitors	AKT inhibitor	Preclinical	ENA 2014 (abstr 373)	Pleckstrin homology domain containing	NOS
+AKT2	COADREAD	p.A139V	Resistant	CancerDR	A443654	AKT inhibitor	Preclinical	23486013	Pleckstrin homology domain containing	missense
+AKT3	BRCA	any	Sensitive	SageDB	ATP-competitive AKT inhibitors	AKT inhibitor	Preclinical	22722202	Pleckstrin homology domain containing	Fusion
+ALK	---	p.F1174C	Resistant	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	Preclinical	24675041	Receptor Tyrosine Kinases	Fusion
+ALK	ALL	p.A348D	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	26032424	Receptor Tyrosine Kinases	Fusion
+ALK	ALL	p.F856S	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	26032424	Receptor Tyrosine Kinases	Fusion
+ALK	COADREAD	p.P1218S	Resistant	CancerDR	PF2341066	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	Fusion
+ALK	COADREAD	p.P1543S	Sensitive	CancerDR	TAE684	LRRK2 kinase inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	Fusion
+ALK	COADREAD	p.V1476M	Sensitive	CancerDR	TAE684	LRRK2 kinase inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	Fusion
+ALK	DLBC	any	Sensitive	SageDB	crizotinib	c-Met inhibitor	Clinical Trials	24491302	Receptor Tyrosine Kinases	Fusion
+ALK	ESCA	p.P157H	Resistant	CancerDR	PF2341066	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	Fusion
+ALK	GBM	p.F1174L	Resistant	SageDB	crizotinib	c-Met inhibitor	Preclinical	22072639	Receptor Tyrosine Kinases	Fusion
+ALK	GBM	p.F1245C	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	22072639	Receptor Tyrosine Kinases	Fusion
+ALK	GBM	p.G1128A	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	22072639	Receptor Tyrosine Kinases	Fusion
+ALK	GBM	p.I1171N	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	22072639	Receptor Tyrosine Kinases	Fusion
+ALK	GBM	p.R1192P	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	22072639	Receptor Tyrosine Kinases	Fusion
+ALK	GBM	p.R1275Q	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	22072639	Receptor Tyrosine Kinases	Fusion
+ALK	IMT	any	Sensitive	SageDB	crizotinib	c-Met inhibitor	Case Reports	20979472	Receptor Tyrosine Kinases	Fusion
+ALK	LAML	p.C928Y	Resistant	CancerDR	PF2341066	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	CNA	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	any	Sensitive	SageDB	crizotinib, ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	22954507	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.1151in_frame_insT	Sensitive	SageDB	ceritinib	ALK inhibitor	FDA Approved	24670165	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.1151in_frame_insT	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.C1156Y	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.F1174L	Sensitive	SageDB	novel ALK inhibiors	ALK inhibitor	Preclinical	24327273	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.F1174L	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.G1202R	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.G1269A	Sensitive	SageDB	ceritinib	ALK inhibitor	FDA Approved	24670165	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.G1269A	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.I1171T	Sensitive	SageDB	ceritinib	ALK inhibitor	FDA Approved	25228534	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.I1171T	Resistant	SageDB	crizotinib, alectinib	c-Met inhibitor,ALK inhibitor	Case Reports	25228534	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.L1152R	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.L1196M	Sensitive	SageDB	ceritinib	ALK inhibitor	FDA Approved	24670165, 24327273	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.L1196M	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.S1206Y	Sensitive	SageDB	ceritinib	ALK inhibitor	FDA Approved	24670165	Receptor Tyrosine Kinases	Fusion
+ALK	LUAD	p.S1206Y	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	22277784	Receptor Tyrosine Kinases	Fusion
+ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Receptor Tyrosine Kinases	Fusion
+ALK	NSCLC	p.F1174V	Sensitive	PCT	Crizotinib	c-Met inhibitor	Case Reports	24736079	Receptor Tyrosine Kinases	Fusion
+ALK	SKCM	p.P379S	Resistant	CancerDR	PF2341066	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	Fusion
+ALK	THCA	any	Sensitive	SageDB	crizotinib	c-Met inhibitor	Case Reports	24687827	Receptor Tyrosine Kinases	Fusion
+AR	BRCA	Expression	Sensitive	MyCancerGenome	androgen receptor modulators and antagonists	anti-androgen	Clinical Trials	23965901	Nuclear hormone receptors	NOS
+AR	COADREAD	p.A52T	Sensitive	CancerDR	PARP1Bical	anti-androgen	Preclinical	23486013	Nuclear hormone receptors	missense
+AR	LAML	p.S244L	Resistant	CancerDR	PARP1Bical	anti-androgen	Preclinical	23486013	Nuclear hormone receptors	missense
+AR	PRAD	741	Sensitive	SageDB	enzalutamide, ARN-509	anti-androgen	Preclinical	23779130	Nuclear hormone receptors	missense
+AR	PRAD	741	Resistant	SageDB	bicalutamide	anti-androgen	Preclinical	12517791	Nuclear hormone receptors	missense
+AR	PRAD	Expression	Sensitive		androgen receptor modulators and antagonists	NA	FDA Approved	16014598	Nuclear hormone receptors	NOS
+AR	PRAD	Expression	Sensitive	SageDB	next-generation AR antagonists	anti-androgen	Preclinical	23589709, 21859989	Nuclear hormone receptors	NOS
+AR	PRAD	p.F876L	Resistant	SageDB	enzalutamide, ARN-509	anti-androgen	Case Reports	23779130	Nuclear hormone receptors	missense
+AR	PRAD	p.T877A	Sensitive	SageDB	enzalutamide, ARN-509	anti-androgen	Preclinical	23779130	Nuclear hormone receptors	missense
+AR	PRAD	p.T877A	Resistant	SageDB	flutamide	anti-androgen	Case Reports	2260966	Nuclear hormone receptors	missense
+ARAF	LUAD	p.S214C	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Case Reports	24569458	TKL	missense
+ATIC-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+ATM	COADREAD	p.Q2762R	Sensitive	CancerDR	KU55933	ATM inhibitor	Preclinical	23486013	GO Protein Kinase	missense
+ATM	DLBC	CNL	Sensitive	SageDB	DNA-PKc inhibitors	DNA-PK inhibitor	Preclinical	23761041	GO Protein Kinase	NOS
+ATM	STAD	Underexpression	Sensitive	SageDB	PARP inhibitors	PARP inhibitor	Clinical Trials	26282658	GO Protein Kinase	NOS
+AURKA	---	Expression	Sensitive	SageDB	AURK inhibitors	Aurora kinase inhibitor	Preclinical	22302096	Protein phosphatase 1 regulatory subunits	NOS
+AURKA	PRAD	Expression	Sensitive	SageDB	AURK inhibitors	Aurora kinase inhibitor	Preclinical	22389870	Protein phosphatase 1 regulatory subunits	NOS
+BCL2	DLBC	CNA	Sensitive	SageDB	BCL2 inhibitors	Bcl-2 inhibitor	Preclinical	22649144	Protein phosphatase 1 regulatory subunits	NOS
+BCR-ABL1	---	p.T315I	Resistant	PCT	nilotinib	KIT inhibitor	Preclinical	16772610	Unspecified	Fusion
+BCR-ABL1	ALL	any	Sensitive	SageDB	nilotinib	KIT inhibitor	FDA Approved	24650752	Unspecified	Fusion
+BCR-ABL1	ALL	p.E255K	Sensitive	SageDB	dasatinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.E25V	Sensitive	SageDB	dasatinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.F317L	Sensitive	SageDB	nilotinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.F317C	Sensitive	SageDB	nilotinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.F317I	Sensitive	SageDB	nilotinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.F317V	Sensitive	SageDB	nilotinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.F359V	Sensitive	SageDB	dasatinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.F35C	Sensitive	SageDB	dasatinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.F35I	Sensitive	SageDB	dasatinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.T315A	Sensitive	SageDB	nilotinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.T315I	Sensitive	PCT	ponatinib	KIT inhibitor	FDA Approved	24180494	Unspecified	Fusion
+BCR-ABL1	ALL	p.T315I	Sensitive	SageDB	ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.V299L	Sensitive	SageDB	nilotinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	ALL	p.Y253H	Sensitive	SageDB	dasatinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	any	Sensitive	SageDB	imatinib, dasatinib, nilotinib, bosutinib, ponatinib	KIT inhibitor, Bcr-Abl TKI	FDA Approved	19779040	Unspecified	Fusion
+BCR-ABL1	CML	any	Resistant	PCT	imatinib	KIT inhibitor	Clinical Trials	11423618	Unspecified	Fusion
+BCR-ABL1	CML	p.E255K	Sensitive	SageDB	dasatinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.E25V	Sensitive	SageDB	dasatinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.F317L	Sensitive	SageDB	nilotinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.F317C	Sensitive	SageDB	nilotinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.F317I	Sensitive	SageDB	nilotinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.F317V	Sensitive	SageDB	nilotinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.F359V	Sensitive	SageDB	dasatinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.F35C	Sensitive	SageDB	dasatinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.F35I	Sensitive	SageDB	dasatinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.T315A	Sensitive	SageDB	nilotinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.T315I	Sensitive	SageDB	ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.T315I	Resistant	PCT	imatinib	KIT inhibitor	Clinical Trials	11853795	Unspecified	Fusion
+BCR-ABL1	CML	p.V299L	Sensitive	SageDB	nilotinib, ponatinib	KIT inhibitor	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	CML	p.Y253H	Sensitive	SageDB	dasatinib, bosutinib, ponatinib	KIT inhibitor,Bcr-Abl TKI	FDA Approved	21562040	SH2 domain containing	Fusion
+BCR-ABL1	DLBC	p.E810G	Sensitive	CancerDR	Nilotinib	KIT inhibitor	Preclinical	23486013	SH2 domain containing	Fusion
+BCR-ABL1	LAML	p.I1146T	Resistant	CancerDR	AZD0530	Bcr-Abl TKI	Preclinical	23486013	SH2 domain containing	Fusion
+BCR-ABL1	LAML	p.V587M	Resistant	CancerDR	Dasatinib	KIT inhibitor	Preclinical	23486013	SH2 domain containing	Fusion
+BCR-ABL1	PAAD	p.G1079D	Sensitive	CancerDR	Nilotinib	KIT inhibitor	Preclinical	23486013	SH2 domain containing	Fusion
+BCR-JAK2	ALL	any	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	Preclinical	22897847	Unspecified	Fusion
+BCR-PDGFRA	CML	any	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	15034867	Unspecified	Fusion
+BCR-RET	CML	any	Sensitive	PCT	sorafenib	Angiogenesis inhibitor	Case Reports	22513837	Unspecified	Fusion
+BRAF	BRCA	p.G464V	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	BRCA	p.P74A	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	BRCA	p.V600E	Sensitive	CancerDR	SB590885	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	CLL	p.V600E	Sensitive	SageDB	vemurafenib	B-Raf inhibitor	Case Reports	22621641	TKL	missense
+BRAF	COADREAD	p.A712T	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	COADREAD	p.E204L	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	COADREAD	p.N581Y	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	COADREAD	p.V600E	Sensitive	SageDB	BRAF inhibitors + anti-EGFR mAbs +/- PI3K pathway inhibitors	B-Raf inhibitor + EGFR inhibitor/PI3K inhibitor	Clinical Trials	ENA 2014 (abstr 11LBA)	TKL	missense
+BRAF	COADREAD	p.V600E	Resistant	SageDB	cetuximab, panitumumab	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739, 21163703, 23325582	TKL	missense
+BRAF	GBM	p.V600E	Sensitive	SageDB	BRAF inhibitors	B-Raf inhibitor	Preclinical	22038996, 22586120	TKL	missense
+BRAF	GIST	p.V600E	Sensitive	SageDB	dabrafenib	B-Raf inhibitor	Case Reports	23470635, 22608338	TKL	missense
+BRAF	LAML	p.V600E	Sensitive	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	LUAD	any	Sensitive	SageDB	sorafenib, MEK inhibitors	Angiogenesis inhibitor,MEK inhibitor	Preclinical	24727320	TKL	Fusion
+BRAF	LUAD	p.G466V	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	22649091	TKL	missense
+BRAF	LUAD	p.G469A	Sensitive	SageDB	EGFR TKIs + MEK inhibitors in EGFR mutant	EGFR inhibitor (1st or 2nd gen) + MEK inhibitor	Preclinical	22773810	TKL	missense
+BRAF	LUAD	p.G469A	Resistant	SageDB	EGFR TKIs	EGFR inhibitor (1st or 2nd gen)	Case Reports	22773810	TKL	missense
+BRAF	LUAD	p.V600E	Sensitive	SageDB	dabrafenib + trametinib	B-Raf inhibitor + MEK inhibitor	Clinical Trials	ASCO 2015 (abstr 8006)	TKL	missense
+BRAF	LUAD	p.V600E	Resistant	SageDB	EGFR TKIs	EGFR inhibitor (1st or 2nd gen)	Case Reports	22773810	TKL	missense
+BRAF	LUAD	p.Y472C	Sensitive	SageDB	dasatinib	KIT inhibitor	Case Reports	22649091	TKL	missense
+BRAF	MM	p.V600E	Sensitive	SageDB	vemurafenib	B-Raf inhibitor	Case Reports	23612012	TKL	missense
+BRAF	NSCLC	p.E375D	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	OV	p.V600E	Sensitive	SageDB	dabrafenib	B-Raf inhibitor	Case Reports	22608338	TKL	missense
+BRAF	PRAD	any	Sensitive	SageDB	sorafenib, MEK inhibitors	Angiogenesis inhibitor,MEK inhibitor	Preclinical	20526349	TKL	Fusion
+BRAF	PRAD	p.L597R	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	SKCM	597	Sensitive	SageDB	trametinib, MEK inhibitors	MEK inhibitor	Case Reports	22805292, 22798288	TKL	missense
+BRAF	SKCM	600	Sensitive	PCT	dabrafenib, RAF inhibitor	B-Raf inhibitor	FDA Approved	25399551	TKL	missense
+BRAF	SKCM	any	Sensitive		MEK inhibitors	MEK inhibitor	Clinical Trials	24345920	TKL	Fusion
+BRAF	SKCM	any	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Preclinical	23890088	TKL	Fusion
+BRAF	SKCM	p.D594G	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Preclinical	18794803	TKL	missense
+BRAF	SKCM	p.G469E	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Preclinical	18794803	TKL	missense
+BRAF	SKCM	p.K601R	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Case Reports	23248257	TKL	missense
+BRAF	SKCM	p.L597R	Sensitive	SageDB	BRAF inhibitors	B-Raf inhibitor	Case Reports	23715574	TKL	missense
+BRAF	SKCM	p.L597V	Sensitive	PCT	trametinib, MEK inhibitor	MEK inhibitor	Case Reports	22798288	TKL	missense
+BRAF	SKCM	p.V600E	Sensitive	SageDB	vemurafenib, dabrafenib, trametinib, dabrafenib + trametinib	B-Raf inhibitor,MEK inhibitor, B-Raf inhibitor + MEK inhibitor	FDA Approved	25399551	TKL	missense
+BRAF	SKCM	p.V600E	Resistant	CancerDR	PLX4720	B-Raf inhibitor	Preclinical	23486013	TKL	missense
+BRAF	SKCM	p.V600K	Sensitive	SageDB	trametinib, dabrafenib + trametinib	MEK inhibitor	FDA Approved	25399551	TKL	missense
+BRAF	SKCM	p.V600R	Sensitive	SageDB	BRAF inhibitors	B-Raf inhibitor	Clinical Trials	23237741	TKL	missense
+BRAF	THCA	p.V600E	Sensitive	SageDB	BRAF inhibitors + MEK inhibitors	B-Raf inhibitor + MEK inhibitor	Clinical Trials	ASCO 2013 (abstr 9029)	TKL	missense
+BRCA1	OV	A1623G	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	A1708E	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	CNL	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	27908594	Ring finger proteins	NOS
+BRCA1	OV	CNL	Sensitive	SageDB	PARP inhibitors	PARP inhibitor	Preclinical	22392482	Ring finger proteins	NOS
+BRCA1	OV	G1706E	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	G1738R	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	G1788V	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	I1766S	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	L1764P	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	M1689R	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	M18T	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	R1495M	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	R1699W	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	S1715R	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	T1685A	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	T1685I	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA1	OV	V1688del	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	in_frame_del
+BRCA1	OV	any frameshift mutation	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	27617661; 27908594	Ring finger proteins	frame_shift
+BRCA1	OV	any nonsense mutation	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	27617661; 27908594	Ring finger proteins	nonsense
+BRCA2	OV	CNL	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	27908594	Fanconi anemia, complementation groups	NOS
+BRCA2	OV	CNL	Sensitive	SageDB	PARP inhibitors	PARP inhibitor	Preclinical	22392482	Fanconi anemia, complementation groups	NOS
+BRCA2	OV	D3095E	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	E2663V	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	G2748D	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	I2627F	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	L2653P	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	R2336H	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	R2502C	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	R2659K	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	T2722R	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	W2626C	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	17924331; 27617661; 27908594	Ring finger proteins	missense
+BRCA2	OV	any frameshift mutation	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	27617661; 27908594	Ring finger proteins	frame_shift
+BRCA2	OV	any nonsense mutation	Sensitive		PARP inhibitors	PARP inhibitor	FDA Approved	27617661; 27908594	Fanconi anemia, complementation groups	nonsense
+BRD4	HNSC	any	Sensitive	SageDB	BET inhibitors	BET inhibitor	Preclinical	20871596	GO Protein Kinase	Fusion
+BTK	CLL	p.C481S	Resistant	SageDB	ibrutinib	BTK inhibitor	Clinical Trials	24869598	SH2 domain containing	missense
+BTK	DLBC	481	Resistant	SageDB	ibrutinib	BTK inhibitor	Case Reports	25082755	SH2 domain containing	missense
+CBL	MPD	p.C384R	Sensitive	SageDB	JAK inhibitors, dasatinib	JAK kinase inhibitor,KIT inhibitor	Preclinical	23696637	Ring finger proteins	missense
+CBL	MPD	p.Y371H	Sensitive	SageDB	JAK inhibitors, dasatinib	JAK kinase inhibitor,KIT inhibitor	Preclinical	23696637	Ring finger proteins	missense
+CCND1	---	CNA	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Preclinical	22471707	Cyclins	NOS
+CCND1	SKCM	CNA	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Case Reports	ASCO 2014 (abstr 2528^)	Cyclins	NOS
+CCND2	---	CNA	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Preclinical	22471707	Cyclins	NOS
+CCND3	---	CNA	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Preclinical	22471707	Cyclins	NOS
+CCNE1	---	CNA	Sensitive	SageDB	CDK2 inhibitors	CDK inhibitor	Preclinical	22471707	Cyclins	NOS
+CD274	---	CNA	Sensitive	SageDB	PDL1 inhibitors	PD-1/PD-L1 inhibitor	Preclinical	25079317	V-set domain containing	NOS
+CD274	BLCA	Expression	Sensitive	MyCancerGenome	PD-L1 inhibitor	PD-1/PD-L1 inhibitor	FDA Approved	25428503	V-set domain containing	NOS
+CD274	NSCLC	Expression	Sensitive	MyCancerGenome	PD-L1 inhibitor	PD-1/PD-L1 inhibitor	FDA Approved	26712084	V-set domain containing	NOS
+CD274	SKCM	Expression	Sensitive	MyCancerGenome	nivolumab	PD-1/PD-L1 inhibitor	Clinical Trials	24145345	V-set domain containing	NOS
+CD30	HL	Expression	Sensitive	MyCancerGenome	Brentuximab Vedotin	CD30 antibody-drug conjugate	FDA Approved	21047225	Unspecified	NOS
+CD74-ROS1	---	any	Sensitive	PCT	crizotinib	c-Met inhibitor	Preclinical	23486013	Unspecified	Fusion
+CDK4	---	p.R24C	Sensitive	PCT	flavopiridol	CDK inhibitor	Preclinical	23486013	Cyclin-dependent kinases	missense
+CDK4	SARC	CNA	Sensitive	SageDB	CDK4 inhibitors (tumors with RB expression)	CDK inhibitor	Clinical Trials	23569312	Cyclin-dependent kinases	NOS
+CDK5RAP2-PDGFRA	CML	any	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	16845659	Unspecified	Fusion
+CDK6	---	CNA	Sensitive	SageDB	CDK6 inhibitors	CDK inhibitor	Preclinical	22471707	Cyclin-dependent kinases	NOS
+CDKN2A	BRCA	CNL	Sensitive	PCT	Palbociclib, CDK4/6 inhibitor	CDK inhibitor	Case Reports	26715889	Unspecified	NOS
+CDKN2A	GBM	CNL	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Preclinical	22586120, 22711607	Unspecified	NOS
+CDKN2A	SARC	CNL	Sensitive	PCT	LY2835219, CDK4/6 inhibitor	CDK inhibitor	Preclinical	25852058	Unspecified	NOS
+CDKN2A	SKCM	CNL	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Case Reports	ASCO 2013 (abstr 2500)	Unspecified	NOS
+CDKN2B	GBM	CNL	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Preclinical	22711607	Unspecified	NOS
+CDKN2C	GBM	CNL	Sensitive	SageDB	CDK4/6 inhibitors	CDK inhibitor	Preclinical	22711607	Ankyrin repeat domain containing	NOS
+CLTC-ALK	DLBC	any	Sensitive	PCT	Crizotinib	c-Met inhibitor	Preclinical	26221234	Unspecified	Fusion
+COL1A1-PDGFRB	SARC	any	Sensitive	SageDB	imatinib	KIT inhibitor	FDA Approved	20194851	Unspecified	Fusion
+CRKL	LUAD	Expression	Resistant	SageDB	EGFR TKIs	EGFR inhibitor (1st or 2nd gen)	Preclinical	22586683	SH2 domain containing	NOS
+CRLF2	ALL	any	Sensitive	SageDB	mTOR inhibitors	mTOR inhibitor	Preclinical	22955920	Pseudoautosomal region 1	Fusion
+CSF1R	MPD	p.Y571D	Sensitive	SageDB	imatinib	KIT inhibitor	Preclinical	18971950	Receptor Tyrosine Kinases	missense
+CSF3R	CML	p.D771fs	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	23656643	Fibronectin type III domain containing	frame_shift_del_unspecified
+CSF3R	CML	p.Q741X	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	23656643	Fibronectin type III domain containing	missense
+CSF3R	CML	p.S783fs	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	23656643	Fibronectin type III domain containing	frame_shift_del_unspecified
+CSF3R	CML	p.T615A	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	Preclinical	23656643	Fibronectin type III domain containing	missense
+CSF3R	CML	p.T618I	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	Case Reports	23656643	Fibronectin type III domain containing	missense
+CSF3R	CML	p.W791X	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	23656643	Fibronectin type III domain containing	missense
+CSF3R	CML	p.Y752X	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	23656643	Fibronectin type III domain containing	missense
+CTNNB1	COADREAD	p.R582Q	Resistant	CancerDR	FH535	Wnt inhibitor	Preclinical	23486013	Armadillo repeat containing	missense
+CTNNB1	UCEC	p.D32V	Sensitive	SageDB	everolimus + letrozole	mTOR inhibitor + anti-estrogen	Clinical Trials	25624430	Armadillo repeat containing	missense
+CTNNB1	UCEC	p.H36Y	Sensitive	SageDB	everolimus + letrozole	mTOR inhibitor + anti-estrogen	Clinical Trials	25624430	Armadillo repeat containing	missense
+CTNNB1	UCEC	p.S37C	Sensitive	SageDB	everolimus + letrozole	mTOR inhibitor + anti-estrogen	Clinical Trials	25624430	Armadillo repeat containing	missense
+CTNNB1	UCEC	p.S37Y	Sensitive	SageDB	everolimus + letrozole	mTOR inhibitor + anti-estrogen	Clinical Trials	25624430	Armadillo repeat containing	missense
+DDR2	LUSC	p.G253C	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	22328973	Receptor Tyrosine Kinases	missense
+DDR2	LUSC	p.G505S	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	22328973	Receptor Tyrosine Kinases	missense
+DDR2	LUSC	p.G774V	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	22328973	Receptor Tyrosine Kinases	missense
+DDR2	LUSC	p.I638F	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	22328973	Receptor Tyrosine Kinases	missense
+DDR2	LUSC	p.L239R	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	22328973	Receptor Tyrosine Kinases	missense
+DDR2	LUSC	p.L63V	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	22328973	Receptor Tyrosine Kinases	missense
+DDR2	LUSC	p.S768R	Sensitive	SageDB	dasatinib + erlotinib	KIT inhibitor + EGFR inhibitor (1st or 2nd gen)	Case Reports	22328973	Receptor Tyrosine Kinases	missense
+DLL3	NEC	Expression	Sensitive	MyCancerGenome	DLL3 antibody-drug conjugate	DLL3 antibody-drug conjugate	Preclinical	26311731	Unspecified	NOS
+EGFR	COADREAD	CNA	Sensitive	SageDB	anti-EGFR mAbs	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	18794099, 17664472	Receptor Tyrosine Kinases	NOS
+EGFR	COADREAD	p.G465R	Resistant	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Preclinical	25623215	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.I491M	Resistant	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Preclinical	25623215	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.K467T	Sensitive	SageDB	panitumumab	EGFR inhibitor (1st or 2nd gen)	Preclinical	25623215	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.K467T	Resistant	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Case Reports	25623215	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.R451C	Resistant	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Case Reports	25623215	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.S464L	Resistant	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Preclinical	25623215	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.S492R	Sensitive	SageDB	novel anti-EGFR mAbs	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	25962717	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.S492R	Resistant	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Case Reports	22270724	Receptor Tyrosine Kinases	missense
+EGFR	COADREAD	p.Y1069C	Sensitive	CancerDR	Lapatinib	HER-2 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+EGFR	DLBC	p.K209N	Sensitive	CancerDR	Lapatinib	HER-2 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+EGFR	GBM	Expression	Resistant	SageDB	EGFR TKIs	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	16282176, 16278407	Receptor Tyrosine Kinases	NOS
+EGFR	GBM	exon p.30-336 	Resistant	SageDB	EGFR TKIs	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	19204207	Receptor Tyrosine Kinases	in_frame_del
+EGFR	GBM	p.A289V	Sensitive	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen)	Preclinical	17177598	Receptor Tyrosine Kinases	missense
+EGFR	GBM	p.G598V	Sensitive	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen)	Preclinical	17177598	Receptor Tyrosine Kinases	missense
+EGFR	GBM	p.R108K	Sensitive	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen)	Preclinical	17177598	Receptor Tyrosine Kinases	missense
+EGFR	GBM	p.T263P	Sensitive	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen)	Preclinical	17177598	Receptor Tyrosine Kinases	missense
+EGFR	HNSC	Expression	Resistant	SageDB	gefitinib	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	21274259, 22261807	Receptor Tyrosine Kinases	NOS
+EGFR	HNSC	p.P546S	Sensitive	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Case Reports	23578570	Receptor Tyrosine Kinases	missense
+EGFR	HNSC	p.P753S	Sensitive	SageDB	cetuximab + sirolimus	EGFR inhibitor (1st or 2nd gen)+ mTOR inhibitor	Case Reports	24934779	Receptor Tyrosine Kinases	missense
+EGFR	HNSC	p.V843I	Resistant	SageDB	gefitinib	EGFR inhibitor (1st or 2nd gen)	Case Reports	21274259	Receptor Tyrosine Kinases	missense
+EGFR	LAML	p.R98Q	Resistant	CancerDR	Lapatinib	HER-2 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+EGFR	LAML	p.T751I	Resistant	CancerDR	Lapatinib	HER-2 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+EGFR	LAML	p.W1157C	Resistant	CancerDR	Lapatinib	HER-2 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+EGFR	LUAD	exon p.750-756 	Sensitive	PCT	Afatinib	HER-2 inhibitor	FDA Approved	23816960	Receptor Tyrosine Kinases	in_frame_del
+EGFR	NSCLC	719	Sensitive	MyCancerGenome	afatinib	HER-2 inhibitor	Clinical Trials	26051236	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	CNA	Resistant	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	ASCO 2015 (abstr e19028)	Receptor Tyrosine Kinases	NOS
+EGFR	NSCLC	any	Sensitive		erlotinib	EGFR inhibitor (1st or 2nd gen)	Case Reports	27102076	Receptor Tyrosine Kinases	Fusion
+EGFR	NSCLC	exon c.2186-2283 	Sensitive	MyCancerGenome	gefitinib	EGFR inhibitor (1st or 2nd gen)	FDA Approved	21670455	Receptor Tyrosine Kinases	in_frame_ins
+EGFR	NSCLC	exon c.2284-2469 	Resistant	MyCancerGenome	gefitinib	EGFR inhibitor (1st or 2nd gen)	FDA Approved	26096453	Receptor Tyrosine Kinases	in_frame_ins
+EGFR	NSCLC	exon p.729-761 	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	in_frame_del
+EGFR	NSCLC	exon p.762-775 	Resistant	PCT	Erlotinib, gefitinib	EGFR inhibitor (1st or 2nd gen)	Case Reports	21764376	Receptor Tyrosine Kinases	in_frame_ins
+EGFR	NSCLC	exon p.762-823 	Sensitive	SageDB	HSP90 inhibitors	Hsp90 inhibitor	Clinical Trials	ASCO 2014 (abstr 8015)	Receptor Tyrosine Kinases	in_frame_ins
+EGFR	NSCLC	exon p.762-823 	Resistant	SageDB	first-generation and irreversible EGFR TKIs	EGFR inhibitor (1st,2nd, or 3rd gen)	Clinical Trials	21764376, 21764376	Receptor Tyrosine Kinases	in_frame_ins
+EGFR	NSCLC	exon p.763-764 	Sensitive	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen)	Case Reports	23969006	Receptor Tyrosine Kinases	in_frame_ins
+EGFR	NSCLC	p.C797S	Resistant	SageDB	irreversible EGFR T790M inhibitors	EGFR inhibitor (3rd gen)	Clinical Trials	25939061	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.ELR746in_frame_del	Sensitive	CancerDR	ZD6474	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	in_frame_del
+EGFR	NSCLC	p.ELREA746in_frame_del	Sensitive	CancerDR	ZD6474	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	in_frame_del
+EGFR	NSCLC	p.G719A	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.G719C	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.G719D	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.G719S	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.L747S	Resistant	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	Preclinical	28424065	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.L747S	Sensitive	SageDB	osimertinib	EGFR inhibitor (3rd gen)	Preclinical	28424065	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.L858R	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.L861P	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.L861Q	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.L861R	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.S768I	Sensitive	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.T790M	Sensitive	MyCancerGenome	AZD9291	EGFR TKI (3rd gen)	FDA Approved	25923549	Receptor Tyrosine Kinases	missense
+EGFR	NSCLC	p.T790M	Resistant	SageDB	erlotinib, afatinib	EGFR inhibitor (1st or 2nd gen),HER-2 inhibitor	FDA Approved	18458038	Receptor Tyrosine Kinases	missense
+EGFR	SKCM	p.V1011M	Sensitive	CancerDR	Gefitinib	EGFR inhibitor (1st or 2nd gen)	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+EGFR	UCEC	p.E690K	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Case Reports	22885469	Receptor Tyrosine Kinases	missense
+EGFR	UCEC	p.R973Q	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+EML1-ABL1	CML	any	Sensitive	PCT	imatinib	KIT inhibitor	Case Reports	15713800	Unspecified	Fusion
+EML4-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+EPHA2	---	Expression	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	18047674, 19010823, 19861960	Sterile alpha motif (SAM) domain containing	NOS
+EPHA2	LUSC	p.G391R	Sensitive	SageDB	mTOR inhibitors, dasatinib	mTOR inhibitor, KIT inhibitor	Preclinical	20360610	Sterile alpha motif (SAM) domain containing	missense
+EPHA3	---	Expression	Sensitive	SageDB	EPHA3 inhibitors	EphA3 inhibitor	Preclinical	25125683	Sterile alpha motif (SAM) domain containing	NOS
+ERBB2	---	p.C311R	Sensitive	SageDB	ERBB2 TKIs, trastuzumab	HER-2 inhibitor	Preclinical	22908275	Receptor Tyrosine Kinases	missense
+ERBB2	---	p.C334S	Sensitive	SageDB	ERBB2 TKIs	HER-2 inhibitor	Preclinical	22908275	Receptor Tyrosine Kinases	missense
+ERBB2	---	p.E321G	Sensitive	SageDB	ERBB2 TKIs	HER-2 inhibitor	Preclinical	22908275	Receptor Tyrosine Kinases	missense
+ERBB2	---	p.G309E	Sensitive	SageDB	ERBB2 TKIs, trastuzumab	HER-2 inhibitor	Preclinical	22908275	Receptor Tyrosine Kinases	missense
+ERBB2	---	p.S310F	Sensitive	SageDB	ERBB2 TKIs, trastuzumab	HER-2 inhibitor	Preclinical	22908275	Receptor Tyrosine Kinases	missense
+ERBB2	---	p.S310Y	Sensitive	SageDB	ERBB2 TKIs, trastuzumab	HER-2 inhibitor	Preclinical	22908275	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	CNA	Sensitive	SageDB	trastuzumab, lapatinib, pertuzumab, ado-trastuzumab emtansine	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	FDA Approved	17208639	Receptor Tyrosine Kinases	NOS
+ERBB2	BRCA	Expression	Sensitive	MyCancerGenome	trastuzumab	HER-2 inhibitor	FDA Approved	10561337	Receptor Tyrosine Kinases	NOS
+ERBB2	BRCA	p.D769H	Sensitive	SageDB	trastuzumab, lapatinib, neratinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	23220880	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	p.D769Y	Sensitive	SageDB	trastuzumab, lapatinib, neratinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	23220880	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	p.G309A	Sensitive	SageDB	lapatinib, neratinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	23220880	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	p.L755S	Sensitive	SageDB	neratinib	HER-2 inhibitor	Preclinical	23220880	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	p.R896C	Sensitive	SageDB	trastuzumab, lapatinib, neratinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	23220880	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	p.V659E	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Case Reports	23950206	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	p.V777L	Sensitive	SageDB	lapatinib, neratinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	23220880	Receptor Tyrosine Kinases	missense
+ERBB2	BRCA	p.V842I	Sensitive	SageDB	lapatinib, neratinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	23220880	Receptor Tyrosine Kinases	missense
+ERBB2	COADREAD	CNA	Sensitive	SageDB	trastuzumab + lapatinib (in KRAS wt)	HER-2 inhibitor + EGFR inhibitor (1st or 2nd gen)	Clinical Trials	ASCO 2015 (abstr 3508)	Receptor Tyrosine Kinases	NOS
+ERBB2	COADREAD	CNA	Resistant	SageDB	anti-EGFR mAbs	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	22586653, 23348520	Receptor Tyrosine Kinases	NOS
+ERBB2	COADREAD	p.L720P	Sensitive	CancerDR	Lapatinib	HER-2 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+ERBB2	HNSC	CNA	Sensitive	SageDB	trastuzumab-based chemotherapy	HER-2 inhibitor	Case Reports	21380780	Receptor Tyrosine Kinases	NOS
+ERBB2	LUAD	exon p.775-881 	Sensitive	SageDB	trastuzumab-based therapy	HER-2 inhibitor	Clinical Trials	ASCO 2015 (abstr 11076)	Receptor Tyrosine Kinases	in_frame_ins
+ERBB2	LUAD	p.G776L	Sensitive	SageDB	trastuzumab-based therapy	HER-2 inhibitor	Case Reports	16775247	Receptor Tyrosine Kinases	missense
+ERBB2	LUAD	p.V659E	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Case Reports	23950206	Receptor Tyrosine Kinases	missense
+ERBB2	NSCLC	exon c.2308-2493 	Sensitive	MyCancerGenome	trastuzumab	HER-2 inhibitor	Clinical Trials	23610105	Receptor Tyrosine Kinases	in_frame_ins
+ERBB2	NSCLC	p.A859T	Sensitive	PCT	Trastuzumab	HER-2 inhibitor	Case Reports	16775247	Receptor Tyrosine Kinases	missense
+ERBB2	OV	CNA	Sensitive	SageDB	trastuzumab	HER-2 inhibitor	Clinical Trials	20003286, 12525520	Receptor Tyrosine Kinases	NOS
+ERBB2	OV	p.V842I	Sensitive	CancerDR	BIBW2992	HER-2 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+ERBB2	STAD	CNA	Sensitive	SageDB	trastuzumab	HER-2 inhibitor	FDA Approved	20728210	Receptor Tyrosine Kinases	NOS
+ERBB2	STAD	Expression	Sensitive	SageDB	trastuzumab	HER-2 inhibitor	FDA Approved	20728210	Receptor Tyrosine Kinases	NOS
+ERBB2	UCEC	CNA	Sensitive	SageDB	trastuzumab + lapatinib	HER-2 inhibitor + EGFR inhibitor (1st or 2nd gen)	Preclinical	25294905	Receptor Tyrosine Kinases	NOS
+ERBB2	UCEC	CNA	Resistant	SageDB	trastuzumab alone	HER-2 inhibitor	Clinical Trials	19840887	Receptor Tyrosine Kinases	NOS
+ERBB3	---	p.G284R	Sensitive	SageDB	trastuzumab, pertuzumab, lapatinib, anti-HER3 mAbs, PI3K pathway inhibitors + MEK inhibitors	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen), PI3K inhibitor + MEK inhibitor	Preclinical	23680147	Receptor Tyrosine Kinases	missense
+ERBB3	---	p.P262H	Sensitive	SageDB	trastuzumab, pertuzumab, lapatinib, anti-HER3 mAbs, PI3K pathway inhibitors + MEK inhibitors	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen), PI3K inhibitor + MEK inhibitor	Preclinical	23680147	Receptor Tyrosine Kinases	missense
+ERBB3	---	p.Q809R	Sensitive	SageDB	trastuzumab, lapatinib, PI3K pathway inhibitors + MEK inhibitors	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen), PI3K inhibitor + MEK inhibitor	Preclinical	23680147	Receptor Tyrosine Kinases	missense
+ERBB3	BLCA	p.G284R	Sensitive	SageDB	afatinib	HER-2 inhibitor	Case Reports	ASCO 2015 (abstr e15516)	Receptor Tyrosine Kinases	missense
+ERBB3	BLCA	p.R103G	Sensitive	SageDB	afatinib	HER-2 inhibitor	Case Reports	ASCO 2015 (abstr e15516)	Receptor Tyrosine Kinases	missense
+ERBB4	LUAD	any	Sensitive	SageDB	lapatinib, afatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	24727320	Receptor Tyrosine Kinases	Fusion
+ERBB4	SKCM	p.E317K	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	19718025	Receptor Tyrosine Kinases	missense
+ERBB4	SKCM	p.E452K	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	19718025	Receptor Tyrosine Kinases	missense
+ERBB4	SKCM	p.E542K	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	19718025	Receptor Tyrosine Kinases	missense
+ERBB4	SKCM	p.E872K	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	19718025	Receptor Tyrosine Kinases	missense
+ERBB4	SKCM	p.R393W	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	19718025	Receptor Tyrosine Kinases	missense
+ERBB4	SKCM	p.R544W	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	19718025	Receptor Tyrosine Kinases	missense
+ERCC1	NSCLC	Underexpression	Sensitive	SageDB	cisplatin	Antineoplastic	Preclinical	23275151, 23934192	Unspecified	NOS
+ESR1	BRCA	536	Resistant	SageDB	anti-estrogens	anti-estrogen	Clinical Trials	24185512, 24185510	Nuclear hormone receptors	missense
+ESR1	BRCA	537	Sensitive	SageDB	novel estrogen receptor degrader	anti-estrogen	Clinical Trials	AACR 2015 (abstr CT231)	Nuclear hormone receptors	missense
+ESR1	BRCA	537	Resistant	SageDB	anti-estrogens	anti-estrogen	Clinical Trials	24185512, 24185510, 24398047	Nuclear hormone receptors	missense
+ESR1	BRCA	538	Sensitive	SageDB	novel estrogen receptor degrader	anti-estrogen	Clinical Trials	AACR 2015 (abstr CT231)	Nuclear hormone receptors	missense
+ESR1	BRCA	538	Resistant	SageDB	anti-estrogens	anti-estrogen	Clinical Trials	24185512, 24185510, 24398047	Nuclear hormone receptors	missense
+ESR1	BRCA	Expression	Sensitive	MyCancerGenome	aromatase inhibitors	anti-estrogen	FDA Approved	10334533	Nuclear hormone receptors	NOS
+ESR1	BRCA	any	Resistant	SageDB	anti-estrogens	anti-estrogen	Preclinical	24055055	Nuclear hormone receptors	Fusion
+ESR1	BRCA	p.E380Q	Resistant	SageDB	anti-estrogens	anti-estrogen	Clinical Trials	24185512, 24185510, 24398047	Nuclear hormone receptors	missense
+ESR1	BRCA	p.P535H	Resistant	SageDB	anti-estrogens	anti-estrogen	Clinical Trials	24185512	Nuclear hormone receptors	missense
+ETS	PRAD	any	Sensitive		PARP inhibitors	PARP inhibitor	Preclinical	21575865	Unspecified	Fusion
+ETV6-ABL1	MPD	any	Sensitive	PCT	nilotinib	KIT inhibitor	Case Reports	24053143	Unspecified	Fusion
+ETV6-ABL1	MPD	any	Resistant	PCT	imatinib	KIT inhibitor	Case Reports	24053143	Unspecified	Fusion
+EWS	SARC	any	Sensitive		PARP inhibitors	PARP inhibitor	Preclinical	22287547	Unspecified	Fusion
+EZH2	DLBC	641	Sensitive	SageDB	EZH2 inhibitor	EZH2 inhibitor	Preclinical	23023262	SANT/Myb domain containing	missense
+EZH2	DLBC	677	Sensitive	SageDB	EZH2 inhibitor	EZH2 inhibitor	Preclinical	23023262	SANT/Myb domain containing	missense
+EZH2	DLBC	p.Y646F	Sensitive	SageDB	EZH2 inhibitor	EZH2 inhibitor	Preclinical	24563539	SANT/Myb domain containing	missense
+FBXW7	---	Underexpression	Resistant	SageDB	anti-tubulin agents	tubulin inhibitor	Preclinical	21368834	WD repeat domain containing	NOS
+FGF3	BRCA	CNA	Sensitive	SageDB	dovitinib	FGFR inhibitor	Clinical Trials	23658459	Unspecified	NOS
+FGF4	BRCA	CNA	Sensitive	SageDB	dovitinib	FGFR inhibitor	Clinical Trials	23658459	Endogenous ligands	NOS
+FGFR1	BRCA	CNA	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Clinical Trials	25193991	Receptor Tyrosine Kinases	NOS
+FGFR1	HNSC	CNA	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	23418312	Receptor Tyrosine Kinases	NOS
+FGFR1	LUSC	CNA	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Clinical Trials	AACR 2012 (abstr LB-122), AACR 2013 (abstr LB-145)	Receptor Tyrosine Kinases	NOS
+FGFR1	UCEC	p.T79A	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+FGFR2	---	p.N550H	Resistant	PCT	Dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	---	p.N550K	Resistant	PCT	Dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	---	p.N550S	Resistant	PCT	Dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	BRCA	CNA	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Case Reports	25193991	Receptor Tyrosine Kinases	NOS
+FGFR2	CHOL	any	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	23558953	Receptor Tyrosine Kinases	Fusion
+FGFR2	HNSC	p.P253R	Sensitive	SageDB	pazopanib	FGFR inhibitor	Case Reports	23786770	Receptor Tyrosine Kinases	missense
+FGFR2	LUSC	p.K660N	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	25035393	Receptor Tyrosine Kinases	missense
+FGFR2	LUSC	p.S320C	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	23786770	Receptor Tyrosine Kinases	missense
+FGFR2	LUSC	p.W290C	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	23786770	Receptor Tyrosine Kinases	missense
+FGFR2	NSCLC	p.K660N	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	25035393	Receptor Tyrosine Kinases	missense
+FGFR2	STAD	CNA	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Clinical Trials	ASCO 2015 (abstr 2508)	Receptor Tyrosine Kinases	NOS
+FGFR2	UCEC	550	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	550	Resistant	SageDB	dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.E566G	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.E566G	Resistant	SageDB	dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.I548V	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.I548V	Resistant	SageDB	dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.K660E	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.K660E	Resistant	SageDB	dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.L618M	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.L618M	Resistant	SageDB	dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.M536I	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.M536I	Resistant	SageDB	dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.M538I	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.M538I	Resistant	SageDB	dovitinib	FGFR inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.N549K	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	18552176, 22238366, 23002168	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.S252W	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	18552176, 22238366, 23002168	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.V565I	Sensitive	SageDB	selective FGFR inhibitor	FGFR inhibitor	Preclinical	ENA 2014 (abstr 381)	Receptor Tyrosine Kinases	missense
+FGFR2	UCEC	p.V565I	Resistant	SageDB	ponatinib	KIT inhibitor	Preclinical	23908597	Receptor Tyrosine Kinases	missense
+FGFR3	BLCA	any	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Case Reports	AACR 2014 (abstr CT325)	Receptor Tyrosine Kinases	Fusion
+FGFR3	BLCA	p.S773F	Sensitive	CancerDR	PD173074	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+FGFR3	GBM	any	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Clinical Trials	ASCO 2014 (abstr 2501)	Receptor Tyrosine Kinases	Fusion
+FGFR3	MM	650	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	16091734, 20439987	Receptor Tyrosine Kinases	missense
+FGFR3	MM	p.V555M	Resistant	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	22869148	Receptor Tyrosine Kinases	missense
+FGFR3	MM	p.Y373C	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	22869148	Receptor Tyrosine Kinases	missense
+FGFR3	MM	p.Y373C	Resistant	SageDB	bortezomib	Proteasome inhibitor	Preclinical	19331127, 21273588	Receptor Tyrosine Kinases	missense
+FGFR4	SARC	535	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	19809159, 24124571	Receptor Tyrosine Kinases	missense
+FGFR4	SARC	550	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	19809159, 24124571	Receptor Tyrosine Kinases	missense
+FIP1L1-PDGFRA	MPD	any	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	FDA Approved	12660384	Unspecified	Fusion
+FLT1	LAML	p.S1277N	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+FLT3	DLBC	p.V592A	Sensitive	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+FLT3	LAML	676	Sensitive	SageDB	crenolanib, PKC412	FLT3 inhibitor	Preclinical	24619500	Receptor Tyrosine Kinases	missense
+FLT3	LAML	676	Resistant	SageDB	quizartinib	FLT3 inhibitor	Preclinical	23878140	Receptor Tyrosine Kinases	missense
+FLT3	LAML	691	Sensitive	SageDB	novel FLT3 inhibitors	FLT3 inhibitor	Preclinical	25847190	Receptor Tyrosine Kinases	missense
+FLT3	LAML	691	Resistant	SageDB	quizartinib	FLT3 inhibitor	Preclinical	22504184	Receptor Tyrosine Kinases	missense
+FLT3	LAML	835	Sensitive	SageDB	lestaurtinib	FLT3 inhibitor	Case Reports	16857985	Receptor Tyrosine Kinases	missense
+FLT3	LAML	835	Resistant	SageDB	sorafenib	Angiogenesis inhibitor	Case Reports	22368270	Receptor Tyrosine Kinases	missense
+FLT3	LAML	842	Sensitive	SageDB	crenolanib, PKC412	FLT3 inhibitor	Preclinical	24619500	Receptor Tyrosine Kinases	missense
+FLT3	LAML	842	Resistant	SageDB	ponatinib	KIT inhibitor	Preclinical	23430109	Receptor Tyrosine Kinases	missense
+FLT3	LAML	p.V592A	Sensitive	CancerDR	Sunitinib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+FLT3	NSCLC	p.P937H	Sensitive	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+FLT3	NSCLC	p.Q910*	Resistant	CancerDR	CEP701	FLT3 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	nonsense
+FLT3	UCEC	p.R311W	Sensitive	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+FRS2	SARC	CNA	Sensitive	SageDB	FGFR inhibitors	FGFR inhibitor	Preclinical	23393200	Unspecified	NOS
+GNA11	SKCM	p.Q209L	Sensitive	SageDB	selumetinib	MEK inhibitor	Clinical Trials	ASCO 2013 (abstr CRA9003)	Unspecified	missense
+GNA11	SKCM	p.Q209P	Sensitive	SageDB	selumetinib	MEK inhibitor	Clinical Trials	ASCO 2013 (abstr CRA9003)	Unspecified	missense
+GNAQ	SKCM	209	Sensitive	SageDB	selumetinib	MEK inhibitor	Clinical Trials	ASCO 2013 (abstr CRA9003)	Unspecified	missense
+GNAS	---	201	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	21835143	Granins	missense
+HDAC2	LAML	p.P5S	Resistant	CancerDR	MS275	HDAC inhibitor	Preclinical	23486013	Unspecified	missense
+HDAC3	LAML	p.P23R	Resistant	CancerDR	Vorinostat	HDAC inhibitor	Preclinical	23486013	Unspecified	missense
+HDAC8	PRAD	p.R223fs	Resistant	CancerDR	Vorinostat	HDAC inhibitor	Preclinical	23486013	X-linked mental retardation	frame_shift_del_unspecified
+HGF	BRCA	CNA	Resistant	SageDB	trastuzumab in HER2-ampl	HER-2 inhibitor	Clinical Trials	22850551	Unspecified	NOS
+HRAS	CESC	12	Sensitive	SageDB	mTOR inhibitors	mTOR inhibitor	Preclinical	22345164	RAS type family GTPases	missense
+HSP90AA1	NSCLC	p.R467Q	Resistant	CancerDR	AUY922	Hsp90 inhibitor	Preclinical	23486013	Heat shock 90kDa proteins	missense
+HSP90AB1	LIHC	p.V575A	Resistant	CancerDR	17AAG	Hsp90 inhibitor	Preclinical	23486013	Heat shock 90kDa proteins	missense
+HSP90AB4P	LAML	p.I354in_frame_del	Resistant	CancerDR	17AAG	Hsp90 inhibitor	Preclinical	23486013	Unspecified	in_frame_del
+HSP90B1	BLCA	p.E791in_frame_del	Resistant	CancerDR	17AAG	Hsp90 inhibitor	Preclinical	23486013	Heat shock 90kDa proteins	in_frame_del
+HSP90B1	COADREAD	p.E791in_frame_del	Resistant	CancerDR	AUY922	Hsp90 inhibitor	Preclinical	23486013	Heat shock 90kDa proteins	in_frame_del
+HSP90B1	LAML	p.E791in_frame_del	Resistant	CancerDR	17AAG	Hsp90 inhibitor	Preclinical	23486013	Heat shock 90kDa proteins	in_frame_del
+HSP90B1	LIHC	p.E791in_frame_del	Resistant	CancerDR	17AAG	Hsp90 inhibitor	Preclinical	23486013	Heat shock 90kDa proteins	in_frame_del
+HSP90B1	NSCLC	p.E758Q	Resistant	CancerDR	17AAG	Hsp90 inhibitor	Preclinical	23486013	Heat shock 90kDa proteins	missense
+HSP90B3P	COADREAD	p.K348fs	Resistant	CancerDR	AUY922	Hsp90 inhibitor	Preclinical	23486013	Unspecified	frame_shift_del_unspecified
+IDH1	GBM	p.R132H	Sensitive	SageDB	IDH1 inhibitor	IDH inhibitor	Preclinical	23558169	Unspecified	missense
+IDH2	LAML	p.R140Q	Sensitive	SageDB	IDH2 inhibitor	IDH inhibitor	Clinical Trials	AACR 2014 (abstr CT103)	Unspecified	missense
+IDH2	LAML	p.R172K	Sensitive	SageDB	IDH2 inhibitor	IDH inhibitor	Clinical Trials	AACR 2014 (abstr CT103)	Unspecified	missense
+IGF1R	COADREAD	p.A828T	Sensitive	CancerDR	AEW541	IGF-1R inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+IGF1R	LAML	p.D1146N	Sensitive	CancerDR	AEW541	IGF-1R inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+IGF1R	LUAD	Expression	Resistant	SageDB	erlotinib	EGFR inhibitor (1st or 2nd gen)	Preclinical	24458568	Receptor Tyrosine Kinases	NOS
+IGF1R	MPNST	p.L360F	Sensitive	CancerDR	OSI906	IGF-1R inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+IL2RA	CTCL	Expression	Sensitive	MyCancerGenome	denileukin diftitox	CD25 antibody-drug conjugate	FDA Approved	20212249	Interleukin receptors	NOS
+INI1	SARC	CNL	Sensitive	SageDB	EZH2 inhibitor	EZH2 inhibitor	Case Reports	ENA 2014 (abstr 6LBA)	Unspecified	NOS
+JAK1	ALL	p.S646F	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	Preclinical	22955920	TK	missense
+JAK2	ALL	683	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	Preclinical	18805579, 22955920	SH2 domain containing	missense
+JAK2	ALL	any	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	Preclinical	22875628, 22899477	SH2 domain containing	Fusion
+JAK2	LAML	p.V617F	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	Clinical Trials	22422826	SH2 domain containing	missense
+JAK2	MPD	p.V617F	Sensitive	SageDB	ruxolitinib	JAK kinase inhibitor	FDA Approved	26975727	SH2 domain containing	missense
+JAK3	DLBC	p.A572V	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	22705984	TK	missense
+JAK3	DLBC	p.A573V	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	22705984	TK	missense
+JAK3	LAML	p.I87T	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	18397343	TK	missense
+JAK3	LAML	p.Q501H	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	18397343	TK	missense
+JAK3	LAML	p.R657Q	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	18397343	TK	missense
+KDR	---	p.A1065T	Sensitive	SageDB	VEGFR inhibitors	Angiogenesis inhibitor	Preclinical	24569783	V-set domain containing	missense
+KDR	COADREAD	p.G424D	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	COADREAD	p.H1213Q	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	COADREAD	p.I915T	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	LAML	p.E685G	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	NSCLC	p.D392N	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	NSCLC	p.G1145R	Sensitive	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	NSCLC	p.G255R	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	NSCLC	p.Q2R	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	V-set domain containing	missense
+KDR	NSCLC	p.R791Q	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	V-set domain containing	missense
+KIF5B-RET	LUAD	any	Sensitive	PCT	cabozantinib	Angiogenesis inhibitor	Case Reports	23533264	Unspecified	Fusion
+KIT	COADREAD	p.M882V	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+KIT	GIST	670	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	GIST	816	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	GIST	822	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	GIST	Expression	Sensitive	MyCancerGenome	imatinib	KIT inhibitor	FDA Approved	18235121	Receptor Tyrosine Kinases	NOS
+KIT	GIST	Wild Type	Sensitive	SageDB	sunitinib	Angiogenesis inhibitor	Clinical Trials	18955458	Receptor Tyrosine Kinases	NOS
+KIT	GIST	Wild Type	Resistant	SageDB	imatinib	KIT inhibitor	Clinical Trials	14645423	Receptor Tyrosine Kinases	NOS
+KIT	GIST	exon p.449-514	Sensitive	SageDB	imatinib, sunitinib, regorafenib	KIT inhibitor,Angiogenesis inhibitor	FDA Approved	16624552; 14645423	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.449-514	Resistant	SageDB	imatinib (low dose)	KIT inhibitor	Clinical Trials	18955458, 18955451, 16624552	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.450-513	Sensitive	MyCancerGenome	sunitinib	Angiogenesis inhibitor	Clinical Trials	18955458; 21104107	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.550-591	Sensitive	MyCancerGenome	imatinib	KIT inhibitor	FDA Approved	18955451; FDA approved for KIT-mutated GIST	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.550-591 	Sensitive	MyCancerGenome	imatinib	KIT inhibitor	FDA Approved	16624552; FDA approved for KIT-mutated GIST	Receptor Tyrosine Kinases	in_frame_del
+KIT	GIST	exon p.550-592	Sensitive	SageDB	imatinib, sunitinib, regorafenib	KIT inhibitor,Angiogenesis inhibitor	FDA Approved	18955451; FDA approved for KIT-mutated GIST	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.627-663	Sensitive	MyCancerGenome	sunitinib	Angiogenesis inhibitor	Case Reports	18955451	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.627-664	Sensitive	SageDB	sunitinib	Angiogenesis inhibitor	Clinical Trials	18955458	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.664-714	Sensitive	SageDB	sunitinib	Angiogenesis inhibitor	Clinical Trials	18955458	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.788-828	Resistant	SageDB	imatinib, sunitinib	KIT inhibitor,Angiogenesis inhibitor	Preclinical	23840364	Receptor Tyrosine Kinases	missense
+KIT	GIST	exon p.829-860	Sensitive	SageDB	ponatinib	KIT inhibitor	Clinical Trials	ASCO 2015 (abstr 10517)	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.502in_frame_insSA	Sensitive	MyCancerGenome	sunitinib	Angiogenesis inhibitor	Clinical Trials	18955458; 21104107	Receptor Tyrosine Kinases	in_frame_ins
+KIT	GIST	p.A829P	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	25239608	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.A829P	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.D419in_frame_del	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	23599150	Receptor Tyrosine Kinases	in_frame_del
+KIT	GIST	p.H687Y	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.K642E	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Clinical Trials	16954519	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.N655K	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	25239608	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.T670I	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	25239608	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.T670I	Resistant	SageDB	imatinib	KIT inhibitor	Case Reports	24687822	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.V559I	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.V654A	Sensitive	SageDB	ponatinib	KIT inhibitor	Preclinical	25239608	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.V654A	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	GIST	p.Y823D	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	23582185, 21689725, 17259998	Receptor Tyrosine Kinases	missense
+KIT	LAML	p.D816V	Sensitive	SageDB	dasatinib	KIT inhibitor	Case Reports	18986703	Receptor Tyrosine Kinases	missense
+KIT	LAML	p.L160W	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+KIT	LAML	p.N822K	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	23149070	Receptor Tyrosine Kinases	missense
+KIT	LAML	p.N822K	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+KIT	MPD	p.D52N	Sensitive	PCT	SCF	KIT inhibitor	Case Reports	9168438	Receptor Tyrosine Kinases	missense
+KIT	MPD	p.K509I	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	16183119	Receptor Tyrosine Kinases	missense
+KIT	SKCM	CNA	Sensitive	SageDB	sunitinib	Angiogenesis inhibitor	Clinical Trials	22261812	Receptor Tyrosine Kinases	NOS
+KIT	SKCM	CNA	Resistant	SageDB	imatinib	KIT inhibitor	Clinical Trials	23775962	Receptor Tyrosine Kinases	NOS
+KIT	SKCM	exon p.550-592	Sensitive	SageDB	imatinib	KIT inhibitor	FDA Approved	23775962	Receptor Tyrosine Kinases	missense
+KIT	SKCM	exon p.627-664	Sensitive	SageDB	imatinib	KIT inhibitor	FDA Approved	23775962	Receptor Tyrosine Kinases	missense
+KIT	SKCM	exon p.788-828	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Case Reports	20372153	Receptor Tyrosine Kinases	missense
+KIT	SKCM	exon p.788-828	Resistant	SageDB	imatinib	KIT inhibitor	Clinical Trials	21690468, 21642685	Receptor Tyrosine Kinases	missense
+KIT	SKCM	exon p.829-860	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Case Reports	20372153	Receptor Tyrosine Kinases	missense
+KIT	SKCM	exon p.829-860	Resistant	SageDB	imatinib	KIT inhibitor	Clinical Trials	21690468, 21642685	Receptor Tyrosine Kinases	missense
+KIT	SKCM	p.D820Y	Sensitive	SageDB	nilotinib	KIT inhibitor	Case Reports	25695690	Receptor Tyrosine Kinases	missense
+KIT	SKCM	p.K642E	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	18510589	Receptor Tyrosine Kinases	missense
+KIT	SKCM	p.L576P	Sensitive	MyCancerGenome	KIT inhibitors	KIT inhibitor	Case Reports	19671763	Receptor Tyrosine Kinases	missense
+KIT	SKCM	p.V559A	Sensitive	MyCancerGenome	KIT inhibitors	KIT inhibitor	Case Reports	19718013	Receptor Tyrosine Kinases	missense
+KIT	SKCM	p.W557R	Sensitive	MyCancerGenome	KIT inhibitors	KIT inhibitor	Case Reports	19018266	Receptor Tyrosine Kinases	missense
+KIT	THCA	p.V560in_frame_del	Sensitive	MyCancerGenome	sunitinib (KIT inhibitor)	Angiogenesis inhibitor, KIT inhibitor	Case Reports	15201427	Receptor Tyrosine Kinases	in_frame_del
+KIT	THCA	p.Y553N	Sensitive	MyCancerGenome	imatinib (KIT inhibitor)	KIT inhibitor	Case Reports	21969494	Receptor Tyrosine Kinases	missense
+KIT	THYM	p.D820E	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Case Reports	19461405	Receptor Tyrosine Kinases	missense
+KIT	THYM	p.H697Y	Sensitive	SageDB	sunitinib	Angiogenesis inhibitor	Preclinical	19861435	Receptor Tyrosine Kinases	missense
+KIT	THYM	p.V560in_frame_del	Sensitive	SageDB	imatinib	KIT inhibitor	Case Reports	15201427	Receptor Tyrosine Kinases	in_frame_del
+KIT	THYM	p.Y553N	Sensitive	SageDB	sunitinib	Angiogenesis inhibitor	Case Reports	23375402	Receptor Tyrosine Kinases	missense
+KLC1-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+KRAS	ALL	12	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	18701506	RAS type family GTPases	missense
+KRAS	CESC	12	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	22169769	RAS type family GTPases	missense
+KRAS	CESC	13	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	22169769	RAS type family GTPases	missense
+KRAS	CESC	61	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	22169769	RAS type family GTPases	missense
+KRAS	CHOL	12	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Clinical Trials	23391555	RAS type family GTPases	missense
+KRAS	CHOL	13	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Clinical Trials	23391555	RAS type family GTPases	missense
+KRAS	CHOL	61	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Clinical Trials	23391555	RAS type family GTPases	missense
+KRAS	COADREAD	12	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	RAS type family GTPases	missense
+KRAS	COADREAD	12	Resistant	SageDB	panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	24024839	RAS type family GTPases	missense
+KRAS	COADREAD	13	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	RAS type family GTPases	missense
+KRAS	COADREAD	13	Resistant	SageDB	panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	24024839	RAS type family GTPases	missense
+KRAS	COADREAD	146	Sensitive	SageDB	MEK inhibitors + PI3K pathway inhibitors	MEK inhibitor + PI3K inhibitor	Preclinical	22392911	RAS type family GTPases	missense
+KRAS	COADREAD	146	Resistant	SageDB	cetuximab, panitumumab	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739, 21163703, 23325582	RAS type family GTPases	missense
+KRAS	COADREAD	61	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	RAS type family GTPases	missense
+KRAS	COADREAD	61	Resistant	SageDB	panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	24024839	RAS type family GTPases	missense
+KRAS	COADREAD	CNA	Resistant	SageDB	BRAF inhibitor + MEK inhibitor/anti-EGFR mAb	B-Raf inhibitor + MEK inhibitor/EGFR inhibitor (1st or 2nd gen)	Case Reports	ENA 2014 (abstr 428)	RAS type family GTPases	NOS
+KRAS	COADREAD	Wild Type	Sensitive	SageDB	panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	24024839	RAS type family GTPases	NOS
+KRAS	COADREAD	p.G13D	Sensitive	SageDB	cetuximab	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20978259; 22734028	RAS type family GTPases	missense
+KRAS	COADREAD	p.K117N	Resistant	MyCancerGenome	cetuximab/panitumumab (anti-EGFR antibodies)	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	26952655	RAS type family GTPases	missense
+KRAS	GIST	12	Resistant	SageDB	imatinib	KIT inhibitor	Case Reports	24687822	RAS type family GTPases	missense
+KRAS	LIHC	12	Sensitive	SageDB	sorafenib + MEK inhibitor	Angiogenesis inhibitor + MEK inhibitor	Clinical Trials	25294897	RAS type family GTPases	missense
+KRAS	LIHC	13	Sensitive	SageDB	sorafenib + MEK inhibitor	Angiogenesis inhibitor + MEK inhibitor	Clinical Trials	25294897	RAS type family GTPases	missense
+KRAS	LIHC	61	Sensitive	SageDB	sorafenib + MEK inhibitor	Angiogenesis inhibitor + MEK inhibitor	Clinical Trials	25294897	RAS type family GTPases	missense
+KRAS	MM	12	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	22985491	RAS type family GTPases	missense
+KRAS	MM	13	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	22985491	RAS type family GTPases	missense
+KRAS	MM	61	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	22985491	RAS type family GTPases	missense
+KRAS	NSCLC	12	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Clinical Trials	25516890	RAS type family GTPases	missense
+KRAS	NSCLC	13	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Clinical Trials	25516890	RAS type family GTPases	missense
+KRAS	NSCLC	61	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Clinical Trials	25516890	RAS type family GTPases	missense
+KRAS	OV	12	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Clinical Trials	25500057, 25516890	RAS type family GTPases	missense
+KRAS	OV	13	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Clinical Trials	25500057, 25516890	RAS type family GTPases	missense
+KRAS	OV	61	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Clinical Trials	25500057, 25516890	RAS type family GTPases	missense
+KRAS	PAAD	12	Sensitive	SageDB	gemcitabine + MEK inhibitors	anti-metabolite + MEK inhibitor	Clinical Trials	23583440	RAS type family GTPases	missense
+KRAS	PAAD	12	Resistant	SageDB	PI3K pathway inhibitors + MEK inhibitor	PI3K inhibitor + MEK inhibitor	Clinical Trials	ASCO 2015 (abstr 4119)	RAS type family GTPases	missense
+KRAS	PAAD	13	Sensitive	SageDB	gemcitabine + MEK inhibitors	anti-metabolite + MEK inhibitor	Clinical Trials	23583440	RAS type family GTPases	missense
+KRAS	PAAD	13	Resistant	SageDB	PI3K pathway inhibitors + MEK inhibitor	PI3K inhibitor + MEK inhibitor	Clinical Trials	ASCO 2015 (abstr 4119)	RAS type family GTPases	missense
+KRAS	PAAD	61	Sensitive	SageDB	gemcitabine + MEK inhibitors	anti-metabolite + MEK inhibitor	Clinical Trials	23583440	RAS type family GTPases	missense
+KRAS	PAAD	61	Resistant	SageDB	PI3K pathway inhibitors + MEK inhibitor	PI3K inhibitor + MEK inhibitor	Clinical Trials	ASCO 2015 (abstr 4119)	RAS type family GTPases	missense
+KRAS	STAD	12	Resistant	SageDB	anti-EGFR mAbs	EGFR inhibitor (1st or 2nd gen)	Preclinical	22614881, 22290393	RAS type family GTPases	missense
+KRAS	STAD	13	Resistant	SageDB	anti-EGFR mAbs	EGFR inhibitor (1st or 2nd gen)	Preclinical	22614881, 22290393	RAS type family GTPases	missense
+KRAS	UCEC	12	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	21984976, 22662154	RAS type family GTPases	missense
+KRAS	UCEC	12	Resistant	SageDB	PI3K pathway inhibitors	PI3K inhibitor	Preclinical	22662154	RAS type family GTPases	missense
+KRAS	UCEC	13	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	21984976, 22662154	RAS type family GTPases	missense
+KRAS	UCEC	13	Resistant	SageDB	PI3K pathway inhibitors	PI3K inhibitor	Preclinical	22662154	RAS type family GTPases	missense
+KRAS	UCEC	61	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	21984976, 22662154	RAS type family GTPases	missense
+KRAS	UCEC	61	Resistant	SageDB	PI3K pathway inhibitors	PI3K inhibitor	Preclinical	22662154	RAS type family GTPases	missense
+LRP1B	OV	Expression	Sensitive	SageDB	liposomal doxorubicin	Antineoplastic	Clinical Trials	22896685	Low density lipoprotein receptors	NOS
+MAP2K1	---	115	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	124	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	124	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.D67N	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.E120D	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.F129L	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.F129L	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.F133L	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.G128D	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.H119P	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.I103N	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.I103N	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.I111N	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.I99T	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.K104N	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.L215P	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.L215P	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.Q56P	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	---	p.V211D	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	LAML	p.R49C	Resistant	CancerDR	RDEA119	MEK inhibitor	Preclinical	23486013	Mitogen-activated protein kinase kinases	missense
+MAP2K1	NSCLC	p.Y134C	Resistant	CancerDR	CI1040	MEK inhibitor	Preclinical	23486013	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	124	Sensitive	SageDB	MEK inhibitors, ERK inhibitors	MEK inhibitor	Preclinical	25370473	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	124	Resistant	SageDB	BRAF inhibitors	B-Raf inhibitor	Clinical Trials	25370473	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.C121S	Sensitive	SageDB	novel MEK inhibitors	MEK inhibitor	Preclinical	24448821	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.C121S	Resistant	SageDB	BRAF inhibitors, MEK inhibitors	B-Raf inhibitor,MEK inhibitor	Case Reports	21383288	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.E203K	Resistant	SageDB	vemurafenib	B-Raf inhibitor	Case Reports	23569304	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.I111S	Sensitive	SageDB	BRAF inhibitors in BRAF mutant tumor	B-Raf inhibitor	Case Reports	22588879	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.K57E	Resistant	SageDB	vemurafenib	B-Raf inhibitor	Case Reports	23569304	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.K57N	Resistant	SageDB	MEK inhibitors	MEK inhibitor	Case Reports	23444215	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.P124L	Resistant	SageDB	BRAF inhibitors, MEK inhibitors	B-Raf inhibitor,MEK inhibitor	Case Reports	19915144	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.P124S	Sensitive	SageDB	BRAF inhibitors in BRAF mutant tumor	B-Raf inhibitor	Case Reports	22588879	Mitogen-activated protein kinase kinases	missense
+MAP2K1	SKCM	p.Q56P	Resistant	SageDB	vemurafenib	B-Raf inhibitor	Case Reports	23569304	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.C125S	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.C125S	Resistant	SageDB	BRAF inhibitors, MEK inhibitors	B-Raf inhibitor,MEK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.L46F	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.L46F	Resistant	SageDB	BRAF inhibitors, MEK inhibitors	B-Raf inhibitor,MEK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.N126D	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.N126D	Resistant	SageDB	BRAF inhibitors, MEK inhibitors	B-Raf inhibitor,MEK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.Q60P	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	24265154	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.Q60P	Resistant	SageDB	BRAF + MEK inhibitors	B-Raf inhibitor + MEK inhibitor	Case Reports	24265154	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.V35M	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAP2K2	SKCM	p.V35M	Resistant	SageDB	BRAF inhibitors, MEK inhibitors	B-Raf inhibitor,MEK inhibitor	Preclinical	24265153	Mitogen-activated protein kinase kinases	missense
+MAPK14	LAML	p.E71K	Sensitive	CancerDR	VX702	MAPK inhibitor	Preclinical	23486013	Mitogen-activated protein kinases	missense
+MAPK14	NSCLC	p.P322R	Sensitive	CancerDR	BIRB0796	MAPK inhibitor	Preclinical	23486013	Mitogen-activated protein kinases	missense
+MAPK8	COADREAD	p.C79Y	Resistant	CancerDR	JNK9L	Not Otherwise Specified	Preclinical	23486013	Mitogen-activated protein kinases	missense
+MCL1	---	Expression	Resistant	SageDB	anti-tubulin agents	tubulin inhibitor	Preclinical	21368834	Unspecified	NOS
+MDM2	COADREAD	p.C314Y	Resistant	CancerDR	Nutlin3	MDM2 inhibitor	Preclinical	23486013	Zinc fingers, RAN binding-type	missense
+MDM2	OV	p.K369fs	Resistant	CancerDR	Nutlin3	MDM2 inhibitor	Preclinical	23486013	Zinc fingers, RAN binding-type	frame_shift_del_unspecified
+MDM2	SARC	CNA	Sensitive	SageDB	MDM2 inhibitors (tumors TP53 wt)	MDM2 inhibitor	Clinical Trials	23084521, ASCO 2015 (abstr 10564)	Zinc fingers, RAN binding-type	NOS
+MDM4	SARC	CNA	Sensitive	SageDB	MDM2/MDMX inhibitors	MDM2 inhibitor	Preclinical	24336067	Unspecified	NOS
+MET	---	p.H1049R	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	17483355	Receptor Tyrosine Kinases	missense
+MET	---	p.H1112L	Sensitive	SageDB	MET inhibitors	c-Met inhibitor	Preclinical	AACR 2012 (abstr 1786)	Receptor Tyrosine Kinases	missense
+MET	---	p.M1250I	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	17483355	Receptor Tyrosine Kinases	missense
+MET	---	p.R988C	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	17483355	Receptor Tyrosine Kinases	missense
+MET	---	p.T1010I	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	17483355	Receptor Tyrosine Kinases	missense
+MET	---	p.V1092I	Sensitive	SageDB	crizotinib	c-Met inhibitor	Preclinical	17483355	Receptor Tyrosine Kinases	missense
+MET	---	p.Y1230C	Resistant	SageDB	crizotinib	c-Met inhibitor	Preclinical	17483355	Receptor Tyrosine Kinases	missense
+MET	---	p.Y1235D	Resistant	SageDB	crizotinib	c-Met inhibitor	Preclinical	17483355	Receptor Tyrosine Kinases	missense
+MET	BRCA	CNA	Resistant	SageDB	trastuzumab in HER2-amplified	HER-2 inhibitor	Clinical Trials	22850551	Receptor Tyrosine Kinases	NOS
+MET	DLBC	p.D1240N	Sensitive	CancerDR	PHA665752	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+MET	ESCA	p.E815D	Resistant	CancerDR	PF2341066	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+MET	GBM	CNA	Sensitive	SageDB	crizotinib	c-Met inhibitor	Case Reports	22162573	Receptor Tyrosine Kinases	NOS
+MET	GBM	any	Sensitive		crizotinib	c-Met inhibitor	Case Reports	27748748	Receptor Tyrosine Kinases	Fusion
+MET	KIRC	CNA	Sensitive	SageDB	MET inhibitors	c-Met inhibitor	Clinical Trials	23213094	Receptor Tyrosine Kinases	NOS
+MET	KIRC	p.H1094R	Sensitive	SageDB	MET inhibitors	c-Met inhibitor	Clinical Trials	23213094	Receptor Tyrosine Kinases	missense
+MET	KIRC	p.M1268T	Sensitive	SageDB	MET inhibitors	c-Met inhibitor	Case Reports	23610116	Receptor Tyrosine Kinases	missense
+MET	LAML	p.L530V	Resistant	CancerDR	PHA665752	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+MET	LUAD	CNA	Sensitive	SageDB	crizotinib	c-Met inhibitor	Clinical Trials	ASCO 2014 (abstr 8001), ASCO 2015 (abstr 2595)	Receptor Tyrosine Kinases	NOS
+MET	LUAD	CNA	Resistant	SageDB	EGFR TKIs (EGFR mutant disease)	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	ASCO 2015 (abstr 8089)	Receptor Tyrosine Kinases	NOS
+MET	NSCLC	CNA	Resistant	MyCancerGenome	EGFR TKIs	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	18093943	Receptor Tyrosine Kinases	NOS
+MET	NSCLC	p.V941L	Resistant	CancerDR	PHA665752	c-Met inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+MET	STAD	CNA	Sensitive	SageDB	MET inhibitors	c-Met inhibitor	Case Reports	22042947, ASCO GI 2015 (abstr 1)	Receptor Tyrosine Kinases	NOS
+MET	STAD	CNA	Resistant	SageDB	lapatinib in HER2-amplified	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	22238368	Receptor Tyrosine Kinases	NOS
+MGMT	GBM	CNL	Sensitive	SageDB	temozolomide	Antineoplastic	Clinical Trials	15758010	Unspecified	NOS
+MITF	SKCM	CNA	Resistant	SageDB	BRAF inhibitors	B-Raf inhibitor	Case Reports	24265153	Basic helix-loop-helix proteins	NOS
+MLL	LAML	any	Sensitive	SageDB	daunorubicin	Topoisomerase inhibitor	FDA Approved	22417203	Unspecified	Fusion
+MPL	MPD	p.W515F	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	16834459	Fibronectin type III domain containing	missense
+MS4A1	CLL	Expression	Sensitive	MyCancerGenome	anti-CD20	CD20 inhibitor	FDA Approved	20194866	CD molecules	NOS
+MS4A1	DLBC	Expression	Sensitive	MyCancerGenome	anti-CD20	CD20 inhibitor	FDA Approved	16648042	Unspecified	NOS
+MTOR	---	p.F2108L	Sensitive	SageDB	mTOR kinase inhibitors	mTOR inhibitor	Preclinical	25295501	GO Protein Kinase	missense
+MTOR	---	p.L1460P	Sensitive	SageDB	rapamycin	mTOR inhibitor	Preclinical	24631838	GO Protein Kinase	missense
+MTOR	---	p.R2505P	Sensitive	SageDB	rapamycin	mTOR inhibitor	Preclinical	24631838	GO Protein Kinase	missense
+MTOR	---	p.S2215Y	Sensitive	SageDB	rapamycin	mTOR inhibitor	Preclinical	24631838	GO Protein Kinase	missense
+MTOR	BLCA	p.E2014K	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	24625776	GO Protein Kinase	missense
+MTOR	BLCA	p.E2419K	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	24625776	GO Protein Kinase	missense
+MTOR	BLCA	p.N1421D	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	ASCO 2015 (abstr 11010)	GO Protein Kinase	missense
+MTOR	GBM	p.R1208C	Resistant	CancerDR	AZD8055	mTOR inhibitor	Preclinical	23486013	GO Protein Kinase	missense
+MTOR	KIRC	p.Q2223K	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	24622468	GO Protein Kinase	missense
+MTOR	NSCLC	p.A1134V	Resistant	CancerDR	AZD8055	mTOR inhibitor	Preclinical	23486013	GO Protein Kinase	missense
+MTOR	SARC	p.I1973F	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	ASCO 2015 (abstr 11010)	GO Protein Kinase	missense
+MTOR	SKCM	p.P453L	Resistant	CancerDR	AZD8055	mTOR inhibitor	Preclinical	23486013	GO Protein Kinase	missense
+MTOR	SKCM	p.R2152C	Resistant	CancerDR	Temsirolim	mTOR inhibitor	Preclinical	23486013	GO Protein Kinase	missense
+MTOR	STAD	p.K1771R	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	ASCO 2015 (abstr 11010)	GO Protein Kinase	missense
+MTOR	THCA	p.F2108L	Resistant	SageDB	everolimus	mTOR inhibitor	Case Reports	25295501	GO Protein Kinase	missense
+MYC	MM	CNA	Sensitive	SageDB	BET inhibitors	BET inhibitor	Preclinical	21889194	Basic helix-loop-helix proteins	NOS
+MYC	NB	CNA	Sensitive	SageDB	CDK7 inhibitors	CDK inhibitor	Preclinical	25416950	Basic helix-loop-helix proteins	NOS
+MYC	PRAD	CNA	Sensitive	SageDB	PIM inhibitors	Pim-1 inhibitor	Preclinical	25505253	Basic helix-loop-helix proteins	NOS
+MYCN	MM	CNA	Sensitive	SageDB	BET inhibitors	BET inhibitor	Preclinical	21889194	Basic helix-loop-helix proteins	NOS
+MYCN	NB	CNA	Sensitive	SageDB	BET inhibitors	BET inhibitor	Preclinical	23430699	Basic helix-loop-helix proteins	NOS
+MYD88	DLBC	p.L265P	Sensitive	SageDB	JAK inhibitors	JAK kinase inhibitor	Preclinical	21179087	Unspecified	missense
+NF1	GBM	CNL	Sensitive	SageDB	mTOR inhibitors	mTOR inhibitor	Preclinical	19573811	Unspecified	NOS
+NF1	HNSC	p.D1644A	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	ASCO 2015 (abstr 11010)	Unspecified	missense
+NF1	MPNST	CNL	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	23221341,  23858101	Unspecified	NOS
+NF1	SKCM	CNL	Resistant	SageDB	MEK inhibitors in BRAF mutant tumors	MEK inhibitor	Case Reports	23444215, 23288408	Unspecified	NOS
+NF2	MESO	CNL	Sensitive	SageDB	FAK inhibitors	FAK inhibitor	Clinical Trials	ENA 2012 (abstr 610)	A-kinase anchor proteins	NOS
+NF2	MESO	Expression	Resistant	MyCancerGenome	FAK inhibitor	FAK inhibitor	Preclinical	24848258	A-kinase anchor proteins	NOS
+NF2	MPNST	CNL	Sensitive	SageDB	PAK inhibitors	PAK inhibitor	Clinical Trials	23960073	A-kinase anchor proteins	NOS
+NF2	OV	Expression	Resistant	MyCancerGenome	FAK inhibitor	FAK inhibitor	Preclinical	24786638	A-kinase anchor proteins	NOS
+NOTCH1	ALL	any	Sensitive	SageDB	Gamma secretase inhibitors	Gamma secretease inhibitor	Preclinical	16688224, 23033986	Ankyrin repeat domain containing	Fusion
+NOTCH1	ALL	exon p.1529-1723	Sensitive	SageDB	steroids early setting	steroid	Clinical Trials	20861909, 20861920, 20944675	Ankyrin repeat domain containing	missense
+NOTCH1	ALL	exon p.2245-2536	Sensitive	SageDB	steroids early setting	steroid	Clinical Trials	20861909, 20861920, 20944675	Ankyrin repeat domain containing	missense
+NOTCH1	BRCA	any	Sensitive	SageDB	Gamma secretase inhibitors	Gamma secretease inhibitor	Preclinical	22101766	Ankyrin repeat domain containing	Fusion
+NOTCH1	BRCA	exon p.2245-2536	Sensitive	SageDB	Gamma secretase inhibitors	Gamma secretease inhibitor	Preclinical	25564152	Ankyrin repeat domain containing	missense
+NOTCH2	BRCA	any	Sensitive	SageDB	Gamma secretase inhibitors	Gamma secretease inhibitor	Preclinical	22101766	Ankyrin repeat domain containing	Fusion
+NOTCH2	BRCA	exon p.2010-2472	Sensitive	SageDB	Gamma secretase inhibitors	Gamma secretease inhibitor	Preclinical	25564152	Ankyrin repeat domain containing	missense
+NPM-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+NRAS	---	p.G12C	Sensitive	SageDB	ERK inhibitors	ERK inhibitor	Preclinical	23614898	RAS type family GTPases	missense
+NRAS	ALL	12	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	18701506	RAS type family GTPases	missense
+NRAS	ALL	13	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	18701506	RAS type family GTPases	missense
+NRAS	ALL	61	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	18701506	RAS type family GTPases	missense
+NRAS	COADREAD	12	Sensitive	SageDB	MEK inhibitors +/- PI3K pathway inhibitors	MEK inhibitor, PI3K inhibitor, MEK inhibitor + PI3K inhibitor	Preclinical	23274911, 22392911	RAS type family GTPases	missense
+NRAS	COADREAD	12	Resistant	SageDB	cetuximab, panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	24024839, 20619739, 23325582	RAS type family GTPases	missense
+NRAS	COADREAD	13	Sensitive	SageDB	MEK inhibitors +/- PI3K pathway inhibitors	MEK inhibitor, PI3K inhibitor, MEK inhibitor + PI3K inhibitor	Preclinical	23274911, 22392911	RAS type family GTPases	missense
+NRAS	COADREAD	13	Resistant	SageDB	cetuximab, panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	24024839, 20619739, 23325582	RAS type family GTPases	missense
+NRAS	COADREAD	61	Sensitive	SageDB	MEK inhibitors +/- PI3K pathway inhibitors	MEK inhibitor, PI3K inhibitor, MEK inhibitor + PI3K inhibitor	Preclinical	23274911, 22392911	RAS type family GTPases	missense
+NRAS	COADREAD	61	Resistant	SageDB	cetuximab, panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	24024839, 20619739, 23325582	RAS type family GTPases	missense
+NRAS	COADREAD	Wild Type	Sensitive	SageDB	cetuximab, panitumumab	EGFR inhibitor (1st or 2nd gen)	FDA Approved	20619739	RAS type family GTPases	NOS
+NRAS	COADREAD	p.G12A	Resistant	MyCancerGenome	EGFR monoclonal antibodies	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739	RAS type family GTPases	missense
+NRAS	COADREAD	p.G12C	Resistant	MyCancerGenome	EGFR monoclonal antibodies	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739	RAS type family GTPases	missense
+NRAS	COADREAD	p.G12D	Resistant	MyCancerGenome	EGFR monoclonal antibodies	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739	RAS type family GTPases	missense
+NRAS	COADREAD	p.G12S	Resistant	MyCancerGenome	EGFR monoclonal antibodies	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739	RAS type family GTPases	missense
+NRAS	COADREAD	p.G12V	Resistant	MyCancerGenome	EGFR monoclonal antibodies	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739	RAS type family GTPases	missense
+NRAS	COADREAD	p.Q61K	Resistant	MyCancerGenome	EGFR monoclonal antibodies	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739	RAS type family GTPases	missense
+NRAS	COADREAD	p.Q61R	Resistant	MyCancerGenome	EGFR monoclonal antibodies	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	20619739	RAS type family GTPases	missense
+NRAS	LAML	12	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	22507781	RAS type family GTPases	missense
+NRAS	LAML	13	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	22507781	RAS type family GTPases	missense
+NRAS	LAML	61	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	22507781	RAS type family GTPases	missense
+NRAS	LUAD	12	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	23515407	RAS type family GTPases	missense
+NRAS	LUAD	13	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	23515407	RAS type family GTPases	missense
+NRAS	LUAD	61	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Preclinical	23515407	RAS type family GTPases	missense
+NRAS	MM	12	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	22985491	RAS type family GTPases	missense
+NRAS	MM	13	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	22985491	RAS type family GTPases	missense
+NRAS	MM	61	Sensitive	SageDB	PI3K pathway inhibitors + MEK inhibitors	PI3K inhibitor + MEK inhibitor	Preclinical	22985491	RAS type family GTPases	missense
+NRAS	SKCM	61	Sensitive	SageDB	MEK inhibitors	MEK inhibitor	Clinical Trials	23414587	RAS type family GTPases	missense
+NRAS	SKCM	61	Resistant	SageDB	BRAF inhibitors	B-Raf inhibitor	Case Reports	23569304	RAS type family GTPases	missense
+NRAS	SKCM	p.Q61E	Sensitive	MyCancerGenome	MEK inhibitors	MEK inhibitor	Clinical Trials	23414587	RAS type family GTPases	missense
+NRAS	SKCM	p.Q61H	Sensitive	MyCancerGenome	MEK inhibitors	MEK inhibitor	Clinical Trials	23414587	RAS type family GTPases	missense
+NRAS	SKCM	p.Q61K	Sensitive	MyCancerGenome	MEK inhibitors	MEK inhibitor	Clinical Trials	23414587	RAS type family GTPases	missense
+NRAS	SKCM	p.Q61L	Sensitive	MyCancerGenome	MEK inhibitors	MEK inhibitor	Clinical Trials	23414587	RAS type family GTPases	missense
+NRAS	SKCM	p.Q61P	Sensitive	MyCancerGenome	MEK inhibitors	MEK inhibitor	Clinical Trials	23414587	RAS type family GTPases	missense
+NRAS	SKCM	p.Q61R	Sensitive	MyCancerGenome	MEK inhibitors	MEK inhibitor	Clinical Trials	23414587	RAS type family GTPases	missense
+NRG1	LUAD	any	Sensitive	SageDB	lapatinib	HER-2 inhibitor, EGFR inhibitor (1st or 2nd gen)	Preclinical	24727320	I-set domain containing	Fusion
+NTRK1	COADREAD	any	Sensitive	SageDB	pan-TRK inhibitor	Trk inhibitor	Case Reports	ASCO 2015 (abstr 2517)	Receptor Tyrosine Kinases	Fusion
+NTRK1	LUAD	any	Sensitive	SageDB	crizotinib	c-Met inhibitor	Case Reports	ASCO 2013 (abstr 8023)	Receptor Tyrosine Kinases	Fusion
+NTRK1	NSCLC	p.R748W	Resistant	CancerDR	CEP701	FLT3 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+NTRK3	BRCA	any	Sensitive	SageDB	midostaurin, IGF1R inhibitors, PI3K pathway inhibitors	FLT3 inhibitor,IGF-1R inhibitor, PI3K inhibitor	Preclinical	21148487, 23131561	Receptor Tyrosine Kinases	Fusion
+NUP214-ABL1	ALL	any	Sensitive	PCT	imatinib	KIT inhibitor	Clinical Trials	16213363	Unspecified	Fusion
+PAK1	SKCM	Expression	Sensitive	SageDB	PAK inhibitors	PAK inhibitor	Preclinical	23535073	STE	NOS
+PARP1	SKCM	p.P850L	Sensitive	CancerDR	AZD2281	PARP inhibitor	Preclinical	23486013	Zinc fingers, PARP-type	missense
+PDGFRA	COADREAD	p.N848I	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRA	GBM	Expression	Resistant	SageDB	PDGFR inhibitors	Angiogenesis inhibitor	Preclinical	23544171	Receptor Tyrosine Kinases	NOS
+PDGFRA	GIST	Wild Type	Sensitive	SageDB	sunitinib	Angiogenesis inhibitor	Clinical Trials	18955458	Receptor Tyrosine Kinases	NOS
+PDGFRA	GIST	Wild Type	Resistant	SageDB	imatinib	KIT inhibitor	Clinical Trials	14645423, 18955458	Receptor Tyrosine Kinases	NOS
+PDGFRA	GIST	exon p.552-596	Sensitive	MyCancerGenome	imatinib	KIT inhibitor	Clinical Trials	ASCO 2010, abstract 10006; 14645423	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	exon p.631-668	Sensitive	MyCancerGenome	imatinib	KIT inhibitor	Clinical Trials	ASCO 2010; abstract 10006	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	exon p.814-854	Sensitive	MyCancerGenome	imatinib	KIT inhibitor	Clinical Trials	ASCO 2010; abstract 10006	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	p.D842V	Sensitive	SageDB	dasatinib	KIT inhibitor	Preclinical	18794084	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	p.D842V	Resistant	SageDB	imatinib, sunitinib	KIT inhibitor,Angiogenesis inhibitor	Preclinical	22718859, 16638875	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	p.D846Y	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	15928335	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	p.N848K	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	15928335	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	p.V561D	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	17087936	Receptor Tyrosine Kinases	missense
+PDGFRA	GIST	p.Y849K	Sensitive	PCT	Imatinib, TKIs	KIT inhibitor	Case Reports	15928335	Receptor Tyrosine Kinases	missense
+PDGFRA	HES	any	Sensitive	SageDB	imatinib	KIT inhibitor	FDA Approved	16089297	Receptor Tyrosine Kinases	Fusion
+PDGFRA	LAML	p.T124fs	Sensitive	CancerDR	Axitinib	KIT inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	frame_shift_del_unspecified
+PDGFRA	LAML	p.T124fs	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	frame_shift_del_unspecified
+PDGFRA	MPD	any	Sensitive	SageDB	imatinib	KIT inhibitor	FDA Approved	16089297	Receptor Tyrosine Kinases	Fusion
+PDGFRA	MPD	p.T674I	Resistant	SageDB	imatinib	KIT inhibitor	Case Reports	12660384	Receptor Tyrosine Kinases	missense
+PDGFRA	NSCLC	p.Y98*	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	nonsense
+PDGFRA	PRAD	p.E241D	Sensitive	CancerDR	AMG706	KIT inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRA	SKCM	p.G853D	Sensitive	SageDB	imatinib, crenolanib	KIT inhibitor,FLT3 inhibitor	Preclinical	24132921	Receptor Tyrosine Kinases	missense
+PDGFRA	SKCM	p.H845Y	Sensitive	SageDB	imatinib, crenolanib	KIT inhibitor,FLT3 inhibitor	Preclinical	24132921	Receptor Tyrosine Kinases	missense
+PDGFRA	SKCM	p.P577S	Sensitive	SageDB	imatinib, crenolanib	KIT inhibitor,FLT3 inhibitor	Preclinical	24132921	Receptor Tyrosine Kinases	missense
+PDGFRA	SKCM	p.R841K	Sensitive	SageDB	imatinib, crenolanib	KIT inhibitor,FLT3 inhibitor	Preclinical	24132921	Receptor Tyrosine Kinases	missense
+PDGFRA	SKCM	p.V658A	Sensitive	SageDB	crenolanib	FLT3 inhibitor	Preclinical	24132921	Receptor Tyrosine Kinases	missense
+PDGFRA	SKCM	p.V658A	Resistant	SageDB	imatinib	KIT inhibitor	Preclinical	24132921	Receptor Tyrosine Kinases	missense
+PDGFRA	UCEC	p.T266P	Sensitive	CancerDR	Pazopanib	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRB	BRCA	p.T882I	Sensitive	CancerDR	Pazopanib	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRB	GBM	p.E1069K	Resistant	CancerDR	Sorafenib	Angiogenesis inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRB	LAML	p.T88I	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRB	MPD	any 	Sensitive		imatinib	KIT inhibitor	FDA Approved	24687085	Receptor Tyrosine Kinases	Fusion
+PDGFRB	NSCLC	p.G181V	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRB	NSCLC	p.L883M	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDGFRB	UCEC	p.D166G	Sensitive	CancerDR	TKI258	FGFR inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+PDPK1	BRCA	Expression	Sensitive	SageDB	PI3K pathway inhibitors	PI3K inhibitor	Preclinical	19602588	GO Protein Kinase	NOS
+PGR	BRCA	Expression	Sensitive	MyCancerGenome	SERM, SERD, or AI	anti-estrogen	FDA Approved	12743151	Nuclear hormone receptors	NOS
+PIK3CA	BRCA	CNA	Resistant	SageDB	PI3K pathway inhibitors	PI3K inhibitor	Preclinical	24366379	Phosphatidylinositol 3-kinase subunits	NOS
+PIK3CA	COADREAD	p.E542K	Sensitive	MyCancerGenome	mTOR inhibitors	mTOR inhibitor	Preclinical	21358673	Phosphatidylinositol 3-kinase subunits	missense
+PIK3CA	COADREAD	p.E545K	Sensitive	MyCancerGenome	mTOR inhibitors	mTOR inhibitor	Preclinical	21358673	Phosphatidylinositol 3-kinase subunits	missense
+PIK3CA	COADREAD	p.H1047R	Sensitive	MyCancerGenome	PI3K/AKT/mTOR inhibitors	PI3K inhibitor, AKT inhibitor, mTOR inhibitor	Clinical Trials	23066039	Phosphatidylinositol 3-kinase subunits	missense
+PIK3CB	PRAD	p.A686T	Resistant	CancerDR	NVPBEZ235	PI3K inhibitor	Preclinical	23486013	Phosphatidylinositol 3-kinase subunits	missense
+PIK3CG	BRCA	p.Y672*	Resistant	CancerDR	NVPBEZ235	PI3K inhibitor	Preclinical	23486013	Phosphatidylinositol 3-kinase subunits	nonsense
+PIK3CG	PAAD	p.T827R	Resistant	CancerDR	NVPBEZ235	PI3K inhibitor	Preclinical	23486013	Phosphatidylinositol 3-kinase subunits	missense
+PIK3R2	UCEC	p.A171V	Sensitive	SageDB	mTOR inhibitors	mTOR inhibitor	Preclinical	21984976, 19962665	SH2 domain containing	missense
+PIK3R2	UCEC	p.N561D	Sensitive	SageDB	mTOR inhibitors	mTOR inhibitor	Preclinical	21984976	SH2 domain containing	missense
+PLCG2	CLL	p.L845F	Resistant	SageDB	ibrutinib	BTK inhibitor	Clinical Trials	24869598	SH2 domain containing	missense
+PLCG2	CLL	p.R665W	Resistant	SageDB	ibrutinib	BTK inhibitor	Clinical Trials	24869598	SH2 domain containing	missense
+PLK1	COADREAD	p.S107N	Resistant	CancerDR	BI2536	Plk-1 inhibitor	Preclinical	23486013	Other	missense
+PLK2	COADREAD	p.D560V	Resistant	CancerDR	BI2536	Plk-1 inhibitor	Preclinical	23486013	Other	missense
+PML-RARA	LAML	any	Sensitive	SageDB	ATRA + arsenic trioxide	retinoid + Antineoplastic	FDA Approved	15103387	Unspecified	Fusion
+PRKCE	LAML	p.P507A	Sensitive	CancerDR	Bryostatin	macrolide	Preclinical	23486013	C2 domain containing protein kinases	missense
+PRKCE	NSCLC	p.E149K	Sensitive	CancerDR	Bryostatin	macrolide	Preclinical	23486013	C2 domain containing protein kinases	missense
+PRKCH	CML	Expression	Sensitive	SageDB	trametinib (plus imatinib in BCR-ABL)	MEK inhibitor + KIT inhibitor	Preclinical	25186176	C2 domain containing protein kinases	NOS
+PRKCSH	SKCM	p.E325in_frame_del	Sensitive	CancerDR	Bryostatin	macrolide	Preclinical	23486013	EF-hand domain containing	in_frame_del
+PRKDC	BLCA	p.L1244fs	Sensitive	CancerDR	NU7441	DNA-PK inhibitor	Preclinical	23486013	GO Protein Kinase	frame_shift_del_unspecified
+PRKDC	LAML	p.L1244fs	Sensitive	CancerDR	NU7441	DNA-PK inhibitor	Preclinical	23486013	GO Protein Kinase	frame_shift_del_unspecified
+PRKDC	MPNST	p.L1244fs	Sensitive	CancerDR	NU7441	DNA-PK inhibitor	Preclinical	23486013	GO Protein Kinase	frame_shift_del_unspecified
+PRKDC	NSCLC	p.L1244fs	Sensitive	CancerDR	NU7441	DNA-PK inhibitor	Preclinical	23486013	GO Protein Kinase	frame_shift_del_unspecified
+PRKDC	SKCM	p.L1244fs	Sensitive	CancerDR	NU7441	DNA-PK inhibitor	Preclinical	23486013	GO Protein Kinase	frame_shift_del_unspecified
+PTCH1	MB	CNL	Sensitive	PCT	vismodegib	SMO inhibitor	Case Reports	26169613	Unspecified	NOS
+PTEN	BRCA	CNL	Resistant	SageDB	PI3K alpha inhibitors	PI3K inhibitor	Clinical Trials	25409150	PTEN protein phosphatases	NOS
+PTEN	COADREAD	Underexpression	Resistant	SageDB	anti-EGFR mAbs	EGFR inhibitor (1st or 2nd gen)	Clinical Trials	21163703, 19398573	PTEN protein phosphatases	NOS
+PTEN	NSCLC	CNL	Sensitive	SageDB	PI3K pathway inhibitors (alone or in combination)	PI3K inhibitor	Preclinical	23136191	PTEN protein phosphatases	NOS
+PTEN	PAAD	CNL	Sensitive	SageDB	AKT inhibitors	AKT inhibitor	Case Reports	22025163	PTEN protein phosphatases	NOS
+PTEN	PRAD	CNL	Sensitive	SageDB	everolimus	mTOR inhibitor	Clinical Trials	23582881	PTEN protein phosphatases	NOS
+PTEN	SKCM	CNL	Resistant	SageDB	BRAF inhibitors in BRAF mutant tumor	B-Raf inhibitor	Preclinical	21317224, 21725359	PTEN protein phosphatases	NOS
+PTEN	UCEC	CNL	Sensitive	SageDB	PARP inhibitors	PARP inhibitor	Case Reports	21468130, 20944090	PTEN protein phosphatases	NOS
+PTPN11	GBM	p.R498W	Sensitive	CancerDR	NSC87877	Shp-1 inhibitor	Preclinical	23486013	SH2 domain containing	missense
+RAC1	SKCM	p.P29S	Resistant	SageDB	BRAF inhibitors in BRAF mutant tumors	B-Raf inhibitor	Case Reports	25056119	Rho family GTPases	missense
+RAD50	NEC	p.L1237F	Sensitive	SageDB	irinotecan plus CHK1/2 inhibitor in ATM deficient tumor	Topoisomerase inhibitor + CHK1/2 inhibitor	Case Reports	24934408	Unspecified	missense
+RAF1	PRAD	any	Sensitive	SageDB	sorafenib, MEK inhibitors	Angiogenesis inhibitor,MEK inhibitor	Preclinical	20526349	TKL	Fusion
+RAF1	SKCM	p.G361A	Resistant	SageDB	BRAF inhibitors in BRAF mutant tumors	B-Raf inhibitor	Preclinical	23737487	TKL	missense
+RAF1	SKCM	p.S257P	Resistant	SageDB	BRAF inhibitors in BRAF mutant tumors	B-Raf inhibitor	Preclinical	23737487	TKL	missense
+RANBP2-ALK	NSCLC	any	Sensitive	PCT	Crizotinib	c-Met inhibitor	Case Reports	27494825	Unspecified	Fusion
+RB1	SKCM	CNL	Resistant	SageDB	BRAF inhibitors in BRAF mutant tumor	B-Raf inhibitor	Preclinical	21725359	Endogenous ligands	NOS
+RCSD1-ABL1	ALL	any	Resistant	PCT	dasatinib	KIT inhibitor	Case Reports	21863287	Unspecified	Fusion
+RET	COADREAD	p.A45T	Resistant	CancerDR	CEP701	FLT3 inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+RET	LUAD	any	Sensitive	SageDB	cabozantinib, vandetanib	Angiogenesis inhibitor,RET inhibitor	Clinical Trials	23533264, 23584301, 25366691, ASCO 2015 (abstr 8007)	Receptor Tyrosine Kinases	Fusion
+RET	PRAD	p.L746M	Sensitive	CancerDR	AMG706	KIT inhibitor	Preclinical	23486013	Receptor Tyrosine Kinases	missense
+RET	TGCT	CNA	Sensitive	PCT	sunitinib	Angiogenesis inhibitor	Case Reports	25085632	Receptor Tyrosine Kinases	NOS
+RET	THCA	618	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	620	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	634	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	768	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	791	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	804	Sensitive	PCT	sorafenib	Angiogenesis inhibitor	Clinical Trials	20368568	Receptor Tyrosine Kinases	missense
+RET	THCA	891	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	918	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	p.C634F	Sensitive	PCT	sorafenib	Angiogenesis inhibitor	Clinical Trials	20368568	Receptor Tyrosine Kinases	missense
+RET	THCA	p.C634R	Sensitive	PCT	sorafenib	Angiogenesis inhibitor	Clinical Trials	20368568	Receptor Tyrosine Kinases	missense
+RET	THCA	p.C634W	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET	THCA	p.C634Y	Sensitive	PCT	sorafenib	Angiogenesis inhibitor	Clinical Trials	20368568	Receptor Tyrosine Kinases	missense
+RET	THCA	p.M918T	Sensitive	SageDB	vandetanib	RET inhibitor	FDA Approved	20065189, 22025146	Receptor Tyrosine Kinases	missense
+RET-PTC1	THCA	any	Sensitive	SageDB	RET inhibitors	RET inhibitor	Preclinical	23056499	Unspecified	Fusion
+ROS1	IMT	any	Sensitive	SageDB	crizotinib	c-Met inhibitor	Case Reports	24875859	Receptor Tyrosine Kinases	Fusion
+ROS1	LUAD	any	Sensitive	SageDB	crizotinib	c-Met inhibitor	Clinical Trials	25264305	Receptor Tyrosine Kinases	Fusion
+ROS1	LUAD	p.G2032R	Sensitive	SageDB	cabozantinib	Angiogenesis inhibitor	Preclinical	25351743	Receptor Tyrosine Kinases	missense
+ROS1	LUAD	p.G2032R	Resistant	SageDB	crizotinib	c-Met inhibitor	Case Reports	23724914, 25688157	Receptor Tyrosine Kinases	missense
+ROS1	NSCLC	any	Sensitive	MyCancerGenome	crizotinib (ALK/MET/ROS1 TKI)	c-Met inhibitor	FDA Approved	25264305	Receptor Tyrosine Kinases	Fusion
+RPS6KA2	LAML	p.A657S	Sensitive	CancerDR	CMK	Not Otherwise Specified	Preclinical	23486013	GO Protein Kinase	missense
+RPS6KA4	BRCA	p.S236L	Sensitive	CancerDR	SL01011	Not Otherwise Specified	Preclinical	23486013	GO Protein Kinase	missense
+RPS6KA6	COADREAD	p.R310S	Resistant	CancerDR	CMK	Not Otherwise Specified	Preclinical	23486013	GO Protein Kinase	missense
+SF3B1	---	p.K700E	Sensitive	SageDB	spliceosome inhibitor	spliceosome inhibitor	Preclinical	ENA 2014 (abstr 456), ENA 2014 (abstr 575)	Unspecified	missense
+SMARCB1	SARC	CNL	Sensitive	MyCancerGenome	EZH inhibitors	---	Preclinical	23620515	Unspecified	NOS
+SMO	BCC	p.A459V	Resistant	MyCancerGenome	Vismodegib	SMO inhibitor	Case Reports	25759019	G protein-coupled receptors, Class F frizzled	missense
+SMO	BCC	p.D473Y	Resistant	MyCancerGenome	Vismodegib	SMO inhibitor	Case Reports	25306392	G protein-coupled receptors, Class F frizzled	missense
+SMO	BCC	p.G497W	Resistant	MyCancerGenome	Vismodegib	SMO inhibitor	Case Reports	25306392	G protein-coupled receptors, Class F frizzled	missense
+SMO	BCC	p.V321M	Resistant	MyCancerGenome	Vismodegib	SMO inhibitor	Case Reports	25199678	G protein-coupled receptors, Class F frizzled	missense
+SMO	BCC	p.W281L	Resistant	MyCancerGenome	Vismodegib	SMO inhibitor	Case Reports	25199678	G protein-coupled receptors, Class F frizzled	missense
+SMO	MB	p.D473H	Resistant	SageDB	vismodegib	SMO inhibitor	Case Reports	19726788, 25759019	G protein-coupled receptors, Class F frizzled	missense
+SQSTM1-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+SRC	COADREAD	p.V380M	Resistant	CancerDR	AZD0530	Bcr-Abl TKI	Preclinical	23486013	SH2 domain containing	missense
+STK11	LUAD	CNL	Sensitive	SageDB	phenformin	Antidiabetic Drug	Preclinical	23352126	GO Protein Kinase	NOS
+STK11	LUAD	CNL	Resistant	SageDB	MEK inhibitors + docetaxel in KRAS mutant	MEK inhibitor, Antineoplastic	Preclinical	22425996	GO Protein Kinase	NOS
+STK11	PAAD	p.D194E	Sensitive	SageDB	everolimus	mTOR inhibitor	Case Reports	21189378	GO Protein Kinase	missense
+SUZ12	---	CNL	Sensitive	SageDB	BET inhibitors	BET inhibitor	Preclinical	25119042	Zinc fingers, C2H2-type	NOS
+SYK	CLL	Expression	Sensitive	SageDB	SYK inhibitors	Syk inhibitor	Preclinical	16409295, 19549911	SH2 domain containing	NOS
+TFG-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+TMPRSS2	PRAD	any	Sensitive	SageDB	DNA-PKc inhibitors	DNA-PK inhibitor	Preclinical	21575865	Proteases, serine	Fusion
+TOP2A	BRCA	CNA	Sensitive	SageDB	anthracyclines	Topoisomerase inhibitor	Clinical Trials	22864769	Unspecified	NOS
+TPM3-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+TPM4-ALK	NSCLC	any	Sensitive	PCT	Crizotinib, Ceritinib	c-Met inhibitor,ALK inhibitor	FDA Approved	23724913	Unspecified	Fusion
+TRIM33-RET	LUAD	any	Sensitive	PCT	cabozantinib	Angiogenesis inhibitor	Case Reports	23533264	Unspecified	Fusion
+VEGFA	LIHC	CNA	Sensitive	SageDB	sorafenib	Angiogenesis inhibitor	Clinical Trials	24687604	Unspecified	NOS
+KRAS	NSCLC	12	Sensitive	NA	CDK4/6 inhibitor + MEK inhibitors	CDK4/6 inhibitor + MEK inhibitors	Clinical Trials	AACR 2017 (abstr CT046)	RAS type family GTPases	missense
+KRAS	NSCLC	13	Sensitive	NA	CDK4/6 inhibitor + MEK inhibitors	CDK4/6 inhibitor + MEK inhibitors	Clinical Trials	AACR 2017 (abstr CT046)	RAS type family GTPases	missense
+KRAS	NSCLC	61	Sensitive	NA	CDK4/6 inhibitor + MEK inhibitors	CDK4/6 inhibitor + MEK inhibitors	Clinical Trials	AACR 2017 (abstr CT046)	RAS type family GTPases	missense
+NRAS	SKCM	12	Sensitive	NA	CDK4/6 inhibitor + MEK inhibitors	CDK4/6 inhibitor + MEK inhibitors	Clinical Trials	26658964	RAS type family GTPases	missense
+NRAS	SKCM	13	Sensitive	NA	CDK4/6 inhibitor + MEK inhibitors	CDK4/6 inhibitor + MEK inhibitors	Clinical Trials	26658964	RAS type family GTPases	missense
+NRAS	SKCM	61	Sensitive	NA	CDK4/6 inhibitor + MEK inhibitors	CDK4/6 inhibitor + MEK inhibitors	Clinical Trials	26658964	RAS type family GTPases	missense

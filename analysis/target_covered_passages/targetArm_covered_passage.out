@@ -1,0 +1,25 @@
+StudyArm	TotalUniqPassage	DetectedUniqPassage	TotalSize_uniqPassage	DetectedSize_uniqPassage	DetectedPercentage
+GSK2636771 (N)	P0,P1,P2,P3,P4,P5,P6,Px	P0,P1,P2,P3,P4,P5,P6,Px	8	8	100.0
+Adavosertib (Z1I)	P0,P1,P2,P3	P0,P1,P2,P3	4	4	100.0
+Defactinib (U)	P0,P1	P0,P1	2	2	100.0
+Sapanisertib (L)	P0,P1,P2,P3,P4	P0,P1,P2,P3,P4	5	5	100.0
+Larotrectinib (Z1E)	P2	P2	1	1	100.0
+Trametinib (R)	P0,P1,P2	P0,P1,P2	3	3	100.0
+Osimertinib (E)	P0,P1,P10,P2,P3	P0,P1,P10,P2,P3	5	5	100.0
+Palbociclib (Z1C)	P0,P1,P2,P3,P4	P0,P1,P2,P3,P4	5	5	100.0
+Trametinib (S1)	P0,P1,P2,P3,P4	P0,P1,P2,P3,P4	5	5	100.0
+Crizotinib (C1)	P0,P1,P2,P3,P4	P0,P1,P2,P3,P4	5	5	100.0
+Trametinib (S2)	P0,P1,P3,Px	P0,P1,P3,Px	4	4	100.0
+Trastuzumab+Pertuzumab (J)	P0,P1,P2	P0,P1,P2	3	3	100.0
+Erdafitinib (K1)	P0,P1,P2,P3,P5,P6,Px	P0,P1,P2,P3,P5,P6,Px	7	7	100.0
+Sunitinib malate (V)	P0,P1,P2,P3	P0,P1,P2,P3	4	4	100.0
+Erdafitinib (K2)	P0,P1,P2,P3,P4,Px	P0,P1,P2,P3,P4,Px	6	6	100.0
+Palbociclib (Z1B)	P0,P1,P2,P3,P4,P5	P0,P1,P2,P3,P4,P5	6	6	100.0
+Copanlisib (Z1F)	P0,P1,P10,P2,P3,P4,P5,P6,Px	P0,P1,P10,P2,P3,P4,P5,P6,Px	9	9	100.0
+Sapanisertib (M)	P0,P1,P2,P3,Px	P0,P1,P2,P3,Px	5	5	100.0
+Binimetinib (Z1A)	P0,P1,P2	P0,P1,P2	3	3	100.0
+Capivasertib (Y)	P0,P1,P2,P3,P4,P5,P6,Px	P0,P1,P2,P4,P5,P6,Px	8	7	87.5
+Vismodegib (T)	P0,P1,P2,P3,Px	P0,P1,P2,Px	5	4	80.0
+Dabrafenib+Trametinib (H)	P0,P1,P2,P3	P0,P2,P3	4	3	75.0
+Crizotinib (C2)	P0,P1,P2	P0	3	1	33.33
+Dasatinib (X)	P0,P1,P2	P0	3	1	33.33

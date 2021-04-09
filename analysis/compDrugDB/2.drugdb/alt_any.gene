@@ -1,0 +1,56 @@
+AKT3	any
+ALK	any
+ATIC-ALK	any
+BCR-ABL1	any
+BCR-JAK2	any
+BCR-PDGFRA	any
+BCR-RET	any
+BRAF	any
+BRCA1	any frameshift mutation
+BRCA1	any nonsense mutation
+BRCA2	any frameshift mutation
+BRCA2	any nonsense mutation
+BRD4	any
+CD74-ROS1	any
+CDK5RAP2-PDGFRA	any
+CLTC-ALK	any
+COL1A1-PDGFRB	any
+CRLF2	any
+EGFR	any
+EML1-ABL1	any
+EML4-ALK	any
+ERBB4	any
+ESR1	any
+ETS	any
+ETV6-ABL1	any
+EWS	any
+FGFR2	any
+FGFR3	any
+FIP1L1-PDGFRA	any
+JAK2	any
+KIF5B-RET	any
+KLC1-ALK	any
+MET	any
+MLL	any
+NOTCH1	any
+NOTCH2	any
+NPM-ALK	any
+NRG1	any
+NTRK1	any
+NTRK3	any
+NUP214-ABL1	any
+PDGFRA	any
+PDGFRB	any 
+PML-RARA	any
+RAF1	any
+RANBP2-ALK	any
+RCSD1-ABL1	any
+RET	any
+RET-PTC1	any
+ROS1	any
+SQSTM1-ALK	any
+TFG-ALK	any
+TMPRSS2	any
+TPM3-ALK	any
+TPM4-ALK	any
+TRIM33-RET	any

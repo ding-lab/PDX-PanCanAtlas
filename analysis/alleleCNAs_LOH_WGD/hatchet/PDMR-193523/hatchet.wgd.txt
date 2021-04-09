@@ -1,0 +1,1 @@
+[0m[96m# The chosen solution is tetraploid with 3 clones and is written in ./best.bbc.ucn and ./best.seg.ucn

@@ -1,0 +1,155 @@
+PDX data process pipelines
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process
+
+Author: Hua Sun
+
+
+
+Pipeline location in MGI-server
+================================
+/gscmnt/gc3021/dinglab/hsun/PDX-workflow
+
+Submit job script:
+    /gscmnt/gc3021/dinglab/hsun/Toolkit/LSF_mgi/lsf_submit.sh
+    
+
+
+Set reference
+=====================
+Human
+    Gencode GRCh38 v29
+Mouse
+    Gencode GRCm38 vM19
+
+
+Raw data processing
+=====================
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/bamToolkit
+    trimming adaptor and filtering poor reads: trimGalor.sh
+    make bam file : fq2bam_remDup.sh
+    
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/mouseFilter.disam.v1
+    Mouse reads filter for WES/RNA-Seq data of PDXs
+
+
+Sample quality control 
+=====================
+https://github.com/ding-lab/SeqQEst
+
+
+
+Somatic mutation – TumorNormal
+=====================
+https://github.com/ding-lab/somaticwrapper
+
+
+# Make folder
+    somaticMut_tumorNormal/sample/sample.N.bam
+    somaticMut_tumorNormal/sample/sample.N.bam.bai
+    somaticMut_tumorNormal/sample/sample.T.bam
+    somaticMut_tumorNormal/sample/sample.T.bam.bai
+
+
+# Call somatic mutations v1.5
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/somaticwrapper.mgi/somaticWrapper_wxs.v1.5/run.sw.step1-4.sh ./config.sw.v1.5.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/somaticwrapper.mgi/somaticWrapper_wxs.v1.5/run.sw.step5-8.sh ./config.sw.v1.5.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/somaticwrapper.mgi/somaticWrapper_wxs.v1.5/run.sw.step9.sh ./config.sw.v1.5.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/somaticwrapper.mgi/somaticWrapper_wxs.v1.5/run.sw.step10.sh ./config.sw.v1.5.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/somaticwrapper.mgi/somaticWrapper_wxs.v1.5/run.sw.step11.sh ./config.sw.v1.5.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/somaticwrapper.mgi/somaticWrapper_wxs.v1.5/run.sw.step12.sh ./config.sw.v1.5.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/somaticwrapper.mgi/somaticWrapper_wxs.v1.5/run.sw.step13.sh ./config.sw.v1.5.ini
+
+
+
+Somatic mutation – TumorOnly
+=====================
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/somatic.Mutect2_tumorOnly
+
+
+# Make Table
+    Sample  BAM
+
+# Call tumorOnly somaticMut    
+    mkdir mutect2_results
+    cat ./tumorOnly.info | while read sample bam; do bash /gscmnt/gc3021/dinglab/hsun/Toolkit/LSF_mgi/lsf_submit.sh 32 1 full.$sample bash ~/scripts/tumor-only-pipeline.mutect2/somaticMut.tumor-only.mutect2.sh -p full -n $sample -b $bam -o mutect2_results; done
+    sh ~/scripts/tumor-only-pipeline.mutect2/somaticMut.tumor-only.mutect2.sh -p merge -o mutect2_results
+            
+
+
+Germline mutation
+=====================
+https://github.com/ding-lab/germlinewrapper
+
+
+# Make folder
+    germlineMut/sample/sample.N.bam
+    germlineMut/sample/sample.N.bam.bai
+
+
+# Call germline mutations v1.1
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/germlineWrapper.v1.1/run.gw.step1-3.sh ./config.gw.mgi.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/germlineWrapper.v1.1/run.gw.step4.sh ./config.gw.mgi.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/germlineWrapper.v1.1/run.gw.step5.sh ./config.gw.mgi.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/germlineWrapper.v1.1/run.gw.step6.sh ./config.gw.mgi.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/germlineWrapper.v1.1/run.gw.step7.sh ./config.gw.mgi.ini
+            sh /gscmnt/gc3021/dinglab/hsun/PDX-workflow/PDXToolkit/germlineWrapper.v1.1/run.gw.step8.sh ./config.gw.mgi.ini
+
+
+
+Somatic copy number – TumorNormal 
+=====================
+CNVKit (Tumor-Normal per Case)
+https://github.com/ding-lab/cnvkit_pipeline
+
+Please set "config.gencode_grch38.mgi.ini" location to the 'cnvkit_wxs.pipeline.mgi.v4.sh'
+
+        # wxs.paired.table (head=T)
+        # ID	Group	Normal	Tumor  Normal_bam	 Tumor_bam
+        # TWDE-06-PAR-Tumor	Human_Tumor	TWDE-03-PBMC	TWDE-06-PAR-Tumor	/full_path/TWDE-03-PBMC.remDup.bam	/full_path/TWDE-06-PAR-Tumor.remDup.bam
+            
+            mkdir cnvkit_tumorNormal
+            
+            # call tumor cnv from the matched normal
+            sh ~/scripts/cnvkit_wxs/cnvkit_wxs.pipeline.mgi.v4.sh -F tumorNormal -T ./wxs.paired.table -O cnvkit_tumorNormal
+            # merge results
+            sh ~/scripts/cnvkit_wxs/cnvkit_wxs.pipeline.mgi.v4.sh -F merge-tn -T ./wxs.paired.table -O cnvkit_tumorNormal
+
+
+
+Somatic copy number – TumorOnly
+=====================
+CNVKit (PoolNormal approach)
+https://github.com/ding-lab/cnvkit_pipeline
+
+Please set "config.gencode_grch38.mgi.ini" location to the 'cnvkit_wxs.pipeline.mgi.v4.sh'
+
+        # tumorOnly.info (no header)
+        # sample    /path/bam
+            
+            mkdir cnvkit_tumorOnly
+            
+            # call cnv from 'reference_normals.cnn'
+            sh ~/scripts/cnvkit_wxs/cnvkit_wxs.pipeline.mgi.v3.sh -F batch-tumor -T ./tumorOnly.info -R poolNormal.v2/reference_normals.cnn -O cnvkit_tumorOnly
+            # merge results
+            sh ~/scripts/cnvkit_wxs/cnvkit_wxs.pipeline.mgi.v3.sh -F merge-pool -O cnvkit_tumorOnly
+
+
+
+MSI – TumorNormal / TumorOnly
+=====================
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/msi
+
+
+Gene expression
+=====================
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/geneExpression
+
+
+Fusion
+=====================
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/fusion
+
+
+
+
+

@@ -1,0 +1,1915 @@
+gene	variant	disease	drugs	evidence_level	clinical_significance	citation_id	CiViC
+MAP2K1	P124S	Melanoma	Selumetinib	D	Resistance	19915144	CiViC
+MAP2K1	Q56P	Melanoma	Selumetinib	D	Resistance	19915144	CiViC
+NRAS	Q61	Melanoma	Vemurafenib	B	Resistance	23569304	CiViC
+PDGFRA	D842V	Gastrointestinal Stromal Tumor	Imatinib	B	Resistance	15928335	CiViC
+PDGFRA	D842V	Gastrointestinal Stromal Tumor	Imatinib	B	Resistance	16954519	CiViC
+ARAF	S214C	Lung Non-small Cell Carcinoma	Sorafenib	C	Sensitivity/Response	24569458	CiViC
+DNMT3A	R882	Acute Myeloid Leukemia	Idarubicin	B	Sensitivity/Response	22081665	CiViC
+JAK2	V617F	Polycythemia Vera	Fedratinib	D	Sensitivity/Response	18394554	CiViC
+NRAS	G13D	Melanoma	Tanespimycin	C	Sensitivity/Response	18375819	CiViC
+NRAS	Q61L	Melanoma	Temozolomide	C	Sensitivity/Response	21576590	CiViC
+NRAS	Q61R	Melanoma	Temozolomide	C	Sensitivity/Response	21576590	CiViC
+ALK	F1174L	Inflammatory Myofibroblastic Tumor	Crizotinib	D	Resistance	21030459	CiViC
+ALK	F1174L	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	21030459	CiViC
+KIT	L576P	Melanoma	Nilotinib,Imatinib,Sorafenib	D	Resistance	19671763	CiViC
+KRAS	G12/G13	Lung Non-small Cell Carcinoma	Gefitinib,Erlotinib	B	Resistance	15696205	CiViC
+NRAS	Q61	Colorectal Cancer	Cetuximab	B	Resistance	20619739	CiViC
+ALK	F1174L	Neuroblastoma	Alectinib	D	Sensitivity/Response	21575866	CiViC
+ALK	F1174L	Neuroblastoma	Crizotinib	D	Sensitivity/Response	21948233	CiViC
+ALK	R1275Q	Neuroblastoma	TAE684	D	Sensitivity/Response	18923525	CiViC
+ARAF	S214C	Lung Non-small Cell Carcinoma	Sorafenib	D	Sensitivity/Response	24569458	CiViC
+ARAF	S214C	Lung Non-small Cell Carcinoma	Trametinib	D	Sensitivity/Response	24569458	CiViC
+KIT	L576P	Melanoma	Dasatinib	D	Sensitivity/Response	19671763	CiViC
+PDGFRA	D842I	Gastrointestinal Stromal Tumor	Crenolanib	D	Sensitivity/Response	22745105	CiViC
+PDGFRA	D842V	Gastrointestinal Stromal Tumor	Crenolanib	D	Sensitivity/Response	22745105	CiViC
+PDGFRA	D842Y	Gastrointestinal Stromal Tumor	Crenolanib	D	Sensitivity/Response	22745105	CiViC
+PDGFRA	I843DEL	Gastrointestinal Stromal Tumor	Crenolanib	D	Sensitivity/Response	22745105	CiViC
+PDGFRA	D842_I843delinsVM	Gastrointestinal Stromal Tumor	Crenolanib	D	Sensitivity/Response	22745105	CiViC
+ALK	R1275Q	Neuroblastoma	TAE684	D	Resistance	18923525	CiViC
+KIT	EXON 11 MUTATION	Melanoma	Imatinib	B	Sensitivity/Response	23775962	CiViC
+BRAF	V600E and V600M	Melanoma	Dabrafenib	C	Sensitivity/Response	23031422	CiViC
+RET	C634W	Thyroid Gland Medullary Carcinoma	Motesanib	D	Resistance	21422803	CiViC
+RET	M918T	Thyroid Gland Medullary Carcinoma	Motesanib	D	Resistance	21422803	CiViC
+RET	M918T	Thyroid Gland Medullary Carcinoma	JAK2 Inhibitor AZD1480	D	Sensitivity/Response	23056499	CiViC
+BRAF	V600	Colorectal Cancer	Panitumumab	B	Resistance	23325582	CiViC
+BRAF	V600E	Colorectal Cancer	Panitumumab,Sorafenib	D	Sensitivity/Response	19001320	CiViC
+BRAF	V600E	Melanoma	Vemurafenib	D	Resistance	24576830	CiViC
+BRAF	V600E	Lung Non-small Cell Carcinoma	Dabrafenib	C	Resistance	23524406	CiViC
+BRAF	V600E and AMPLIFICATION	Colorectal Cancer	Selumetinib	E	Resistance	21098728	CiViC
+BRAF	V600	Melanoma	Dabrafenib,Trametinib	B	Sensitivity/Response	23020132	CiViC
+BRAF	V600D	Melanoma	Dabrafenib	B	Sensitivity/Response	23463675	CiViC
+BRAF	V600E	Melanoma	Trametinib,Dabrafenib	B	Sensitivity/Response	24583796	CiViC
+BRAF	V600E	Colorectal Cancer	Pictilisib Bismesylate,PLX4720	D	Sensitivity/Response	23845441	CiViC
+BRAF	V600E	Colorectal Cancer	PLX4720,Nutlin-3	D	Sensitivity/Response	23812671	CiViC
+BRAF	V600E	Colorectal Cancer	Capecitabine,Bevacizumab,Vemurafenib	D	Sensitivity/Response	22180495	CiViC
+BRAF	V600E	Colorectal Cancer	Vemurafenib	D	Sensitivity/Response	22180495	CiViC
+ALK	F1174L	Neuroblastoma	Crizotinib	D	Resistance	22072639	CiViC
+BRAF	V600E	Colorectal Cancer	Cetuximab	B	Resistance	20619739	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Tretinoin	B	Resistance	19965647	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Daunorubicin	D	Resistance	15626738	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	SU5614	D	Resistance	15626738	CiViC
+KRAS	G12/G13	Colorectal Cancer	Chemotherapy,Cetuximab	B	Resistance	20619739	CiViC
+KRAS	G12/G13	Colorectal Cancer	Cetuximab	D	Resistance	18202412	CiViC
+KRAS	G12V	Colorectal Cancer	Cetuximab	D	Resistance	20978259	CiViC
+NPM1	EXON 12 MUTATION	Acute Myeloid Leukemia	Tretinoin	B	Resistance	19965647	CiViC
+PIK3CA	EXON 21 MUTATION	Colorectal Cancer	Cetuximab	B	Resistance	20619739	CiViC
+WT1	EXON 7 MUTATION	Acute Myeloid Leukemia	Cytarabine,Daunorubicin	B	Resistance	18591546	CiViC
+ALK	EML4-ALK L1196M	Lung Non-small Cell Carcinoma	Alectinib	D	Sensitivity/Response	21575866	CiViC
+ALK	F1174L	Neuroblastoma	TAE684	D	Sensitivity/Response	18923525	CiViC
+ALK	R1275Q	Neuroblastoma	Crizotinib	D	Sensitivity/Response	22072639	CiViC
+FGFR3	FGFR3-BAIAP2L1	Bladder Carcinoma	PD173074	D	Sensitivity/Response	23558953	CiViC
+KRAS	G13D	Colorectal Cancer	Cetuximab	D	Sensitivity/Response	20978259	CiViC
+NPM1	EXON 12 MUTATION	Acute Myeloid Leukemia	Tretinoin	B	Sensitivity/Response	19059939	CiViC
+NPM1	EXON 12 MUTATION	Acute Myeloid Leukemia	Daunorubicin	B	Sensitivity/Response	22417203	CiViC
+NPM1	EXON 12 MUTATION	Acute Myeloid Leukemia	Valproic Acid	B	Sensitivity/Response	24797300	CiViC
+NPM1	EXON 12 MUTATION	Acute Myeloid Leukemia	Tretinoin,NSC348884	D	Sensitivity/Response	21719597	CiViC
+NPM1	EXON 12 MUTATION	Acute Myeloid Leukemia	Anti-CD33,Anti-CD123	E	Sensitivity/Response	24927407	CiViC
+NPM1	EXON 12 MUTATION	Acute Myeloid Leukemia	Anti-CD33	E	Sensitivity/Response	24927407	CiViC
+NPM1	W288FS	Acute Myeloid Leukemia	NSC348884	D	Sensitivity/Response	21719597	CiViC
+NPM1	W288FS	Acute Myeloid Leukemia	Induction Therapy	E	Sensitivity/Response	15659725	CiViC
+TSC1	FRAMESHIFT TRUNCATION	Lung Non-small Cell Carcinoma	Sirolimus	D	Sensitivity/Response	19966866	CiViC
+TSC1	LOSS-OF-FUNCTION	Bladder Carcinoma	Everolimus	B	Sensitivity/Response	22923433	CiViC
+BRCA1	LOSS-OF-FUNCTION	Ovarian Cancer	Olaparib	B	Sensitivity/Response	23346317	CiViC
+BRCA2	LOSS-OF-FUNCTION	Ovarian Cancer	Olaparib	B	Sensitivity/Response	23346317	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Gefitinib,Erlotinib	B	Sensitivity/Response	24736073	CiViC
+ABL1	BCR-ABL	Acute Myeloid Leukemia	Imatinib	D	Resistance	12476305	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib	D	Resistance	15194504	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib	B	Resistance	20537386	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib	D	Resistance	15194504	CiViC
+ALK	EML4-ALK C1156Y and L1196M	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	20979473	CiViC
+ALK	EML4-ALK L1196M	Lung Non-small Cell Carcinoma	Crizotinib	B	Resistance	20979473	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Erlotinib	A	Resistance	25668228	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Gefitinib	B	Resistance	15728811	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Dacomitinib	B	Resistance	21430269	CiViC
+ERBB2	L755S	Breast Cancer	Lapatinib	D	Resistance	23220880	CiViC
+ESR1	L536Q	Breast Cancer	Hormone Therapy	D	Resistance	24185512	CiViC
+ESR1	D538G	Breast Cancer	Hormone Therapy	D	Resistance	24185512	CiViC
+ESR1	Y537C	Breast Cancer	Hormone Therapy	D	Resistance	24185512	CiViC
+ESR1	Y537N	Breast Cancer	Hormone Therapy	D	Resistance	24185512	CiViC
+ESR1	Y537S	Breast Cancer	Hormone Therapy	D	Resistance	24185512	CiViC
+FLT3	TKD MUTATION	Acute Myeloid Leukemia	Sorafenib	B	Resistance	22368270	CiViC
+FLT3	TKD MUTATION	Acute Myeloid Leukemia	Sorafenib	B	Resistance	18230792	CiViC
+KIT	V654A	Gastrointestinal Stromal Tumor	Imatinib	D	Resistance	16954519	CiViC
+KRAS	EXON 2 MUTATION	Colorectal Cancer	Cetuximab	B	Resistance	16618717	CiViC
+KRAS	G12A	Lung Adenocarcinoma	Gefitinib,Erlotinib	B	Resistance	19794967	CiViC
+PIK3CA	E542K	Colorectal Cancer	Panitumumab,Cetuximab	B	Resistance	19223544	CiViC
+ABL1	BCR-ABL	Acute Myeloid Leukemia	Imatinib	A	Sensitivity/Response	12476305	CiViC
+ABL1	BCR-ABL	Chronic Myeloid Leukemia	Imatinib	A	Sensitivity/Response	20537386	CiViC
+ABL1	BCR-ABL	Chronic Myeloid Leukemia	Dasatinib,Nilotinib	A	Sensitivity/Response	20537386	CiViC
+ALK	EML4-ALK	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	20979473	CiViC
+CCND3	LOSS	T-cell Lymphoblastic Leukemia/lymphoma	Palbociclib	D	Sensitivity/Response	23079656	CiViC
+CDK4	EXPRESSION	Estrogen-receptor Positive Breast Cancer	Alpelisib	D	Sensitivity/Response	25002028	CiViC
+DDR2	G253C	Lung Non-small Cell Carcinoma	Dasatinib	D	Sensitivity/Response	22328973	CiViC
+DDR2	G505S	Lung Non-small Cell Carcinoma	Dasatinib	D	Sensitivity/Response	22328973	CiViC
+DDR2	G774V	Lung Non-small Cell Carcinoma	Dasatinib	D	Sensitivity/Response	22328973	CiViC
+DDR2	I638F	Lung Non-small Cell Carcinoma	Dasatinib	D	Sensitivity/Response	22328973	CiViC
+DDR2	L239R	Lung Non-small Cell Carcinoma	Dasatinib	D	Sensitivity/Response	22328973	CiViC
+DDR2	L63V	Lung Non-small Cell Carcinoma	Dasatinib	D	Sensitivity/Response	22328973	CiViC
+DDR2	S768R	Lung Non-small Cell Carcinoma	Dasatinib,Erlotinib	C	Sensitivity/Response	22328973	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Gefitinib	D	Sensitivity/Response	16730237	CiViC
+EGFR	G719S	Lung Non-small Cell Carcinoma	Gefitinib	D	Sensitivity/Response	15118125	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Gefitinib,Erlotinib	B	Sensitivity/Response	24457318	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Gefitinib	D	Sensitivity/Response	15118125	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Pemetrexed,Erlotinib	C	Sensitivity/Response	24636847	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Staurosporine	E	Sensitivity/Response	24658966	CiViC
+ERBB2	D769H	Breast Cancer	Neratinib,Lapatinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	D769Y	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	DEL 755-759	Breast Cancer	Neratinib,Lapatinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	G309A	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	L755S	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	L755W	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	P780INS	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	R678Q	Breast Cancer	Lapatinib,Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	R896C	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	V777L	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ERBB2	V842I	Breast Cancer	Neratinib	D	Sensitivity/Response	23220880	CiViC
+ESR1	L536Q	Breast Cancer	Fulvestrant,Tamoxifen	D	Sensitivity/Response	24185510	CiViC
+ESR1	D538G	Breast Cancer	Fulvestrant,Tamoxifen	D	Sensitivity/Response	24185510	CiViC
+ESR1	Y537C	Breast Cancer	Fulvestrant,Tamoxifen	D	Sensitivity/Response	24185510	CiViC
+ESR1	Y537N	Breast Cancer	Fulvestrant,Tamoxifen	D	Sensitivity/Response	24185510	CiViC
+ESR1	Y537S	Breast Cancer	Fulvestrant,Tamoxifen	D	Sensitivity/Response	24185510	CiViC
+FGFR2	FGFR2-MGEA5	Cholangiocarcinoma	Ponatinib	C	Sensitivity/Response	24550739	CiViC
+FGFR2	FGFR2-TACC3	Cholangiocarcinoma	Ponatinib,Pazopanib	C	Sensitivity/Response	24550739	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Lestaurtinib	B	Sensitivity/Response	14726387	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Sorafenib	B	Sensitivity/Response	18230792	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Tyrphostin AG 1296	D	Sensitivity/Response	12357354	CiViC
+GATA2	EXPRESSION	Lung Adenocarcinoma	Bortezomib,Fasudil	D	Sensitivity/Response	22541434	CiViC
+KIT	INTERNAL DUPLICATION	Malignant Anus Melanoma	Imatinib	C	Sensitivity/Response	18421059	CiViC
+KIT	L576P	Lung Non-small Cell Carcinoma	Dasatinib,Nilotinib,Imatinib	D	Sensitivity/Response	17372901	CiViC
+KIT	V654A	Gastrointestinal Stromal Tumor	Sunitinib	B	Sensitivity/Response	16638875	CiViC
+KRAS	G12D	Lung Non-small Cell Carcinoma	Dactolisib,Selumetinib	D	Sensitivity/Response	19029981	CiViC
+KRAS	G13D	Colorectal Cancer	Cetuximab	B	Sensitivity/Response	20978259	CiViC
+MGMT	PROMOTER METHYLATION	Glioblastoma Multiforme	Temozolomide	A	Sensitivity/Response	15758010	CiViC
+MGMT	PROMOTER METHYLATION	Glioblastoma Multiforme	Carmustine	B	Sensitivity/Response	11070098	CiViC
+MGMT	PROMOTER METHYLATION	Glioblastoma Multiforme	O6-Benzylguanine	E	Sensitivity/Response	11070098	CiViC
+PIK3CA	E542K	Breast Cancer	PI3K-alpha Inhibitor MEN1611	D	Sensitivity/Response	21558396	CiViC
+PIK3CA	E542K	Breast Cancer	Sirolimus	D	Sensitivity/Response	15647370	CiViC
+PIK3CA	H1047R	Breast Cancer	PI3K-alpha Inhibitor MEN1611	D	Sensitivity/Response	21558396	CiViC
+PML	PML-RARA	Acute Promyelocytic Leukemia	Tretinoin	B	Sensitivity/Response	8674046	CiViC
+PTEN	R233*	Breast Cancer	MTOR Inhibitor	D	Sensitivity/Response	20085938	CiViC
+TP53	R175H	Breast Cancer	Doxorubicin	D	Sensitivity/Response	22698404	CiViC
+TSC1	FRAMESHIFT TRUNCATION	Invasive Bladder Transitional Cell Carcinoma	Everolimus	B	Sensitivity/Response	22923433	CiViC
+ABL1	BCR-ABL	Chronic Myeloid Leukemia	Imatinib	A	Sensitivity/Response	20537386	CiViC
+PIK3CA	E545K	Colorectal Cancer	Panitumumab,Cetuximab	C	Resistance	19223544	CiViC
+PIK3CA	H1047R	Colorectal Cancer	Panitumumab,Cetuximab	C	Resistance	19223544	CiViC
+TP53	R249	Breast Cancer	Doxorubicin	B	Sensitivity/Response	9569050	CiViC
+CSF1R	MEF2D-CSF1R	Acute Lymphoblastic Leukemia	GW-2580,Imatinib	D	Sensitivity/Response	24186003	CiViC
+RUNX1	MUTATION	Acute Myeloid Leukemia	Cytarabine	B	Resistance	21343560	CiViC
+IGF2	OVEREXPRESSION	Prostate Cancer	Linsitinib	D	N/A	25670080	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Gefitinib,Erlotinib	B	Sensitivity/Response	16818686	CiViC
+IGF2	OVEREXPRESSION	Prostate Cancer	Linsitinib,Docetaxel,Cabazitaxel	D	Sensitivity/Response	25670080	CiViC
+BTK	C481S	Chronic Lymphocytic Leukemia	Ibrutinib	B	Resistance	24869598	CiViC
+AKT1	Q79K	Melanoma	Vemurafenib	D	Resistance	24265152	CiViC
+ALK	EML4-ALK and AMPLIFICATION	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	22277784	CiViC
+ALK	ALK FUSION G1202R	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	22277784	CiViC
+ALK	EML4-ALK L1196M	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	22277784	CiViC
+ALK	EML4-ALK S1206Y	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	22277784	CiViC
+ALK	EML4-ALK T1151INST	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	22277784	CiViC
+APC	MUTATION	Colon Carcinoma	JW55	D	Sensitivity/Response	22440753	CiViC
+APC	MUTATION	Colorectal Cancer	G007-LK	D	Sensitivity/Response	23539443	CiViC
+AR	F877L	Prostate Cancer	Apalutamide,Enzalutamide	D	Resistance	23779130	CiViC
+AR	W742	Prostate Carcinoma	Bicalutamide	D	Resistance	12517791	CiViC
+ATM	MUTATION	Glioblastoma Multiforme	Temozolomide	D	Sensitivity/Response	23960094	CiViC
+ATM	MUTATION	Melanoma	Temozolomide	D	Sensitivity/Response	23960094	CiViC
+ATM	UNDEREXPRESSION	Cancer	KU-0060648,NU7441	D	Sensitivity/Response	23761041	CiViC
+ATM	MUTATION	Hematologic Cancer	Olaparib	D	Sensitivity/Response	20739657	CiViC
+AURKA	AMPLIFICATION	Esophagus Adenocarcinoma	Cisplatin,Alisertib	E	Sensitivity/Response	22302096	CiViC
+AURKA	OVEREXPRESSION	Cervical Adenocarcinoma	Paclitaxel	D	Resistance	12559175	CiViC
+KIT	V560DEL	Thymic Carcinoma	Imatinib	C	Sensitivity/Response	15201427	CiViC
+PTEN	LOSS	Colorectal Cancer	Cetuximab	B	Resistance	21163703	CiViC
+PTEN	LOSS	Prostate Cancer	Temsirolimus	D	Sensitivity/Response	11504908	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab	B	Sensitivity/Response	11248153	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab	B	Sensitivity/Response	15911866	CiViC
+KRAS	G12/G13	Pancreatic Adenocarcinoma	Gemcitabine,Trametinib	B	Resistance	24915778	CiViC
+CDK12	LOSS-OF-FUNCTION	Ovarian Serous Carcinoma	Olaparib	D	Sensitivity/Response	24240700	CiViC
+NT5C2	R367Q	T-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	23377281	CiViC
+NT5C2	K359Q	T-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	23377281	CiViC
+NT5C2	D407A	T-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	23377281	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Dasatinib	B	Resistance	18818391	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Ponatinib	D	Sensitivity/Response	24236021	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Ponatinib	B	Sensitivity/Response	25349473	CiViC
+EGFR	T790M	Lung Cancer	Multikinase Inhibitor AEE788,Gefitinib	D	Resistance	18227510	CiViC
+PTEN	LOSS	Bladder Carcinoma	Everolimus	B	Resistance	23989949	CiViC
+PTEN	LOSS	Breast Cancer	Trastuzumab	B	Resistance	24387334	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Rociletinib	B	Sensitivity/Response	25923550	CiViC
+ATM	V2288FS*1	Prostate Cancer	Olaparib	C	Sensitivity/Response	26510020	CiViC
+ATM	N2875H	Prostate Cancer	Olaparib	C	Sensitivity/Response	26510020	CiViC
+NF2	Y177FS	Peritoneal Mesothelioma	Cisplatin,Carboplatin	C	Resistance	25798586	CiViC
+BRCA2	LOSS-OF-FUNCTION	Prostate Cancer	Olaparib	B	Sensitivity/Response	26510020	CiViC
+PDGFRA	D842V	Gastrointestinal Stromal Tumor	Imatinib	D	Resistance	12949711	CiViC
+PDGFRA	V561A	Gastrointestinal Stromal Tumor	Imatinib	D	Sensitivity/Response	12949711	CiViC
+KIT	EXON 11 MUTATION	Gastrointestinal Stromal Tumor	Imatinib	B	Sensitivity/Response	14645423	CiViC
+XRCC1	R194W	Lung Non-small Cell Carcinoma	Docetaxel,Gemcitabine,Vinorelbine	B	Sensitivity/Response	19157633	CiViC
+GSTP1	DELETION	Ovarian Carcinoma	Cisplatin,Carboplatin,Paclitaxel	D	Sensitivity/Response	25010864	CiViC
+BIRC7	AMPLIFICATION	Colon Cancer	Cisplatin	D	Resistance	23188704	CiViC
+EGFR	EXON 4 DELETION	Epithelial Ovarian Cancer	Cisplatin	D	Resistance	23764753	CiViC
+KRAS	RS61764370	Epithelial Ovarian Cancer	Carboplatin,Paclitaxel	B	Resistance	22139083	CiViC
+MTHFR	A222V	Stomach Cancer	Fluorouracil	B	Sensitivity/Response	18704422	CiViC
+GSTP1	I105V	Colorectal Cancer	FOLFOX Regimen	B	Sensitivity/Response	19922504	CiViC
+XRCC1	Q399R	Cervical Cancer	Carboplatin,Cisplatin	B	Sensitivity/Response	16875718	CiViC
+ABCB1	S893T	Ovarian Cancer	Paclitaxel	B	Sensitivity/Response	16467099	CiViC
+ABCB1	I1145I	Lung Non-small Cell Carcinoma	Cisplatin,Carboplatin	B	Sensitivity/Response	22296372	CiViC
+ERCC2	K751Q	Osteosarcoma	Cisplatin	B	Resistance	19434073	CiViC
+ERCC2	K751Q	Lung Non-small Cell Carcinoma	Carboplatin,Paclitaxel	B	Sensitivity/Response	19470925	CiViC
+TYMS	5' TANDEM REPEAT	Colorectal Cancer	Fluorouracil,Irinotecan	B	Resistance	20628391	CiViC
+LRP1B	EXON 12-22 DELETION	Ovarian Cancer	Doxorubicin	D	Resistance	22896685	CiViC
+FGFR1	AMPLIFICATION	Lung Squamous Cell Carcinoma	PD173074	D	Sensitivity/Response	21160078	CiViC
+FGFR1	EXPRESSION	Lung Cancer	Ponatinib	D	Sensitivity/Response	24771645	CiViC
+FGFR1	AMPLIFICATION	Lung Non-small Cell Carcinoma	PD173074	D	Sensitivity/Response	21666749	CiViC
+ROS1	REARRANGEMENT	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	25264305	CiViC
+MET	AMPLIFICATION	Gastric Adenocarcinoma	Onartuzumab	C	Sensitivity/Response	22389872	CiViC
+EGFR	OVEREXPRESSION	Lung Non-small Cell Carcinoma	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	B	Sensitivity/Response	22056021	CiViC
+CDKN2A	p16 EXPRESSION	Head And Neck Squamous Cell Carcinoma	Panitumumab	B	Resistance	23746666	CiViC
+RET	KIF5B-RET	Lung Adenocarcinoma	Vandetanib	C	Sensitivity/Response	23584301	CiViC
+HRAS	G13D	Colorectal Cancer	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	C	Resistance	26561417	CiViC
+HRAS	MUTATION	Cancer	Binimetinib,MTOR Kinase Inhibitor AZD8055,Selumetinib,MEK Inhibitor PD0325901,Everolimus	D	Sensitivity/Response	26544513	CiViC
+CD274	EXPRESSION	Melanoma	Nivolumab,Pembrolizumab	B	Sensitivity/Response	26086854	CiViC
+MTOR	MUTATION	Bladder Carcinoma	Pazopanib,Everolimus	C	Sensitivity/Response	24625776	CiViC
+AKT2	EXPRESSION	Breast Cancer	Trastuzumab	B	Sensitivity/Response	22842582	CiViC
+AKT1	E17K	Melanoma	Uprosertib	D	Sensitivity/Response	24735930	CiViC
+PTEN	LOSS	Melanoma	Uprosertib	D	Sensitivity/Response	24735930	CiViC
+AKT1	E17K	Breast Cancer	Capivasertib	C	Sensitivity/Response	26351323	CiViC
+PIK3CA	E545K	Breast Cancer	Pictilisib,Akt Inhibitor MK2206	D	Sensitivity/Response	23888070	CiViC
+PTEN	LOSS	Breast Cancer	PI3Kbeta Inhibitor AZD8186	D	Sensitivity/Response	25398829	CiViC
+MTOR	H1968Y	Melanoma	Capivasertib,PI3K/BET Inhibitor LY294002	D	Sensitivity/Response	26490311	CiViC
+PTEN	LOSS	Cancer	Carboplatin,Buparlisib,Paclitaxel	B	Sensitivity/Response	25672916	CiViC
+NF2	K159FS*16	Breast Cancer	Temsirolimus	C	Sensitivity/Response	25878190	CiViC
+PTEN	LOSS	Breast Cancer	Alpelisib	D	Resistance	25409150	CiViC
+EGFR	S492R	Colorectal Cancer	Cetuximab	C	Resistance	22270724	CiViC
+FBXW7	MUTATION	Colorectal Cancer	Panitumumab,Cetuximab	B	Resistance	26508446	CiViC
+SMAD4	MUTATION	Colorectal Cancer	Panitumumab,Cetuximab	B	Resistance	26508446	CiViC
+SMAD4	UNDEREXPRESSION	Head And Neck Squamous Cell Carcinoma	Cetuximab	D	Resistance	26046389	CiViC
+MTOR	P2213S	Melanoma	PI3K/BET Inhibitor LY294002,Capivasertib	D	Sensitivity/Response	26490311	CiViC
+BRAF	AGK-BRAF	Melanoma	Sorafenib	C	Sensitivity/Response	23890088	CiViC
+BRAF	AGK-BRAF	Melanoma	Vemurafenib	D	Resistance	23890088	CiViC
+BRAF	PAPSS1-BRAF	Melanoma	Vemurafenib	D	Resistance	24345920	CiViC
+BRAF	PAPSS1-BRAF	Melanoma	Trametinib	D	Sensitivity/Response	24345920	CiViC
+BRAF	TRIM24-BRAF	Melanoma	Trametinib	D	Sensitivity/Response	24345920	CiViC
+BRAF	L597R	Melanoma	Vemurafenib	C	Sensitivity/Response	23715574	CiViC
+ERBB3	OVEREXPRESSION	Colorectal Cancer	Cetuximab	B	Resistance	25520391	CiViC
+NT5E	OVEREXPRESSION	Colorectal Cancer	Cetuximab	B	Sensitivity/Response	25520391	CiViC
+IDH1	R132C	Acute Myeloid Leukemia	GSK321	D	Sensitivity/Response	26436839	CiViC
+MET	AMPLIFICATION	Lung Non-small Cell Carcinoma	Gefitinib	D	Resistance	17463250	CiViC
+MYD88	OVEREXPRESSION	Breast Cancer	Paclitaxel	D	Resistance	26596839	CiViC
+MET	AMPLIFICATION	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	21623265	CiViC
+MET	EXON 14 SKIPPING MUTATION	Cancer	Crizotinib	D	Sensitivity/Response	26547802	CiViC
+EGFR	OVEREXPRESSION	Lung Non-small Cell Carcinoma	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	B	Sensitivity/Response	26439803	CiViC
+PDGFRA	D842V	Gastrointestinal Stromal Tumor	Imatinib	B	Resistance	26130666	CiViC
+PIK3CA	P471L	Merkel Cell Carcinoma	Idelalisib	C	Sensitivity/Response	26466009	CiViC
+RET	EXPRESSION	Breast Cancer	Vandetanib	D	Sensitivity/Response	26686064	CiViC
+RIT1	MUTATION	Lung Adenocarcinoma	Pictilisib,Selumetinib	D	Sensitivity/Response	24469055	CiViC
+CD274	EXPRESSION	Lung Non-small Cell Carcinoma	Nivolumab,Pembrolizumab	B	Sensitivity/Response	26086854	CiViC
+MYCN	AMPLIFICATION	Neuroblastoma	FACT Complex-targeting Curaxin CBL0137	D	Sensitivity/Response	26537256	CiViC
+SMO	D473H	Brain Medulloblastoma	Vismodegib	C	Resistance	19726788	CiViC
+SMO	MUTATION	Basal Cell Carcinoma	Vismodegib	B	Resistance	25759020	CiViC
+SMO	MUTATION	Basal Cell Carcinoma	PSI,Arsenic Trioxide	D	Sensitivity/Response	25759020	CiViC
+PTCH1	MUTATION	Brain Medulloblastoma	Sonidegib	B	Sensitivity/Response	24651015	CiViC
+PTCH1	LOH	Brain Medulloblastoma	Vismodegib	B	Sensitivity/Response	26169613	CiViC
+STK11	UNDEREXPRESSION	Prostate Cancer	SB202190	D	Sensitivity/Response	26391455	CiViC
+SYK	OVEREXPRESSION	Ovarian Cancer	Paclitaxel	D	Resistance	26096845	CiViC
+CDKN2A	p16 EXPRESSION	Head And Neck Squamous Cell Carcinoma	Panitumumab	B	Sensitivity/Response	23746666	CiViC
+SMO	D473H	Basal Cell Carcinoma	Vismodegib	D	Resistance	25759020	CiViC
+PIK3CA	AMPLIFICATION	Epithelial Ovarian Cancer	Pictilisib	C	Sensitivity/Response	25370471	CiViC
+BRAF	V600E	Melanoma	Pictilisib	C	Sensitivity/Response	25370471	CiViC
+ERBB2	AMPLIFICATION	Breast Cancer	AKTi-1/2	D	Sensitivity/Response	18725974	CiViC
+ERBB2	AMPLIFICATION	Breast Cancer	Neratinib	B	Sensitivity/Response	20142587	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Rociletinib	D	Sensitivity/Response	24065731	CiViC
+ALK	EML4-ALK L1152R	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	21791641	CiViC
+ALK	EML4-ALK G1269A	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	22235099	CiViC
+ALK	EML4-ALK G1269A	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	23344087	CiViC
+ALK	EML4-ALK and AMPLIFICATION	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	22235099	CiViC
+ALK	EML4-ALK and AMPLIFICATION	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	23344087	CiViC
+ERBB4	MUTATION	Melanoma	Lapatinib	D	Sensitivity/Response	19718025	CiViC
+PIK3CA	MUTATION	Colorectal Cancer	Cabozantinib	D	Sensitivity/Response	25242168	CiViC
+EGFR	VIII	Glioblastoma Multiforme	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	B	Sensitivity/Response	16282176	CiViC
+EGFR	VIII	Glioblastoma Multiforme	Afatinib	C	Sensitivity/Response	26423602	CiViC
+PTEN	EXPRESSION	Glioblastoma Multiforme	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	B	Sensitivity/Response	16282176	CiViC
+PTEN	EXPRESSION	Glioblastoma Multiforme	Dacomitinib	D	Sensitivity/Response	25939761	CiViC
+NRG1	EXPRESSION	Head And Neck Squamous Cell Carcinoma	Lapatinib	D	Sensitivity/Response	21840482	CiViC
+NRG1	EXPRESSION	Colorectal Cancer	Cetuximab	D	Resistance	21900593	CiViC
+NRG1	EXPRESSION	Ovarian Cancer	Seribantumab	D	Sensitivity/Response	20227043	CiViC
+NRG1	EXPRESSION	Lung Non-small Cell Carcinoma	Cisplatin,Gemcitabine,Carboplatin,Paclitaxel	D	Sensitivity/Response	23390248	CiViC
+AREG	EXPRESSION	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	21791641	CiViC
+AREG	EXPRESSION	Lung Non-small Cell Carcinoma	Crizotinib	B	Resistance	23344087	CiViC
+EGFR	G724S	Colorectal Cancer	Cetuximab	D	Sensitivity/Response	24894453	CiViC
+EGFR	G719S	Colorectal Cancer	Cetuximab	D	Sensitivity/Response	24894453	CiViC
+AREG	EXPRESSION	Colorectal Cancer	Cetuximab	B	Sensitivity/Response	23374602	CiViC
+EREG	EXPRESSION	Colorectal Cancer	Cetuximab	B	Sensitivity/Response	23374602	CiViC
+MAPK1	E322K	Head And Neck Squamous Cell Carcinoma	Erlotinib	C	Sensitivity/Response	26181029	CiViC
+MAPK1	AMPLIFICATION	Lung Non-small Cell Carcinoma	WZ4002	D	Resistance	22961667	CiViC
+KRAS	A146V	Lung Non-small Cell Carcinoma	Abemaciclib	C	Sensitivity/Response	24836576	CiViC
+KRAS	G12V	Lung Non-small Cell Carcinoma	Palbociclib	D	Sensitivity/Response	20609353	CiViC
+MET	MUTATION	Papillary Renal Cell Carcinoma	Foretinib	B	Sensitivity/Response	23213094	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	25971939	CiViC
+FGFR1	EXPRESSION	Head And Neck Squamous Cell Carcinoma	Infigratinib	D	Sensitivity/Response	26015511	CiViC
+FGFR1	EXPRESSION	Gastric Adenocarcinoma	Infigratinib	D	Sensitivity/Response	26637881	CiViC
+FGFR1	EXPRESSION	Bladder Carcinoma	Dovitinib,PD173074	D	Sensitivity/Response	21119661	CiViC
+FGFR3	EXPRESSION	Bladder Carcinoma	Dovitinib,Tyrosine Kinase Inhibitor SU5402,PD173074	D	Sensitivity/Response	21119661	CiViC
+CBLC	EXPRESSION	Cancer	Olaparib	D	Resistance	25883215	CiViC
+PTPRD	MUTATION	Head And Neck Carcinoma	JSI-124	D	Sensitivity/Response	26267899	CiViC
+DEFA1	EXPRESSION	Prostate Cancer	Docetaxel	B	Sensitivity/Response	26261420	CiViC
+NOTCH1	AMPLIFICATION	Colorectal Cancer	NOTCH1 Antibody (PF-06293622)	D	Sensitivity/Response	26152787	CiViC
+NRG1	EXPRESSION	Lung Non-small Cell Carcinoma	Patritumab	B	Sensitivity/Response	26137564	CiViC
+WEE1	RS3910384	Lung Non-small Cell Carcinoma	Gemcitabine,Platinum Compound	B	Sensitivity/Response	26057002	CiViC
+FNTB	RS11623866	Ovarian Cancer	Lonafarnib	B	Resistance	26033044	CiViC
+PTPRT	PROMOTER HYPERMETHYLATION	Head And Neck Squamous Cell Carcinoma	JSI-124,Stattic	D	Sensitivity/Response	25982282	CiViC
+VEGFA	UNDEREXPRESSION	Colorectal Cancer	Bevacizumab,Fluorouracil,Levoleucovorin,Irinotecan	B	Sensitivity/Response	25973082	CiViC
+DNMT1	EXPRESSION	Ovarian Cancer	Decitabine	D	Sensitivity/Response	25968887	CiViC
+KRAS	MUTATION	Ovarian Cancer	Decitabine	D	Sensitivity/Response	25968887	CiViC
+PDCD4	EXPRESSION	Lung Cancer	Paclitaxel	B	Sensitivity/Response	25928036	CiViC
+MGMT	RS16906252	Glioblastoma Multiforme	Temozolomide	B	Sensitivity/Response	25910840	CiViC
+TFF3	EXPRESSION	Breast Cancer	Aminoglutethimide,Tamoxifen	B	Sensitivity/Response	25900183	CiViC
+DKK1	NUCLEAR EXPRESSION	Colorectal Cancer	Oxaliplatin,Fluorouracil,Levoleucovorin,Irinotecan	B	Resistance	25788273	CiViC
+CD44	ISOFORM EXPRESSION	Cancer	RG7356	D	Sensitivity/Response	25762343	CiViC
+EGF	EXPRESSION	Head And Neck Squamous Cell Carcinoma	Cetuximab	D	Resistance	25677871	CiViC
+MDM2	EXPRESSION	Malignant Pleural Mesothelioma	Cisplatin,Pemetrexed	B	Resistance	25668009	CiViC
+HMOX1	EXPRESSION	Renal Cell Carcinoma	Sunitinib,Sorafenib	B	Resistance	26309414	CiViC
+CASP8	EXPRESSION	Ewing Sarcoma Of Bone	Conatumumab	D	Sensitivity/Response	26291055	CiViC
+TYMS	EXPRESSION	Lung Non-small Cell Carcinoma	Pemetrexed	B	Resistance	26502926	CiViC
+PBK	OVEREXPRESSION	Lung Non-small Cell Carcinoma	Gefitinib	D	Resistance	26745678	CiViC
+MET	AMPLIFICATION	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	26724472	CiViC
+SMARCA4	UNDEREXPRESSION	Lung Non-small Cell Carcinoma	Cisplatin,Vinorelbine	B	Sensitivity/Response	26671993	CiViC
+ALK	EML4-ALK C1156Y	Lung Non-small Cell Carcinoma	Ceritinib,Luminespib,Crizotinib	C	Resistance	26698910	CiViC
+ALK	EML4-ALK C1156Y	Lung Non-small Cell Carcinoma	Lorlatinib	C	Sensitivity/Response	26698910	CiViC
+ALK	EML4-ALK C1156Y-L1198F	Lung Non-small Cell Carcinoma	Lorlatinib	C	Resistance	26698910	CiViC
+ALK	EML4-ALK C1156Y-L1198F	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	26698910	CiViC
+BRCA1	LOSS-OF-FUNCTION	Prostate Cancer	Olaparib	C	Sensitivity/Response	26510020	CiViC
+AREG	EXPRESSION	Head And Neck Squamous Cell Carcinoma	Docetaxel,Cetuximab	B	Resistance	21653686	CiViC
+EGFR	VIII	Head And Neck Squamous Cell Carcinoma	Docetaxel,Cetuximab	B	Resistance	21653686	CiViC
+TP53	MUTATION	Gastric Adenocarcinoma	Chemotherapy	B	Sensitivity/Response	24740294	CiViC
+TP53	MUTATION	Breast Cancer	Doxorubicin	D	Sensitivity/Response	22698404	CiViC
+CDKN1A	EXPRESSION	Colorectal Cancer	Fluorouracil	B	Resistance	24708484	CiViC
+ALCAM	EXPRESSION	Colorectal Cancer	Fluorouracil	B	Resistance	24708484	CiViC
+EGFR	AMPLIFICATION	Colorectal Cancer	Panitumumab,Cetuximab	B	Sensitivity/Response	24653627	CiViC
+STMN1	EXPRESSION	Endometrial Carcinoma	Paclitaxel	B	Resistance	24587245	CiViC
+CCND1	OVEREXPRESSION	Estrogen-receptor Positive Breast Cancer	Tamoxifen	B	Resistance	15138475	CiViC
+RSF1	AMPLIFICATION	Breast Cancer	Tamoxifen	B	Resistance	24367492	CiViC
+AR	OVEREXPRESSION	Breast Cancer	Dactolisib	D	Sensitivity/Response	24356815	CiViC
+CDKN1B	CYTOPLASMIC MISLOCALIZATION	Breast Cancer	Lapatinib	D	Resistance	25587029	CiViC
+NRG1	EXPRESSION	Cancer	Anti-ErbB3 Monoclonal Antibody AV-203	D	Sensitivity/Response	25542901	CiViC
+AR	SPLICE VARIANT 7	Prostate Cancer	Enzalutamide,Abiraterone	B	Resistance	25184630	CiViC
+PTEN	LOSS	Gastric Adenocarcinoma	Lapatinib,Trastuzumab	B	Resistance	25300346	CiViC
+ERBB3	EXPRESSION	Pancreatic Ductal Adenocarcinoma	Pertuzumab,9F7-F11	D	Sensitivity/Response	25216528	CiViC
+UGT1A	EXPRESSION	Colorectal Cancer	Ganetespib	D	Resistance	25210794	CiViC
+ERBB4	NUCLEAR TRANSLOCATION	Breast Cancer	Trastuzumab	D	Resistance	25153719	CiViC
+ERBB4	EXPRESSION	Breast Cancer	Trastuzumab	D	Resistance	25153719	CiViC
+ERBB4	EXPRESSION	Breast Cancer	Lapatinib	D	Resistance	25590338	CiViC
+SLFN11	EXPRESSION	Colorectal Cancer	7-Ethyl-10-Hydroxycamptothecin	D	Sensitivity/Response	25089570	CiViC
+AURKA	OVEREXPRESSION	Lung Non-small Cell Carcinoma	Cisplatin	B	Resistance	25082261	CiViC
+KRAS	RS61764370	Head And Neck Squamous Cell Carcinoma	Cisplatin	B	Resistance	25081901	CiViC
+RAC1	P29S	Melanoma	Vemurafenib,Dabrafenib	D	Resistance	25056119	CiViC
+BIRC5	NUCLEAR EXPRESSION	Lung Non-small Cell Carcinoma	Taxane Compound,Platinum Compound	B	Sensitivity/Response	24961465	CiViC
+TP53	WILD TYPE	Colorectal Cancer	Capecitabine,Cetuximab,Oxaliplatin	B	Sensitivity/Response	24957073	CiViC
+MRE11	LOSS	Endometrial Cancer	Talazoparib	D	Sensitivity/Response	24927325	CiViC
+ATM	UNDEREXPRESSION	Gastric Adenocarcinoma	Olaparib	D	Sensitivity/Response	24841718	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Afatinib	B	Sensitivity/Response	23816960	CiViC
+EGFR	EXON 19 DELETION	Lung Adenocarcinoma	Afatinib	B	Sensitivity/Response	23816960	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Afatinib	D	Sensitivity/Response	25862853	CiViC
+EGFR	EXON 19 DELETION	Lung Adenocarcinoma	Afatinib	B	Sensitivity/Response	22452895	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Afatinib	B	Sensitivity/Response	22452895	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Erlotinib	B	Sensitivity/Response	22285168	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Erlotinib	B	Sensitivity/Response	22285168	CiViC
+ERBB2	AMPLIFICATION	Uterine Corpus Endometrial Carcinoma	Afatinib	D	Sensitivity/Response	25268372	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Afatinib,Lapatinib,Trastuzumab	B	Sensitivity/Response	25537159	CiViC
+TOP1	AMPLIFICATION	Colorectal Cancer	Irinotecan	B	Sensitivity/Response	24256029	CiViC
+CDKN1B	EXPRESSION	Head And Neck Squamous Cell Carcinoma	Cisplatin,Fluorouracil	B	Sensitivity/Response	24239278	CiViC
+MET	AMPLIFICATION	Lung Squamous Cell Carcinoma	Crizotinib	C	Sensitivity/Response	24192513	CiViC
+AGR2	EXPRESSION	Breast Cancer	Tamoxifen	B	Resistance	24167368	CiViC
+FGFR1	EXPRESSION	Colorectal Cancer	Infigratinib	D	Sensitivity/Response	24135816	CiViC
+NAPRT	PROMOTER HYPERMETHYLATION	Cancer	GNE-617	D	Sensitivity/Response	24097869	CiViC
+EGFR	EXON 18 OVEREXPRESSION	Lung Non-small Cell Carcinoma	Erlotinib,Bevacizumab	B	Sensitivity/Response	24039832	CiViC
+ZEB1	EXPRESSION	Mantle Cell Lymphoma	Gemcitabine,Cytarabine,Doxorubicin	D	Resistance	24013721	CiViC
+ZEB1	EXPRESSION	Mantle Cell Lymphoma	Doxorubicin,Salinomycin	D	Sensitivity/Response	24013721	CiViC
+TIMP1	OVEREXPRESSION	Breast Cancer	Fulvestrant	D	Resistance	23881388	CiViC
+PTP4A3	OVEREXPRESSION	Colorectal Cancer	Cetuximab	D	Sensitivity/Response	23867504	CiViC
+TYMS	AMPLIFICATION	Lung Adenocarcinoma	Pemetrexed	B	Resistance	23645741	CiViC
+IGF1R	EXPRESSION	Lung Non-small Cell Carcinoma	Gefitinib	D	Resistance	23619944	CiViC
+EPHB4	EXPRESSION	Colorectal Cancer	Bevacizumab	B	Resistance	23579861	CiViC
+TP53	WILD TYPE	Esophageal Carcinoma	Chemotherapy	B	Sensitivity/Response	23515910	CiViC
+TYMS	UNDEREXPRESSION	Lung Non-small Cell Carcinoma	Pemetrexed	B	Sensitivity/Response	21367480	CiViC
+TYMS	UNDEREXPRESSION	Prostate Cancer	Pemetrexed	C	Sensitivity/Response	24782778	CiViC
+TOP2A	EXPRESSION	Breast Cancer	Doxorubicin	B	Sensitivity/Response	15486187	CiViC
+TOP1	EXPRESSION	Ovarian Cancer	Carboplatin,Topotecan,Cyclophosphamide	B	Sensitivity/Response	19648970	CiViC
+EGFR	AMPLIFICATION	Colorectal Cancer	Cetuximab	B	Sensitivity/Response	18794099	CiViC
+TOP1	EXPRESSION	Colorectal Cancer	Irinotecan	B	Sensitivity/Response	19775480	CiViC
+PRKAA2	T172 PHOSPHORYLATION	Cancer	ACLY SiRNA	E	Sensitivity/Response	23506848	CiViC
+HSPA5	EXPRESSION	Colorectal Cancer	Fluorouracil	B	Sensitivity/Response	23456958	CiViC
+PIK3CA	MUTATION	Colorectal Cancer	Anti-EGFR Monoclonal Antibody	B	Resistance	23435830	CiViC
+EIF4EBP1	PHOSPHORYLATION	Gastric Adenocarcinoma	Everolimus	D	Sensitivity/Response	23340172	CiViC
+KIT	MUTATION	Gastrointestinal Stromal Tumor	Pictilisib,Imatinib	D	Sensitivity/Response	23231951	CiViC
+TUBB3	EXPRESSION	Cancer	Paclitaxel	D	Resistance	21576762	CiViC
+TUBB3	EXPRESSION	Breast Cancer	Taxane Compound	B	Sensitivity/Response	23218766	CiViC
+TYMS	EXPRESSION	Lung Non-small Cell Carcinoma	Pemetrexed	B	Resistance	23060591	CiViC
+EGFR	Y1092 PHOSPHORYLATION	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	22901364	CiViC
+IGF1R	NUCLEAR EXPRESSION	Sarcoma	IGF1R Monoclonal Antibody	B	Sensitivity/Response	22682017	CiViC
+CFLAR	EXPRESSION	Prostate Cancer	Bicalutamide	D	Resistance	22623731	CiViC
+PROM1	EXPRESSION	Hepatocellular Carcinoma	Sorafenib	B	Resistance	22596232	CiViC
+TIMP1	OVEREXPRESSION	Breast Cancer	Paclitaxel	B	Resistance	22544540	CiViC
+FOXP3	EXPRESSION	Breast Cancer	Epirubicin	B	Sensitivity/Response	22431701	CiViC
+TYMS	EXPRESSION	Gastric Adenocarcinoma	Raltitrexed	B	Resistance	22422354	CiViC
+RPS6	PHOSPHORYLATION	Gastric Adenocarcinoma	Everolimus	D	Sensitivity/Response	22343617	CiViC
+JAK1	OVEREXPRESSION	Lung Non-small Cell Carcinoma	Enzastaurin	D	Sensitivity/Response	22333600	CiViC
+EIF4EBP1	PHOSPHORYLATION	Colorectal Cancer	MTOR Kinase Inhibitor PP242,Dactolisib,WYE354	D	Resistance	22262166	CiViC
+BRCA1	EXPRESSION	Malignant Mesothelioma	Vinorelbine	D	Sensitivity/Response	22190288	CiViC
+DUSP6	EXPRESSION	Cancer	Trametinib	D	Sensitivity/Response	22169769	CiViC
+KRAS	MUTATION	Cancer	Trametinib	D	Sensitivity/Response	22169769	CiViC
+BRAF	MUTATION	Cancer	Trametinib	D	Sensitivity/Response	22169769	CiViC
+KRAS	G12D	Pancreatic Carcinoma	Akt Inhibitor MK2206	C	Sensitivity/Response	22025163	CiViC
+PTEN	LOSS	Pancreatic Carcinoma	Akt Inhibitor MK2206	C	Sensitivity/Response	22025163	CiViC
+HSPB1	EXPRESSION	Pancreatic Ductal Adenocarcinoma	Gemcitabine	D	Sensitivity/Response	22004109	CiViC
+NQO1	EXPRESSION	Lung Cancer	Amrubicin	D	Resistance	21964527	CiViC
+NQO1	P187S	Lung Cancer	Amrubicin	D	Sensitivity/Response	21964527	CiViC
+BRCA1	UNDEREXPRESSION	Ovarian Cancer	Taxane Compound,Platinum Compound	B	Sensitivity/Response	21920589	CiViC
+KRAS	MUTATION	Colorectal Cancer	Immunomodulatory Oligonucleotide,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	D	Sensitivity/Response	21890455	CiViC
+ABCB1	EXPRESSION	Lung Non-small Cell Carcinoma	Paclitaxel	D	Resistance	21883677	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Pemetrexed	B	Sensitivity/Response	21642865	CiViC
+DNMT1	EXPRESSION	Gastric Adenocarcinoma	Cisplatin	B	Resistance	21458988	CiViC
+KRAS	MUTATION	Colorectal Cancer	Dasatinib,Cetuximab	D	Sensitivity/Response	20956938	CiViC
+EGFR	AMPLIFICATION	Lung Non-small Cell Carcinoma	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	B	Sensitivity/Response	20826716	CiViC
+CXCR4	EXPRESSION	Gastric Adenocarcinoma	Docetaxel	B	Resistance	20651371	CiViC
+MAGEH1	EXPRESSION	Bile Duct Adenocarcinoma	Gemcitabine	D	Resistance	20088962	CiViC
+ABCC3	AMPLIFICATION	Breast Cancer	Monomethyl Auristatin E,Paclitaxel	D	Resistance	18593940	CiViC
+ABCC10	EXPRESSION	Lung Non-small Cell Carcinoma	Paclitaxel	D	Resistance	18445659	CiViC
+ASNS	AMPLIFICATION	Ovarian Cancer	Asparaginase	D	Resistance	17088436	CiViC
+EGFR	OVEREXPRESSION	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	16707605	CiViC
+PTEN	EXPRESSION	Breast Cancer	Trastuzumab	B	Sensitivity/Response	16404430	CiViC
+POU5F1	EXPRESSION	Colon Cancer	Oxaliplatin	D	Resistance	26398480	CiViC
+ERBB2	KINASE DOMAIN MUTATION	Lung Adenocarcinoma	Afatinib	C	Sensitivity/Response	22325357	CiViC
+ERBB2	Y772_A775DUP	Lung Non-small Cell Carcinoma	Sirolimus,Afatinib	D	Sensitivity/Response	19122144	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Afatinib	B	Sensitivity/Response	22418700	CiViC
+ERBB2	AMPLIFICATION	Pancreatic Adenocarcinoma	Afatinib	D	Sensitivity/Response	26668065	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Osimertinib	D	Sensitivity/Response	24893891	CiViC
+EGFR	C797S	Lung Non-small Cell Carcinoma	Osimertinib	B	Resistance	25939061	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Osimertinib	B	Sensitivity/Response	25923549	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Osimertinib	B	Sensitivity/Response	26720284	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Rociletinib,Osimertinib	D	Sensitivity/Response	26515464	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Afatinib	D	Sensitivity/Response	26515464	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Afatinib	D	Sensitivity/Response	26515464	CiViC
+EGFR	VIII	Glioblastoma Multiforme	Rindopepimut	B	Sensitivity/Response	25586468	CiViC
+ERBB2	SERUM LEVELS	Breast Cancer	Lapatinib	B	Sensitivity/Response	26811533	CiViC
+NTRK1	NTRK1 FUSIONS	Colorectal Cancer	Larotrectinib	D	Sensitivity/Response	26716414	CiViC
+IDH1	R132H	Anaplastic Oligodendroglioma	AGI-5198	D	Sensitivity/Response	23558169	CiViC
+EGFR	EXON 19 DELETION	Lung Adenocarcinoma	Afatinib	B	Sensitivity/Response	24439929	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Afatinib	B	Sensitivity/Response	24439929	CiViC
+EGFR	EXON 19 DELETION	Lung Adenocarcinoma	Afatinib	B	Sensitivity/Response	25589191	CiViC
+HLA-DRA	EXPRESSION	Skin Melanoma	Pembrolizumab,Atezolizumab,Nivolumab	B	Sensitivity/Response	26822383	CiViC
+MYD88	L265P	Waldenström's Macroglobulinemia	Ibrutinib	B	Sensitivity/Response	25853747	CiViC
+KRAS	MUTATION	Colorectal Cancer	Selumetinib,B-Raf/VEGFR-2 Inhibitor RAF265	D	Sensitivity/Response	25199829	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Selumetinib,B-Raf/VEGFR-2 Inhibitor RAF265	D	Sensitivity/Response	25199829	CiViC
+KRAS	MUTATION	Colorectal Cancer	Trametinib,Afatinib	D	Sensitivity/Response	24685132	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Afatinib,Trametinib	D	Sensitivity/Response	24685132	CiViC
+KRAS	EXON 2 MUTATION	Colorectal Cancer	Cetuximab	A	Resistance	18946061	CiViC
+BRAF	V600	Melanoma	MEK Inhibitor RO4987655	B	Sensitivity/Response	24947927	CiViC
+BRAF	WILD TYPE	Melanoma	MEK Inhibitor RO4987655	B	Sensitivity/Response	24947927	CiViC
+NRAS	MUTATION	Melanoma	MEK Inhibitor RO4987655	B	Sensitivity/Response	24947927	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Selumetinib,Docetaxel	B	Sensitivity/Response	23200175	CiViC
+BRAF	V600	Melanoma	Refametinib	C	Resistance	23434733	CiViC
+NRAS	Q61K	Neuroblastoma	Binimetinib,Everolimus	D	Sensitivity/Response	26821351	CiViC
+KRAS	MUTATION	Pancreatic Adenocarcinoma	SCH772984,PI3Kbeta Inhibitor AZD8186	D	Sensitivity/Response	26725216	CiViC
+KRAS	MUTATION	Colorectal Cancer	Teprotumumab,Selumetinib	D	Sensitivity/Response	21985784	CiViC
+BRAF	V600E	Melanoma	Selumetinib,Dactolisib	D	Sensitivity/Response	26678033	CiViC
+ERBB2	AMPLIFICATION	Breast Cancer	Trastuzumab,Lapatinib	D	Sensitivity/Response	16091755	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Lapatinib,Trastuzumab	B	Sensitivity/Response	22493419	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab,Lapatinib	B	Sensitivity/Response	20124187	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Afatinib	B	Sensitivity/Response	22418700	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Afatinib	B	Sensitivity/Response	26596672	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Afatinib,Trastuzumab	B	Sensitivity/Response	25370464	CiViC
+MRE11	FRAMESHIFT MUTATION	Prostate Cancer	Olaparib	B	Sensitivity/Response	26510020	CiViC
+EGFR	VIII	Brain Glioma	Nimotuzumab	D	Sensitivity/Response	26778701	CiViC
+NTRK1	NTRK1 FUSIONS	Lung Adenocarcinoma	Larotrectinib,Lestaurtinib,Crizotinib	D	Sensitivity/Response	24162815	CiViC
+AREG	EXPRESSION	Colorectal Cancer	Panitumumab	B	Sensitivity/Response	26867820	CiViC
+EREG	EXPRESSION	Colorectal Cancer	Panitumumab	B	Sensitivity/Response	26867820	CiViC
+ERBB2	AMPLIFICATION	Gastric Adenocarcinoma	Trastuzumab	B	Sensitivity/Response	20728210	CiViC
+ERBB2	AMPLIFICATION	Gastric Adenocarcinoma	Lapatinib	B	Sensitivity/Response	24868024	CiViC
+KIT	EXPRESSION	Endometrial Cancer	Imatinib	C	Sensitivity/Response	18607592	CiViC
+KIT	EXPRESSION	Endometrial Cancer	Imatinib	C	Sensitivity/Response	16487996	CiViC
+ROS1	REARRANGEMENT	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	25667280	CiViC
+VHL	LOSS	Renal Carcinoma	Temsirolimus	D	Sensitivity/Response	16341243	CiViC
+FLT3	D835	Acute Myeloid Leukemia	Ponatinib,Quizartinib	D	Resistance	23430109	CiViC
+FLT3	D835	Acute Myeloid Leukemia	SU5614	D	Resistance	19318574	CiViC
+FLT3	D835	Acute Myeloid Leukemia	Quizartinib,Sorafenib	B	Resistance	22504184	CiViC
+FLT3	D835	Acute Myeloid Leukemia	Sorafenib	B	Resistance	22368270	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Sorafenib	B	Sensitivity/Response	22368270	CiViC
+ERBB2	KINASE DOMAIN MUTATION	Lung Adenocarcinoma	Trastuzumab	C	Sensitivity/Response	26598547	CiViC
+ERBB2	AMPLIFICATION	Lung Small Cell Carcinoma	Irinotecan,Trastuzumab	C	Sensitivity/Response	25601188	CiViC
+ERBB2	Y772_A775DUP	Lung Adenocarcinoma	Afatinib	C	Sensitivity/Response	26559459	CiViC
+ERBB2	Y772_A775DUP	Lung Carcinoma	Afatinib	D	Sensitivity/Response	19122144	CiViC
+ERBB2	P780INS	Lung Adenocarcinoma	Dacomitinib	C	Sensitivity/Response	25899785	CiViC
+ERBB2	AMPLIFICATION	Lung Non-small Cell Carcinoma	Trastuzumab Emtansine	D	Sensitivity/Response	24898067	CiViC
+EGFR	G465R	Colorectal Cancer	Futuximab/Modotuximab Mixture	C	Sensitivity/Response	26888827	CiViC
+EGFR	G465R	Colorectal Cancer	Panitumumab,Cetuximab	C	Resistance	26888827	CiViC
+ETS2	RS461155	Lung Non-small Cell Carcinoma	Cisplatin,Paclitaxel	B	Sensitivity/Response	26893365	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Pertuzumab,Trastuzumab,Docetaxel	B	Sensitivity/Response	25693012	CiViC
+EGFR	S492R	Colorectal Cancer	Panitumumab	C	Sensitivity/Response	22270724	CiViC
+EGFR	S492R	Colorectal Cancer	Panitumumab,Futuximab/Modotuximab Mixture	D	Sensitivity/Response	26888827	CiViC
+EGFR	S492R	Colorectal Cancer	Cetuximab	D	Resistance	26888827	CiViC
+EGFR	R451C	Colorectal Cancer	Panitumumab,Cetuximab,Futuximab/Modotuximab Mixture	D	Sensitivity/Response	26888827	CiViC
+EGFR	K467T	Colorectal Cancer	Panitumumab,Futuximab/Modotuximab Mixture	D	Sensitivity/Response	26888827	CiViC
+EGFR	K467T	Colorectal Cancer	Cetuximab	D	Resistance	26888827	CiViC
+EGFR	P753S	Skin Squamous Cell Carcinoma	Sirolimus,Cetuximab	C	Sensitivity/Response	24934779	CiViC
+PML	PML-RARA	Acute Promyelocytic Leukemia	Tretinoin,Arsenic Trioxide	A	Sensitivity/Response	11704842	CiViC
+PML	B2 DOMAIN MUTATION	Acute Promyelocytic Leukemia	Tretinoin	B	Resistance	23670176	CiViC
+PML	PML-RARA A216V	Acute Promyelocytic Leukemia	Tretinoin	C	Resistance	21613260	CiViC
+PML	PML-RARA L218P	Acute Promyelocytic Leukemia	Tretinoin	C	Resistance	21613260	CiViC
+MET	EXON 14 MUTATION and AMPLIFICATION	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	26729443	CiViC
+ERBB2	AMPLIFICATION	Endometrial Serous Adenocarcinoma	Trastuzumab	C	Sensitivity/Response	18555254	CiViC
+SMO	D473H	Brain Medulloblastoma	Patidegib	D	Sensitivity/Response	22550175	CiViC
+ROS1	CD74-ROS1 G2032R	Lung Adenocarcinoma	Crizotinib	C	Resistance	23724914	CiViC
+ROS1	CD74-ROS1 G2032R	Lung Non-small Cell Carcinoma	Cabozantinib	D	Sensitivity/Response	25351743	CiViC
+CEBPA	N-TERMINAL FRAME SHIFT	Acute Myeloid Leukemia	OICR-9429	D	Sensitivity/Response	26167872	CiViC
+FGFR1	ZNF198-FGFR1	Chronic Myeloproliferative Disease	Midostaurin	C	Sensitivity/Response	15448205	CiViC
+FGFR1	AMPLIFICATION	Breast Cancer	Afimoxifene	D	Resistance	20179196	CiViC
+KDR	A1065T	Angiosarcoma	Sorafenib,Sunitinib	D	Sensitivity/Response	19723655	CiViC
+KDR	D717V	Angiosarcoma	Sunitinib,Sorafenib	D	Sensitivity/Response	19723655	CiViC
+TSC2	Q1178*	Thyroid Gland Carcinoma	Everolimus	C	Sensitivity/Response	25295501	CiViC
+MTOR	F2108L	Thyroid Gland Carcinoma	Everolimus	C	Resistance	25295501	CiViC
+FLT3	ITD	Acute Promyelocytic Leukemia	Anthracycline Antineoplastic Antibiotic,Tretinoin	B	Resistance	24981688	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Neratinib,Trastuzumab	A	Sensitivity/Response	26874901	CiViC
+ALDH1A2	UNDEREXPRESSION	Head And Neck Squamous Cell Carcinoma	Tretinoin	D	Sensitivity/Response	26634247	CiViC
+CIP2A	UNDEREXPRESSION	Pancreatic Ductal Adenocarcinoma	Gemcitabine	D	Sensitivity/Response	26894380	CiViC
+ALK	EML4-ALK	Lung Acinar Adenocarcinoma	Erlotinib	C	Resistance	23181703	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab	A	Sensitivity/Response	16236737	CiViC
+ERBB2	Y772_A775DUP	Lung Adenocarcinoma	Trastuzumab Emtansine	C	Sensitivity/Response	25789838	CiViC
+EGFR	VIII	Glioblastoma Multiforme	Gefitinib,Erlotinib	B	Sensitivity/Response	16282176	CiViC
+PTEN	EXPRESSION	Glioblastoma Multiforme	Gefitinib,Erlotinib	B	Sensitivity/Response	16282176	CiViC
+KRAS	Q22*	Colon Mucinous Adenocarcinoma	Panitumumab	C	Resistance	19661358	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Capecitabine,Lapatinib	B	Sensitivity/Response	17192538	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab,Capecitabine	B	Sensitivity/Response	19289619	CiViC
+DDX43	OVEREXPRESSION	Uveal Melanoma	Selumetinib,Trametinib,MEK Inhibitor PD0325901	D	Resistance	24899684	CiViC
+KIT	RS3733542	Acute Myeloid Leukemia	Selumetinib	B	Sensitivity/Response	24178622	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Selumetinib	B	Resistance	24178622	CiViC
+TBK1	OVEREXPRESSION	Melanoma	AZ909,Selumetinib	D	Sensitivity/Response	24962318	CiViC
+KRAS	MUTATION	Colorectal Cancer	Chemotherapy,Bevacizumab	B	Resistance	23828442	CiViC
+KRAS	MUTATION	Cancer	G-573,MEK Inhibitor GDC-0623	D	Sensitivity/Response	23934108	CiViC
+BRAF	V600E	Cancer	Cobimetinib	D	Sensitivity/Response	23934108	CiViC
+KRAS	G12C	Lung Non-small Cell Carcinoma	Selumetinib,Docetaxel	B	Sensitivity/Response	26125448	CiViC
+KRAS	G12V	Lung Non-small Cell Carcinoma	Selumetinib,Docetaxel	B	Sensitivity/Response	26125448	CiViC
+STK11	LOSS	Lung Non-small Cell Carcinoma	Docetaxel,Selumetinib	D	Resistance	22425996	CiViC
+TP53	MUTATION	Lung Non-small Cell Carcinoma	Selumetinib,Docetaxel	D	Sensitivity/Response	22425996	CiViC
+TP53	MUTATION	Lung Non-small Cell Carcinoma	Docetaxel	D	Resistance	22425996	CiViC
+TP53	WILD TYPE	Lung Non-small Cell Carcinoma	Adjuvant Chemotherapy	B	Sensitivity/Response	26899019	CiViC
+HAVCR2	OVEREXPRESSION	Lung Non-small Cell Carcinoma	PD1 Inhibitor	C	Resistance	26883990	CiViC
+HAVCR2	OVEREXPRESSION	Lung Non-small Cell Carcinoma	PD1 Inhibitor,Anti-TIM-3 Monoclonal Antibody	D	Sensitivity/Response	26883990	CiViC
+ERBB3	OVEREXPRESSION	Cancer	Selumetinib,Afatinib	D	Sensitivity/Response	24685132	CiViC
+ERBB3	OVEREXPRESSION	Cancer	HER2 Inhibitor CP-724,714,Gefitinib,Selumetinib	D	Resistance	24685132	CiViC
+CDKN2A	p16 EXPRESSION	Head And Neck Squamous Cell Carcinoma	Afatinib	B	Resistance	25892145	CiViC
+MMP2	SERUM LEVELS	Inflammatory Breast Carcinoma	Bevacizumab	B	Sensitivity/Response	26921265	CiViC
+MMP9	SERUM LEVELS	Inflammatory Breast Carcinoma	Bevacizumab	B	Resistance	26921265	CiViC
+MMP2	SERUM LEVELS	Brain Glioma	Bevacizumab	B	Sensitivity/Response	24327581	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab Emtansine	B	Sensitivity/Response	24793816	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab Emtansine	B	Sensitivity/Response	23020162	CiViC
+HSPH1	NUCLEAR EXPRESSION	Gastric Adenocarcinoma	Fluorouracil,Cisplatin	D	Sensitivity/Response	26943774	CiViC
+HSPH1	T17 DELETION	Colorectal Cancer	Oxaliplatin,Fluorouracil	B	Sensitivity/Response	24512910	CiViC
+CD274	EXPRESSION	Lung Non-small Cell Carcinoma	Avelumab,Pembrolizumab,Atezolizumab,Nivolumab	B	Sensitivity/Response	26918451	CiViC
+TP53	DELETERIOUS MUTATION	Sarcoma	Pazopanib	B	Sensitivity/Response	26646755	CiViC
+PIK3CA	E545K	Lung Adenocarcinoma	Gefitinib	D	Resistance	16906227	CiViC
+CD274	EXPRESSION	Lung Non-small Cell Carcinoma	Atezolizumab	B	Sensitivity/Response	26970723	CiViC
+KRAS	G12C	Cancer	ARS-853,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	D	Sensitivity/Response	26739882	CiViC
+ERBB2	V842I	Colon Cancer	Trastuzumab,Neratinib,Lapatinib	D	Sensitivity/Response	26243863	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Ceritinib	B	Sensitivity/Response	26973324	CiViC
+ERBB2	L755S	Colon Cancer	Trastuzumab,Lapatinib,Neratinib	D	Sensitivity/Response	26243863	CiViC
+ERBB2	V777L	Colon Cancer	Trastuzumab,Neratinib,Lapatinib	D	Sensitivity/Response	26243863	CiViC
+ERBB2	L866M	Colon Cancer	Trastuzumab,Neratinib,Lapatinib	D	Sensitivity/Response	26243863	CiViC
+ERBB2	S310F/Y	Colon Cancer	Lapatinib,Neratinib,Trastuzumab	D	Sensitivity/Response	26243863	CiViC
+KRAS	G13D	Colorectal Cancer	Cetuximab	B	Resistance	26371285	CiViC
+KRAS	G13D	Colorectal Cancer	Cetuximab	B	Resistance	26812186	CiViC
+KRAS	MUTATION	Colorectal Cancer	Ixazomib	D	Resistance	26709701	CiViC
+KRAS	MUTATION	Cancer	AZD5438	D	Sensitivity/Response	26881434	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	26729443	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Adenocarcinoma	Capmatinib	C	Sensitivity/Response	25971938	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Crizotinib	A	Sensitivity/Response	20979469	CiViC
+ALK	EML4-ALK	Lung Non-small Cell Carcinoma	WHI-P154	D	Sensitivity/Response	17625570	CiViC
+ALK	EML4-ALK E20;A20	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	20979469	CiViC
+ALK	EML4-ALK E2;A20	Lung Non-small Cell Carcinoma	Crizotinib	E	Sensitivity/Response	18927303	CiViC
+KDR	R961W	Colorectal Adenocarcinoma	Regorafenib	C	Sensitivity/Response	27004155	CiViC
+ALK	EML4-ALK E6;A20	Lung Non-small Cell Carcinoma	2,4-pyrimidinediamine	D	Sensitivity/Response	18593892	CiViC
+ALK	EML4-ALK E6;A20	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	20979469	CiViC
+ALK	EML4-ALK E6;A20	Lung Non-small Cell Carcinoma	TAE684	D	Sensitivity/Response	18451166	CiViC
+ALK	EML4-ALK E20;A20	Lung Non-small Cell Carcinoma	Crizotinib	D	Sensitivity/Response	22912387	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Crizotinib	A	Sensitivity/Response	23724913	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Crizotinib	A	Sensitivity/Response	25470694	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	24478318	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	27022118	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Retaspimycin Hydrochloride	C	Sensitivity/Response	20940188	CiViC
+ALK	EML4-ALK	Lung Non-small Cell Carcinoma	Retaspimycin Hydrochloride,Crizotinib	D	Sensitivity/Response	21258415	CiViC
+ALK	EML4-ALK E20;A20	Lung Non-small Cell Carcinoma	Alvespimycin,Crizotinib	D	Sensitivity/Response	22912387	CiViC
+ALK	EML4-ALK	Lung Non-small Cell Carcinoma	Alvespimycin,Crizotinib	D	Sensitivity/Response	22912387	CiViC
+ALK	EML4-ALK	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	20979469	CiViC
+KRAS	EXON 2 MUTATION	Colorectal Cancer	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	B	Resistance	27037411	CiViC
+TP53	P47S	Cancer	Cisplatin	E	Resistance	27034505	CiViC
+GNAQ	MUTATION	Uveal Melanoma	JQ1	D	Sensitivity/Response	26397223	CiViC
+GNA11	MUTATION	Uveal Melanoma	JQ1	D	Sensitivity/Response	26397223	CiViC
+PMS2	K706FS*19	Glioblastoma Multiforme	Nivolumab	C	Sensitivity/Response	27001570	CiViC
+KRAS	G12C	Colorectal Cancer	Gefitinib,Erlotinib	B	Resistance	23313110	CiViC
+KRAS	EXON 2 MUTATION	Pancreatic Cancer	Gemcitabine,Erlotinib	B	Resistance	21862683	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Trametinib	B	Sensitivity/Response	22805291	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Imatinib	B	Sensitivity/Response	16624552	CiViC
+KIT	MUTATION	Melanoma	Imatinib	B	Sensitivity/Response	21690468	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Sunitinib	B	Sensitivity/Response	22439647	CiViC
+KIT	EXON 11 MUTATION	Melanoma	Sunitinib	C	Sensitivity/Response	22261812	CiViC
+NRAS	MUTATION	Skin Melanoma	Docetaxel,Trametinib	B	Sensitivity/Response	25542057	CiViC
+NRAS	Q61	Skin Melanoma	Binimetinib	B	Sensitivity/Response	23414587	CiViC
+GNA11	MUTATION	Uveal Melanoma	Trametinib	C	Sensitivity/Response	22805292	CiViC
+GNAQ	MUTATION	Uveal Melanoma	Trametinib	B	Sensitivity/Response	22805292	CiViC
+NRAS	MUTATION	Cancer	Trametinib,Metformin	D	Sensitivity/Response	25504439	CiViC
+PTEN	DELETION	Prostate Cancer	Everolimus	B	Sensitivity/Response	23582881	CiViC
+GNAQ	Q209	Uveal Melanoma	Refametinib	C	Sensitivity/Response	23434733	CiViC
+BAP1	MUTATION	Uveal Melanoma	Vorinostat,Trichostatin A,Panobinostat,Valproic Acid	D	Sensitivity/Response	22038994	CiViC
+BAP1	MUTATION	Malignant Mesothelioma	Vorinostat,Mocetinostat,MC1568	E	Sensitivity/Response	25970771	CiViC
+FGFR2	MUTATION	Endometrial Cancer	Ponatinib	D	Sensitivity/Response	26574622	CiViC
+ALK	MUTATION	Lung Non-small Cell Carcinoma	Ceritinib	B	Sensitivity/Response	24670165	CiViC
+ALK	NPM-ALK	Anaplastic Large Cell Lymphoma	Crizotinib	D	Sensitivity/Response	18089725	CiViC
+ALK	ALK FUSIONS	Anaplastic Large Cell Lymphoma	Crizotinib	C	Sensitivity/Response	21345110	CiViC
+ALK	NPM-ALK	Anaplastic Large Cell Lymphoma	Crizotinib	B	Sensitivity/Response	23598171	CiViC
+ALK	ALK FUSIONS	Inflammatory Myofibroblastic Tumor	Crizotinib	B	Sensitivity/Response	23598171	CiViC
+ALK	RANBP2-ALK	Inflammatory Myofibroblastic Tumor	Crizotinib	C	Sensitivity/Response	20979472	CiViC
+ALK	EML4-ALK E20;A20	Cancer	Crizotinib	C	Sensitivity/Response	25408655	CiViC
+FGFR1	N546K	Ewing Sarcoma Of Bone	Ponatinib	E	Sensitivity/Response	26179511	CiViC
+FGFR1	AMPLIFICATION	Ewing Sarcoma Of Bone	Ponatinib	D	Sensitivity/Response	26179511	CiViC
+ROS1	REARRANGEMENT	Lung Adenocarcinoma	Ceritinib	C	Sensitivity/Response	26917690	CiViC
+ROS1	CD74-ROS1 G2032R	Lung Non-small Cell Carcinoma	Cabozantinib,Foretinib	D	Sensitivity/Response	26372962	CiViC
+ROS1	CD74-ROS1 G2032R	Lung Non-small Cell Carcinoma	Brigatinib,Crizotinib,AZD3463,Ceritinib	D	Resistance	26372962	CiViC
+ROS1	CD74-ROS1 G2032R	Lung Non-small Cell Carcinoma	Lorlatinib	D	Sensitivity/Response	25733882	CiViC
+ROS1	CD74-ROS1 L2026M	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	25733882	CiViC
+ROS1	CD74-ROS1 L2026M	Lung Non-small Cell Carcinoma	Lorlatinib	D	Sensitivity/Response	25733882	CiViC
+ROS1	CD74-ROS1 G2032R	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	25688157	CiViC
+ROS1	CD74-ROS1 G2032R	Lung Non-small Cell Carcinoma	Foretinib	D	Sensitivity/Response	25688157	CiViC
+ROS1	CD74-ROS1 L2155S	Lung Non-small Cell Carcinoma	Foretinib,TAE684,Crizotinib	D	Resistance	25688157	CiViC
+ROS1	CD74-ROS1 L2026M	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	25688157	CiViC
+ROS1	CD74-ROS1 L2026M	Lung Non-small Cell Carcinoma	Foretinib	D	Sensitivity/Response	25688157	CiViC
+ROS1	CD74-ROS1 G2101A	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	25688157	CiViC
+ROS1	CD74-ROS1 G2101A	Lung Non-small Cell Carcinoma	Foretinib	D	Sensitivity/Response	25688157	CiViC
+ALK	CLTC-ALK	Diffuse Large B-cell Lymphoma	TAE684	D	Sensitivity/Response	21494621	CiViC
+ALK	ALK FUSIONS	Diffuse Large B-cell Lymphoma	Crizotinib	C	Sensitivity/Response	24330038	CiViC
+ALK	CLTC-ALK	Diffuse Large B-cell Lymphoma	Crizotinib	C	Sensitivity/Response	26221234	CiViC
+BRAF	DEL 485-490	Cancer	Pan-RAF Inhibitor LY3009120	D	Sensitivity/Response	26732095	CiViC
+ALK	R1275Q	Neuroblastoma	Crizotinib	C	Sensitivity/Response	23598171	CiViC
+ALK	R1275Q	Neuroblastoma	Crizotinib	C	Sensitivity/Response	23598171	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Alectinib	B	Sensitivity/Response	23639470	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Alectinib	C	Sensitivity/Response	26938871	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Alectinib	B	Sensitivity/Response	25153538	CiViC
+BCL2L11	DELETION POLYMORPHISM	Chronic Myeloid Leukemia	Imatinib	B	Resistance	22426421	CiViC
+BCL2L11	DELETION POLYMORPHISM	Lung Non-small Cell Carcinoma	Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor	B	Resistance	22426421	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Alectinib	A	Sensitivity/Response	26708155	CiViC
+ALK	ALK FUSION I1171	Lung Non-small Cell Carcinoma	Alectinib	C	Resistance	25228534	CiViC
+ALK	ALK FUSION I1171	Lung Non-small Cell Carcinoma	Ceritinib	C	Sensitivity/Response	25228534	CiViC
+ALK	ALK FUSION I1171	Lung Non-small Cell Carcinoma	TAE684	D	Sensitivity/Response	25228534	CiViC
+ALK	EML4-ALK  V1180L	Lung Non-small Cell Carcinoma	Alectinib	D	Resistance	25228534	CiViC
+ALK	ALK FUSION I1171	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	25228534	CiViC
+ALK	EML4-ALK  V1180L	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	25228534	CiViC
+ALK	EML4-ALK  V1180L	Lung Non-small Cell Carcinoma	Ceritinib	D	Sensitivity/Response	25228534	CiViC
+ALK	EML4-ALK  V1180L	Lung Non-small Cell Carcinoma	TAE684	D	Sensitivity/Response	25228534	CiViC
+ALK	EML4-ALK  V1180L	Lung Non-small Cell Carcinoma	Brigatinib	D	Sensitivity/Response	25228534	CiViC
+SIRT1	OVEREXPRESSION	Pancreatic Cancer	Niacinamide	D	Resistance	24088390	CiViC
+FLT3	TKD MUTATION	Acute Myeloid Leukemia	Midostaurin	B	Sensitivity/Response	20733134	CiViC
+PIK3CA	MUTATION	Her2-receptor Positive Breast Cancer	Everolimus	B	Sensitivity/Response	27091708	CiViC
+PTEN	LOSS	Her2-receptor Positive Breast Cancer	Everolimus	B	Sensitivity/Response	27091708	CiViC
+ROS1	REARRANGEMENT	Colorectal Adenocarcinoma	Crizotinib	E	Sensitivity/Response	24296758	CiViC
+PALB2	BIALLELIC INACTIVATION	Pancreatic Cancer	Mitomycin	C	Sensitivity/Response	21135251	CiViC
+FANCC	LOSS-OF-FUNCTION	Pancreatic Cancer	Chlorambucil,Melphalan,Mitomycin,Cisplatin,Gemcitabine	D	Sensitivity/Response	16243825	CiViC
+BRCA2	LOSS-OF-FUNCTION	Pancreatic Cancer	Mitomycin	D	Sensitivity/Response	16243825	CiViC
+PDGFRA	I843DEL	Gastrointestinal Stromal Tumor	Imatinib	D	Sensitivity/Response	14645423	CiViC
+PDGFRB	EBF1-PDGFRB	Acute Lymphoblastic Leukemia	Imatinib	C	Sensitivity/Response	23835704	CiViC
+MLH1	METHYLATION	Stomach Carcinoma	Oxaliplatin	B	Resistance	24748501	CiViC
+FLT3	T227M	Renal Cell Carcinoma	Sunitinib	B	Adverse Response	19667267	CiViC
+MTOR	S2215Y	Endometrial Adenocarcinoma	Sirolimus	D	Sensitivity/Response	24631838	CiViC
+MTOR	C1483Y	T-cell Acute Lymphoblastic Leukemia	Sirolimus	D	Sensitivity/Response	24631838	CiViC
+MTOR	E1799K	Clear Cell Renal Cell Carcinoma	Sirolimus	D	Sensitivity/Response	24631838	CiViC
+FGFR2	N550K	Endometrial Cancer	PD173074	D	Sensitivity/Response	18757403	CiViC
+RB1	OVEREXPRESSION	Pancreatic Adenocarcinoma	Mitomycin,Gemcitabine,Doxorubicin,Fluorouracil	D	Resistance	11792751	CiViC
+PPP1R15A	RS557806	Colorectal Cancer	FOLFIRI Regimen,Bevacizumab	B	Sensitivity/Response	27177629	CiViC
+KRAS	EXON 2 MUTATION	Colorectal Cancer	Irinotecan,Selumetinib	B	Sensitivity/Response	25322874	CiViC
+ALK	F1174L	Neuroblastoma	AZD3463	D	Sensitivity/Response	26786851	CiViC
+ALK	F1174L	Neuroblastoma	Lorlatinib	D	Sensitivity/Response	26554404	CiViC
+ALK	F1245C	Neuroblastoma	Lorlatinib	D	Sensitivity/Response	26554404	CiViC
+ALK	R1275Q	Neuroblastoma	Lorlatinib	D	Sensitivity/Response	26554404	CiViC
+ALK	EML4-ALK	Lung Non-small Cell Carcinoma	Lorlatinib	D	Sensitivity/Response	26554404	CiViC
+ALK	F1245C	Neuroblastoma	Crizotinib	C	Resistance	23598171	CiViC
+ALK	ALK FUSIONS	Colorectal Adenocarcinoma	Crizotinib	E	Sensitivity/Response	19737969	CiViC
+ALK	ALK FUSIONS	Breast Cancer	Crizotinib	E	Sensitivity/Response	19737969	CiViC
+ALK	DEL4-11	Neuroblastoma	Brigatinib	D	Sensitivity/Response	27049722	CiViC
+ALK	ALK FUSION F1245C	Cancer	Crizotinib	D	Resistance	22034911	CiViC
+ALK	ALK FUSION F1245C	Lung Non-small Cell Carcinoma	Ceritinib	C	Sensitivity/Response	26775591	CiViC
+ALK	ALK FUSION F1245C	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	26775591	CiViC
+ALK	EML4-ALK E6;A20	Lung Non-small Cell Carcinoma	Ceritinib	D	Sensitivity/Response	24675041	CiViC
+ALK	EML4-ALK L1196M	Lung Non-small Cell Carcinoma	Ceritinib	D	Sensitivity/Response	24675041	CiViC
+ALK	ALK FUSION G1269A	Lung Non-small Cell Carcinoma	Ceritinib	D	Sensitivity/Response	24675041	CiViC
+ALK	EML4-ALK S1206Y	Cancer	Ceritinib	D	Sensitivity/Response	24675041	CiViC
+ALK	ALK FUSION I1171	Lung Non-small Cell Carcinoma	Ceritinib	D	Sensitivity/Response	24675041	CiViC
+ALK	ALK FUSION G1202R	Lung Non-small Cell Carcinoma	Ceritinib	D	Resistance	24675041	CiViC
+ALK	EML4-ALK C1156Y	Lung Non-small Cell Carcinoma	Crizotinib	D	Resistance	24675041	CiViC
+ALK	EML4-ALK T1151INST	Lung Non-small Cell Carcinoma	Alectinib	D	Resistance	22277784	CiViC
+ALK	EML4-ALK T1151INST	Lung Non-small Cell Carcinoma	TAE684	D	Resistance	22277784	CiViC
+ALK	EML4-ALK T1151INST	Lung Non-small Cell Carcinoma	Tanespimycin	D	Sensitivity/Response	22277784	CiViC
+ALK	ALK FUSION G1202R	Cancer	Alectinib	D	Resistance	25727400	CiViC
+ALK	ALK FUSION G1202R	Cancer	Brigatinib	D	Resistance	25727400	CiViC
+ALK	ALK FUSION G1202R	Lung Non-small Cell Carcinoma	Tanespimycin	D	Sensitivity/Response	22277784	CiViC
+ALK	ALK FUSION G1269A	Cancer	Brigatinib	D	Sensitivity/Response	25727400	CiViC
+ALK	ALK FUSION G1269A	Cancer	Alectinib	D	Resistance	25727400	CiViC
+ALK	ALK FUSION G1269A	Cancer	Ceritinib	D	Sensitivity/Response	25727400	CiViC
+ALK	NPM-ALK	Cancer	Crizotinib	D	Sensitivity/Response	25727400	CiViC
+ALK	ALK FUSION G1202R	Lung Adenocarcinoma	Crizotinib	C	Resistance	22277784	CiViC
+PIK3CA	MUTATION	Head And Neck Cancer	Dactolisib	D	Sensitivity/Response	23619167	CiViC
+PIK3CA	H1047R	Head And Neck Cancer	Dactolisib	D	Sensitivity/Response	25855885	CiViC
+PIK3CA	H1047R	Head And Neck Cancer	Dactolisib	D	Sensitivity/Response	23619167	CiViC
+PIK3CA	H1047R	Head And Neck Cancer	Dactolisib,Cetuximab	D	Sensitivity/Response	23619167	CiViC
+RET	M918T	Thyroid Gland Medullary Carcinoma	Sorafenib	B	Sensitivity/Response	20368568	CiViC
+CDK4	AMPLIFICATION	Liposarcoma	Palbociclib	B	Sensitivity/Response	23569312	CiViC
+ALK	ALK FUSION I1171	Lung Non-small Cell Carcinoma	Alectinib	C	Resistance	25736571	CiViC
+ALK	ALK FUSION I1171	Lung Non-small Cell Carcinoma	Ceritinib	C	Sensitivity/Response	25736571	CiViC
+BRCA1	MUTATION	Cancer	Olaparib	A	Sensitivity/Response	19553641	CiViC
+BRCA2	MUTATION	Cancer	Olaparib	A	Sensitivity/Response	19553641	CiViC
+CDKN2A	LOSS	Skin Melanoma	Alvocidib	D	Sensitivity/Response	12777976	CiViC
+CDKN2A	LOSS	Renal Cell Carcinoma	Palbociclib	D	Sensitivity/Response	23898052	CiViC
+CDKN2B	LOSS	Renal Cell Carcinoma	Palbociclib	D	Sensitivity/Response	23898052	CiViC
+CDKN2A	LOSS	Skin Melanoma	Palbociclib	D	Sensitivity/Response	24495407	CiViC
+CDK4	R24C	Skin Melanoma	Palbociclib	D	Sensitivity/Response	24495407	CiViC
+CDKN2A	LOSS	Ovarian Cancer	Palbociclib	D	Sensitivity/Response	21278246	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Pictilisib	D	Sensitivity/Response	22802530	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	A66	D	Sensitivity/Response	22802530	CiViC
+PTEN	LOSS	Her2-receptor Positive Breast Cancer	Trastuzumab	D	Resistance	17936563	CiViC
+PIK3CA	MUTATION	Her2-receptor Positive Breast Cancer	Trastuzumab	B	Resistance	17936563	CiViC
+PTEN	LOSS	Her2-receptor Positive Breast Cancer	Trastuzumab	B	Resistance	20813970	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Ponatinib	B	Sensitivity/Response	23190221	CiViC
+EGFR	T790M	Lung Adenocarcinoma	Gefitinib,Erlotinib	B	Resistance	23470965	CiViC
+MET	AMPLIFICATION	Lung Adenocarcinoma	Gefitinib,Erlotinib	C	Resistance	23470965	CiViC
+ERBB2	AMPLIFICATION	Lung Adenocarcinoma	Erlotinib,Gefitinib	C	Resistance	23470965	CiViC
+EGFR	S768I	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	25521405	CiViC
+EGFR	S768I	Lung Adenocarcinoma	Gefitinib	C	Sensitivity/Response	20522446	CiViC
+EGFR	C797S	Lung Adenocarcinoma	Osimertinib	C	Resistance	26181354	CiViC
+EGFR	T790M	Lung Adenocarcinoma	Osimertinib	C	Sensitivity/Response	26181354	CiViC
+BRAF	V600E	Melanoma	Vemurafenib	B	Sensitivity/Response	24508103	CiViC
+BRAF	V600K	Melanoma	Vemurafenib	B	Sensitivity/Response	24508103	CiViC
+BRAF	V600K	Melanoma	Vemurafenib	C	Sensitivity/Response	26989536	CiViC
+PIK3CA	H1047R	Head And Neck Cancer	Alpelisib	D	Sensitivity/Response	25550549	CiViC
+PIK3CA	MUTATION	Cancer	Alpelisib	D	Sensitivity/Response	24608574	CiViC
+PIK3CA	AMPLIFICATION	Stomach Carcinoma	Alpelisib	D	Sensitivity/Response	24608574	CiViC
+BRAF	V600	Melanoma	Dabrafenib	B	Sensitivity/Response	22608338	CiViC
+BRAF	V600E	Colorectal Cancer	Gefitinib,Vemurafenib,Cetuximab	D	Sensitivity/Response	22281684	CiViC
+BRAF	V600E	Skin Melanoma	Vemurafenib	A	Sensitivity/Response	21639808	CiViC
+BRAF	V600E	Skin Melanoma	Vemurafenib	B	Sensitivity/Response	22356324	CiViC
+BRAF	V600	Skin Melanoma	Trametinib,Dabrafenib	A	Sensitivity/Response	25399551	CiViC
+BRAF	V600E	Thyroid Gland Papillary Carcinoma	Vemurafenib	C	Sensitivity/Response	24987354	CiViC
+BRAF	V600	Colorectal Cancer	Trametinib,Dabrafenib	B	Sensitivity/Response	26392102	CiViC
+BRAF	TRIM24-BRAF	Skin Melanoma	Vemurafenib	D	Resistance	24345920	CiViC
+SF3B1	K700E	Breast Cancer	Spliceostatin A	D	Sensitivity/Response	25424858	CiViC
+SF3B1	K666N	Breast Cancer	Spliceostatin A	D	Sensitivity/Response	25424858	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	21933749	CiViC
+BRAF	V600E	Melanoma	Cobimetinib,Vemurafenib	B	Sensitivity/Response	25265494	CiViC
+BRAF	V600	Melanoma	Cobimetinib,Vemurafenib	B	Sensitivity/Response	25265494	CiViC
+KIT	M541L	Chronic Leukemia	Imatinib	C	Sensitivity/Response	25015329	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Sunitinib	B	Sensitivity/Response	18955458	CiViC
+BRAF	V600E	Colorectal Cancer	GDC-0879,Dactolisib	D	Sensitivity/Response	23549875	CiViC
+NRAS	MUTATION	Melanoma	Omipalisib,Trametinib	D	Sensitivity/Response	23431193	CiViC
+BRAF	V600E	Gastrointestinal Neuroendocrine Tumor	Trametinib,Dabrafenib,Vemurafenib	C	Sensitivity/Response	27048246	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab Emtansine	B	Sensitivity/Response	23382472	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Pertuzumab,Docetaxel,Trastuzumab	B	Sensitivity/Response	22149875	CiViC
+MTOR	E2014K and E2419K	Urothelial Carcinoma	Pazopanib,Everolimus	C	Sensitivity/Response	24625776	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab,Lapatinib	B	Sensitivity/Response	22257673	CiViC
+RICTOR	AMPLIFICATION	Lung Adenocarcinoma	Sapanisertib,MTOR Kinase Inhibitor CC-223	C	Sensitivity/Response	26370156	CiViC
+PDGFRA	FIP1L1-PDGFRA	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Imatinib	B	Sensitivity/Response	14504092	CiViC
+ROS1	REARRANGEMENT	Bronchiolo-alveolar Adenocarcinoma	Crizotinib	C	Sensitivity/Response	22215748	CiViC
+ROS1	TFG-ROS1	Inflammatory Myofibroblastic Tumor	Crizotinib	C	Sensitivity/Response	24875859	CiViC
+PDGFRA	FIP1L1-PDGFRA	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Imatinib	A	Sensitivity/Response	12660384	CiViC
+PDGFRA	FIP1L1-PDGFRA T674I	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Imatinib	C	Resistance	12660384	CiViC
+PIK3CA	H1047R	Lung Adenocarcinoma	Dactolisib	D	Sensitivity/Response	19029981	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Pilaralisib,Trastuzumab	D	Sensitivity/Response	23204226	CiViC
+BIRC5	OVEREXPRESSION	Her2-receptor Positive Breast Cancer	Trastuzumab	B	Resistance	23204226	CiViC
+PIK3CA	E545K	Her2-receptor Positive Breast Cancer	Trastuzumab	D	Resistance	18829560	CiViC
+BRAF	D594A	Skin Melanoma	Mitogen-Activated Protein Kinase Kinase Inhibitor,Sorafenib	E	Sensitivity/Response	20141835	CiViC
+PTEN	LOSS	Her2-receptor Positive Breast Cancer	PI3K/BET Inhibitor LY294002,Trastuzumab	D	Sensitivity/Response	15324695	CiViC
+BRAF	D594V	Skin Melanoma	Trametinib,Sorafenib	E	Sensitivity/Response	20141835	CiViC
+BRAF	K483M	Skin Melanoma	Mitogen-Activated Protein Kinase Kinase Inhibitor,Sorafenib	E	Sensitivity/Response	20141835	CiViC
+BRAF	L597R	Skin Melanoma	Vemurafenib,Trametinib	D	Sensitivity/Response	22798288	CiViC
+BRAF	L597S	Skin Melanoma	Trametinib,Vemurafenib	D	Sensitivity/Response	22798288	CiViC
+BRAF	L597S	Skin Melanoma	MEK Inhibitor TAK-733	C	Sensitivity/Response	22798288	CiViC
+BRAF	L597Q	Skin Melanoma	Vemurafenib,Trametinib	D	Sensitivity/Response	22798288	CiViC
+BRAF	K601E	Skin Melanoma	Trametinib,Vemurafenib	D	Sensitivity/Response	22798288	CiViC
+BRAF	L597V	Skin Melanoma	Trametinib	C	Sensitivity/Response	22805292	CiViC
+PIK3CA	AMPLIFICATION	Head And Neck Squamous Cell Carcinoma	Taselisib	D	Sensitivity/Response	26589432	CiViC
+PIK3CA	H1047R	Head And Neck Squamous Cell Carcinoma	Taselisib	D	Sensitivity/Response	26589432	CiViC
+KIT	AMPLIFICATION	Mucosal Melanoma	Imatinib	B	Resistance	23775962	CiViC
+PTEN	MUTATION	Head And Neck Squamous Cell Carcinoma	Taselisib	D	Resistance	26589432	CiViC
+NF1	MUTATION	Skin Melanoma	Vemurafenib	D	Resistance	23171796	CiViC
+NF1	MUTATION	Skin Melanoma	Sirolimus,MEK Inhibitor PD0325901	D	Sensitivity/Response	23171796	CiViC
+NF1	MUTATION	Skin Melanoma	Vemurafenib	C	Resistance	23288408	CiViC
+NF1	MUTATION	Skin Melanoma	VTX-11e,AZ628	D	Sensitivity/Response	23288408	CiViC
+NRAS	MUTATION	Skin Melanoma	Binimetinib	B	Sensitivity/Response	23414587	CiViC
+NRAS	Q61	Skin Melanoma	Selumetinib	C	Sensitivity/Response	18390968	CiViC
+NRAS	Q61K	Skin Melanoma	Vemurafenib	D	Resistance	22194965	CiViC
+NRAS	Q61K	Skin Melanoma	Selumetinib	D	Sensitivity/Response	22194965	CiViC
+NRAS	MUTATION	Skin Melanoma	Amuvatinib	D	Sensitivity/Response	24950457	CiViC
+SMO	MUTATION	Basal Cell Carcinoma	Sonidegib,Vismodegib	B	Resistance	26546616	CiViC
+TP53	MUTATION	Chronic Lymphocytic Leukemia	Alemtuzumab	B	Sensitivity/Response	14726385	CiViC
+CALR	EXON 9 FRAMESHIFT	Chronic Myeloproliferative Disease	Peginterferon Alfa-2a	B	Sensitivity/Response	26486786	CiViC
+ALK	HIP1-ALK I1171N	Lung Non-small Cell Carcinoma	Alectinib,Crizotinib	C	Resistance	25393796	CiViC
+ALK	EML4-ALK I1171S	Lung Non-small Cell Carcinoma	Alectinib,Crizotinib	C	Resistance	25393796	CiViC
+PIK3CA	MUTATION	Head And Neck Squamous Cell Carcinoma	Taselisib,Radiation Therapy	D	Sensitivity/Response	26589432	CiViC
+PTEN	MUTATION	Cancer	Ipatasertib	D	Sensitivity/Response	23287563	CiViC
+PTEN	LOSS	Ovarian Cancer	Cisplatin	D	Resistance	15790433	CiViC
+PTEN	LOSS	Stomach Carcinoma	Chemotherapy	B	Resistance	15900596	CiViC
+EZH2	Y646	Skin Melanoma	GSK126	D	Sensitivity/Response	26304929	CiViC
+CCND1	AMPLIFICATION	Skin Melanoma	Carboplatin,Paclitaxel,Sorafenib	B	Sensitivity/Response	26307133	CiViC
+RAF1	AMPLIFICATION	Skin Melanoma	Carboplatin,Paclitaxel,Sorafenib	B	Sensitivity/Response	26307133	CiViC
+KRAS	AMPLIFICATION	Skin Melanoma	Carboplatin,Docetaxel,Sorafenib	B	Sensitivity/Response	26307133	CiViC
+PDGFRB	PDGFRB FUSIONS	Chronic Myeloproliferative Disease	Imatinib	A	Sensitivity/Response	16960151	CiViC
+ERBB2	AMPLIFICATION	Gastric Adenocarcinoma	Trastuzumab	A	Sensitivity/Response	20728210	CiViC
+PTEN	LOSS	Stomach Cancer	Capivasertib,Docetaxel	D	Sensitivity/Response	24088382	CiViC
+PIK3CA	MUTATION	Stomach Cancer	Capivasertib	D	Sensitivity/Response	24088382	CiViC
+PTEN	LOSS	Cancer	Capivasertib	D	Sensitivity/Response	22294718	CiViC
+PIK3CA	MUTATION	Cancer	Capivasertib	D	Sensitivity/Response	22294718	CiViC
+PIK3CA	MUTATION	Her2-receptor Positive Breast Cancer	Capivasertib	D	Sensitivity/Response	22294718	CiViC
+PIK3CA	H1047R	Her2-receptor Positive Breast Cancer	Capivasertib,Trastuzumab	D	Sensitivity/Response	22294718	CiViC
+PIK3CA	H1047R	Her2-receptor Positive Breast Cancer	Capivasertib,Lapatinib	D	Sensitivity/Response	22294718	CiViC
+NRAS	MUTATION	Melanoma	Binimetinib	D	Sensitivity/Response	24588908	CiViC
+CD274	EXPRESSION	Cancer	Nivolumab	B	Sensitivity/Response	22658127	CiViC
+RET	OVEREXPRESSION	Papillary Adenocarcinoma	Sunitinib	C	Sensitivity/Response	20696054	CiViC
+PML	PML-RARA	Acute Promyelocytic Leukemia	Tretinoin	C	Sensitivity/Response	21505136	CiViC
+CTLA4	CTLA4-CD28	Sezary's Disease	Ipilimumab	C	Sensitivity/Response	25802883	CiViC
+AR	MUTATION	Prostate Cancer	Flutamide,Nilutamide,Cyproterone Acetate,Bicalutamide	B	Resistance	26000489	CiViC
+PTEN	MUTATION	Prostate Cancer	Alpelisib,Enzalutamide,PI3Kbeta Inhibitor AZD8186	D	Sensitivity/Response	25544636	CiViC
+NOTCH1	LOSS-OF-FUNCTION	Head And Neck Squamous Cell Carcinoma	Porcupine Inhibitor WNT974	D	Sensitivity/Response	24277854	CiViC
+CDK6	OVEREXPRESSION	Estrogen-receptor Positive Breast Cancer	Fulvestrant	B	Resistance	27252418	CiViC
+CDK6	OVEREXPRESSION	Estrogen-receptor Positive Breast Cancer	Palbociclib,Fulvestrant	D	Sensitivity/Response	27252418	CiViC
+FLT3	OVEREXPRESSION	Adult B-Lymphoblastic Leukemia	Sunitinib	C	Sensitivity/Response	27181063	CiViC
+BRCA1	MUTATION	Ovarian Carcinoma	Platinum Compound	B	Sensitivity/Response	24240112	CiViC
+BRCA2	MUTATION	Ovarian Carcinoma	Platinum Compound	B	Sensitivity/Response	24240112	CiViC
+BRCA1	MUTATION	Ovarian Carcinoma	Platinum Compound	B	Sensitivity/Response	24240112	CiViC
+BRCA2	MUTATION	Ovarian Carcinoma	Platinum Compound	B	Sensitivity/Response	24240112	CiViC
+GNAQ	Q209P	Skin Melanoma	Vemurafenib	C	Resistance	24504448	CiViC
+PTEN	V317FS	Skin Melanoma	MEK Inhibitor CI-1040,Akt Inhibitor MK2206	D	Sensitivity/Response	24504448	CiViC
+RB1	LOSS-OF-FUNCTION	Breast Cancer	Palbociclib	D	Resistance	20473330	CiViC
+GNAQ	Q209P	Skin Melanoma	PLX4720	D	Resistance	24504448	CiViC
+ESR1	OVEREXPRESSION	Breast Cancer	Palbociclib,Letrozole	B	Sensitivity/Response	25524798	CiViC
+MTOR	F2108L	Breast Cancer	Sirolimus	D	Resistance	27279227	CiViC
+MTOR	M2327I	Breast Cancer	MTOR Kinase Inhibitor AZD8055	D	Resistance	27279227	CiViC
+MTOR	A2034V	Breast Cancer	Sirolimus	D	Resistance	27279227	CiViC
+PIK3CA	E542K	Head And Neck Squamous Cell Carcinoma	Apitolisib	C	Sensitivity/Response	26787751	CiViC
+PIK3CA	E545K	Cancer	Apitolisib	C	Sensitivity/Response	26787751	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Sorafenib	C	Sensitivity/Response	23969938	CiViC
+FLT3	D835H	Acute Myeloid Leukemia	Sorafenib	C	Resistance	23969938	CiViC
+FLT3	D835H/Y	Acute Myeloid Leukemia	Sorafenib	D	Resistance	23969938	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Palbociclib,Trastuzumab	D	Sensitivity/Response	19874578	CiViC
+CCND1	AMPLIFICATION	Breast Cancer	Palbociclib	D	Sensitivity/Response	19874578	CiViC
+CCND1	OVEREXPRESSION	Mantle Cell Lymphoma	Palbociclib	D	Sensitivity/Response	16690963	CiViC
+MET	AMPLIFICATION	Glioblastoma Multiforme	Crizotinib	C	Sensitivity/Response	22162573	CiViC
+MET	AMPLIFICATION	Lung Non-small Cell Carcinoma	Crizotinib	D	Sensitivity/Response	21716144	CiViC
+JAK1	Q503*	Skin Melanoma	Pembrolizumab	C	Resistance	27433843	CiViC
+JAK2	c.1641+1dup	Skin Melanoma	Pembrolizumab	C	Resistance	27433843	CiViC
+B2M	S14FS	Skin Melanoma	Pembrolizumab	C	Resistance	27433843	CiViC
+BRAF	PPFIBP2-BRAF	Skin Melanoma	Trametinib	C	Sensitivity/Response	26072686	CiViC
+BRAF	KIAA1549-BRAF	Skin Melanoma	Trametinib	C	Sensitivity/Response	26072686	CiViC
+EGFR	EXPRESSION	Colorectal Cancer	Cetuximab	B	Sensitivity/Response	18003960	CiViC
+PTGS2	OVEREXPRESSION	Colorectal Cancer	Aspirin	B	Sensitivity/Response	17522398	CiViC
+BRAF	V600	Lung Non-small Cell Carcinoma	Vemurafenib	B	Sensitivity/Response	26287849	CiViC
+BRAF	V600	Langerhans-Cell Histiocytosis	Vemurafenib	B	Sensitivity/Response	26287849	CiViC
+BRAF	V600	Colorectal Cancer	Vemurafenib	B	Resistance	26287849	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	26466010	CiViC
+BRAF	V600E	Hairy Cell Leukemia	Vemurafenib	B	Sensitivity/Response	26352686	CiViC
+KRAS	G12D	Hairy Cell Leukemia	Vemurafenib	C	Resistance	26352686	CiViC
+MET	OVEREXPRESSION	Skin Melanoma	Vemurafenib	B	Resistance	26359985	CiViC
+MET	OVEREXPRESSION	Uveal Melanoma	Crizotinib	D	Sensitivity/Response	24140933	CiViC
+DNMT3A	MUTATION	Acute Myeloid Leukemia	Decitabine	B	Sensitivity/Response	22124213	CiViC
+MET	AMPLIFICATION	Colorectal Cancer	Crizotinib,Vemurafenib	C	Sensitivity/Response	27325282	CiViC
+BRAF	V600E	Colorectal Cancer	Panitumumab,Vemurafenib	C	Sensitivity/Response	27325282	CiViC
+BRAF	V600E	Thyroid Gland Papillary Carcinoma	Vemurafenib	B	Sensitivity/Response	27460442	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Osimertinib	A	Sensitivity/Response	26729184	CiViC
+RB1	LOSS-OF-FUNCTION	Glioblastoma Multiforme	Palbociclib	D	Resistance	20354191	CiViC
+RAD23B	EXPRESSION	Sarcoma	Vorinostat	D	Sensitivity/Response	27499916	CiViC
+PIK3CA	MUTATION	Breast Cancer	Ribociclib,Phosphatidylinositide 3-Kinase Inhibitor	D	Sensitivity/Response	25002028	CiViC
+RET	CCDC6-RET	Lung Non-small Cell Carcinoma	Nintedanib	C	Sensitivity/Response	26787234	CiViC
+MAP2K1	C121S	Melanoma	Vemurafenib	C	Resistance	21383288	CiViC
+FGFR3	S249C	Urothelial Carcinoma	Pazopanib	C	Sensitivity/Response	25766722	CiViC
+FGFR1	AMPLIFICATION	Breast Cancer	Dovitinib	B	Sensitivity/Response	23658459	CiViC
+FGFR2	AMPLIFICATION	Breast Cancer	Dovitinib	B	Sensitivity/Response	23658459	CiViC
+FGF3	AMPLIFICATION	Breast Cancer	Dovitinib	B	Sensitivity/Response	23658459	CiViC
+PIK3CA	MUTATION	Breast Cancer	Palbociclib,Phosphatidylinositide 3-Kinase Inhibitor	D	Sensitivity/Response	25002028	CiViC
+VHL	R200W (c.598C>T)	Chuvash Polycythemia	Ruxolitinib	C	Sensitivity/Response	27518686	CiViC
+RB1	PHOSPHORYLATION	Breast Cancer	Alpelisib	B	Resistance	25002028	CiViC
+PIK3CA	MUTATION	Breast Cancer	Everolimus,MTOR Kinase Inhibitor PP242	D	Sensitivity/Response	21358673	CiViC
+PIK3R1	MUTATION	Breast Cancer	MTOR Kinase Inhibitor PP242	D	Sensitivity/Response	21358673	CiViC
+ERBB2	AMPLIFICATION	Breast Cancer	MTOR Kinase Inhibitor PP242	D	Sensitivity/Response	21358673	CiViC
+PTEN	LOSS	Endometrial Cancer	Temsirolimus	D	Sensitivity/Response	23674493	CiViC
+PIK3CA	MUTATION	Endometrial Cancer	Pictilisib	D	Sensitivity/Response	23674493	CiViC
+STK11	D194E	Pancreatic Cancer	Everolimus	C	Sensitivity/Response	21189378	CiViC
+STK11	LOSS	Peutz-Jeghers Syndrome	Sirolimus	D	Sensitivity/Response	18281551	CiViC
+STK11	LOSS	Peutz-Jeghers Syndrome	Sirolimus	D	Sensitivity/Response	19541609	CiViC
+AKT2	AMPLIFICATION	Lung Adenocarcinoma	Everolimus,Vandetanib	C	Sensitivity/Response	25982012	CiViC
+RET	KIF5B-RET	Lung Adenocarcinoma	Vandetanib,Everolimus	C	Sensitivity/Response	25982012	CiViC
+PIK3CA	H1047R	Her2-receptor Positive Breast Cancer	Everolimus,Fulvestrant	C	Sensitivity/Response	27445490	CiViC
+PTEN	EXPRESSION	Her2-receptor Positive Breast Cancer	Fulvestrant,Everolimus	C	Resistance	27445490	CiViC
+PIK3CA	H1047R	Thyroid Cancer	Perifosine,Temsirolimus	D	Sensitivity/Response	19706758	CiViC
+PIK3CA	E542K	Thyroid Cancer	Perifosine,Temsirolimus	D	Sensitivity/Response	19706758	CiViC
+PTEN	R130*	Thyroid Cancer	Perifosine,Temsirolimus	D	Sensitivity/Response	19706758	CiViC
+FBXW7	LOSS-OF-FUNCTION	Renal Cell Carcinoma	Everolimus	E	Sensitivity/Response	24253377	CiViC
+CCNE1	AMPLIFICATION	Estrogen-receptor Positive Breast Cancer	Palbociclib	D	Resistance	27020857	CiViC
+RB1	M695FS*26	Estrogen-receptor Positive Breast Cancer	Palbociclib	D	Resistance	27020857	CiViC
+FBXW7	MUTATION	Cancer	MTOR Inhibitor	B	Sensitivity/Response	24586741	CiViC
+FBXW7	LOSS-OF-FUNCTION	Cancer	Sirolimus	D	Sensitivity/Response	18787170	CiViC
+JUN	OVEREXPRESSION	Colorectal Adenocarcinoma	Irbesartan	C	Sensitivity/Response	27022066	CiViC
+FOS	OVEREXPRESSION	Colon Adenocarcinoma	Irbesartan	C	Sensitivity/Response	27022066	CiViC
+MYD88	L265P	Waldenström's Macroglobulinemia	IMG-2005-5,IRAK-1/4 Inhibitor	D	Sensitivity/Response	22931316	CiViC
+KRAS	MUTATION	Hepatocellular Carcinoma	Refametinib,Sorafenib	B	Sensitivity/Response	25294897	CiViC
+SMAD4	DELETION	Colorectal Cancer	Fluorouracil	B	Resistance	12237773	CiViC
+ATRX	UNDEREXPRESSION	Astrocytoma	Procarbazine,Lomustine,Vincristine,Temozolomide	B		23904111	CiViC
+AURKA	OVEREXPRESSION	Ovarian Serous Carcinoma	Platinum Compound	B	Resistance	27209210	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	26845194	CiViC
+MET	D1228N	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	27343442	CiViC
+AURKA	EXPRESSION	Esophagus Squamous Cell Carcinoma	Fluorouracil,Cisplatin	B	Sensitivity/Response	25924824	CiViC
+GAS6	EXPRESSION	Prostate Cancer	Docetaxel	D	Resistance	27153245	CiViC
+STAG2	UNDEREXPRESSION	Melanoma	Vemurafenib	D	Resistance	27500726	CiViC
+STAG3	UNDEREXPRESSION	Melanoma	Vemurafenib	D	Resistance	27500726	CiViC
+MAP2K1	Q56_V60del	Ovarian Serous Carcinoma	Selumetinib	C	Sensitivity/Response	26324360	CiViC
+BRAF	BRAF-CUL1	Ovarian Serous Carcinoma	Mitogen-Activated Protein Kinase Kinase Inhibitor	C	Sensitivity/Response	26324360	CiViC
+BRAF	ZKSCAN1-BRAF	Melanoma	Trametinib	C	Sensitivity/Response	26314551	CiViC
+BRAF	KIAA1549-BRAF	Sarcoma	Temsirolimus,Bevacizumab,Sorafenib	C	Sensitivity/Response	24422672	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	18509184	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	18509184	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Erlotinib,Afatinib,Gefitinib	B	Resistance	27304188	CiViC
+BRAF	L505H	Melanoma	Vemurafenib	D	Resistance	24112705	CiViC
+BRAF	L505H	Melanoma	Vemurafenib	B	Resistance	25515853	CiViC
+PIK3CA	E545K	Lung Adenocarcinoma	Afatinib,Erlotinib,Gefitinib	B	Resistance	27304188	CiViC
+NF2	MUTATION	Acoustic Neuroma	Everolimus	B	N/A	25567352	CiViC
+BRCA1	MUTATION	Ovarian Cancer	Cediranib,Olaparib	B	Sensitivity/Response	25218906	CiViC
+BRCA2	MUTATION	Ovarian Cancer	Cediranib,Olaparib	B	Sensitivity/Response	25218906	CiViC
+BRCA1	MUTATION	Triple-receptor Negative Breast Cancer	Cisplatin,Carboplatin	B	Sensitivity/Response	25847936	CiViC
+BRCA2	MUTATION	Triple-receptor Negative Breast Cancer	Cisplatin,Carboplatin	B	Sensitivity/Response	25847936	CiViC
+ERBB2	AMPLIFICATION	Colorectal Cancer	Cetuximab	B	Resistance	22586653	CiViC
+ERBB2	AMPLIFICATION	Colorectal Cancer	Cetuximab	B	Resistance	22586653	CiViC
+ERBB2	AMPLIFICATION	Colorectal Cancer	Panitumumab,Cetuximab	B	Resistance	23348520	CiViC
+ERBB2	AMPLIFICATION	Colorectal Cancer	Trastuzumab,Lapatinib	B	Sensitivity/Response	27108243	CiViC
+ROS1	REARRANGEMENT	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	25922291	CiViC
+ALK	ALK FUSIONS	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	25922291	CiViC
+MET	AMPLIFICATION	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	25922291	CiViC
+ERBB2	AMPLIFICATION	Scrotum Paget's Disease	Trastuzumab	C	Sensitivity/Response	25692060	CiViC
+ERBB2	MUTATION	Bladder Carcinoma	Platinum Compound	C	Sensitivity/Response	25636205	CiViC
+BRAF	V600E	Multiple Myeloma	Vemurafenib	C	Sensitivity/Response	24997557	CiViC
+BRAF	V600E	Multiple Myeloma	Vemurafenib	C	Sensitivity/Response	24997557	CiViC
+KRAS	MUTATION	Colorectal Cancer	Cetuximab	D	Resistance	22586653	CiViC
+NRAS	MUTATION	Colorectal Cancer	Cetuximab	D	Resistance	22586653	CiViC
+BRAF	MUTATION	Colorectal Cancer	Cetuximab	D	Resistance	22586653	CiViC
+PIK3CA	MUTATION	Colorectal Cancer	Cetuximab	D	Resistance	22586653	CiViC
+MYCL	EXPRESSION	Multiple Myeloma	I-BET151,JQ1	D	Sensitivity/Response	27276402	CiViC
+HGF	EXPRESSION	Glioblastoma Multiforme	MET Tyrosine Kinase Inhibitor SGX523	D	Sensitivity/Response	22203985	CiViC
+EGFR	EXPRESSION	Colorectal Cancer	Panitumumab	B	Sensitivity/Response	17470858	CiViC
+EGFR	EXPRESSION	Colorectal Cancer	Cetuximab	B	Sensitivity/Response	14993230	CiViC
+SOX10	LOSS	Melanoma	Vemurafenib	D	Resistance	24670642	CiViC
+FGF2	EXPRESSION	Acute Myeloid Leukemia	Quizartinib	D	Resistance	27671675	CiViC
+MET	AMPLIFICATION	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	27664533	CiViC
+MET	AMPLIFICATION	Cancer	Crizotinib	C	Sensitivity/Response	25232318	CiViC
+ERRFI1	E384*	Cholangiocarcinoma	Erlotinib	C	Sensitivity/Response	24550739	CiViC
+KIT	D816V	Systemic Mastocytosis	Midostaurin	B	Sensitivity/Response	27355533	CiViC
+ESR1	S463P	Estrogen-receptor Positive Breast Cancer	Aromatase Inhibitor	D	Resistance	24185512	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Afatinib	B	Sensitivity/Response	27083334	CiViC
+SGK1	OVEREXPRESSION	Breast Cancer	Alpelisib	D	Resistance	27451907	CiViC
+SGK1	OVEREXPRESSION	Breast Cancer	Alpelisib	B	Resistance	27451907	CiViC
+SGK1	OVEREXPRESSION	Breast Cancer	Alpelisib,SGK1-Inh	D	Sensitivity/Response	27451907	CiViC
+CD274	EXPRESSION	Lung Non-small Cell Carcinoma	Pembrolizumab	B	Sensitivity/Response	27718847	CiViC
+CCNE1	OVEREXPRESSION	Ovarian Cancer	CDK Inhibitor SNS-032	D	Sensitivity/Response	26204491	CiViC
+CCNE1	AMPLIFICATION	Ovarian Serous Cystadenocarcinoma	Dinaciclib,Akt Inhibitor MK2206	D	Sensitivity/Response	27663592	CiViC
+EGFR	G719S	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	26124334	CiViC
+BRAF	G596C	Lung Non-small Cell Carcinoma	Dabrafenib,Trametinib	D	Sensitivity/Response	27577079	CiViC
+SMARCB1	UNDEREXPRESSION	Synovial Sarcoma	Tazemetostat	D	Sensitivity/Response	27391784	CiViC
+SMARCB1	DELETION	Rhabdoid Cancer	Tazemetostat	D	Sensitivity/Response	23620515	CiViC
+NF2	LOSS	Thyroid Gland Carcinoma	Selumetinib	D	Sensitivity/Response	26359368	CiViC
+NF1	LOSS	Malignant Peripheral Nerve Sheath Tumor	JQ1 Compound	D	Sensitivity/Response	24373973	CiViC
+ERBB3	V104M	Urothelial Carcinoma	Afatinib	B	Sensitivity/Response	27044931	CiViC
+ERBB3	R103G	Urothelial Carcinoma	Afatinib	B	Sensitivity/Response	27044931	CiViC
+ERBB3	G284R	Urothelial Carcinoma	Afatinib	B	Sensitivity/Response	27044931	CiViC
+BRAF	V600E	Melanoma	Vemurafenib	B	Sensitivity/Response	20818844	CiViC
+BRAF	V600	Melanoma	Trametinib	B	Sensitivity/Response	22663011	CiViC
+MTHFR	A222V	Rectum Cancer	Fluorouracil	B	Sensitivity/Response	26693073	CiViC
+EGFR	D761Y	Lung Non-small Cell Carcinoma	Gefitinib,Erlotinib	C	Resistance	17085664	CiViC
+ERBB2	AMPLIFICATION	Her2-receptor Positive Breast Cancer	Trastuzumab Emtansine	B	Sensitivity/Response	21172893	CiViC
+CDKN2A	LOSS	Her2-receptor Negative Breast Cancer	Palbociclib,Letrozole	C	Sensitivity/Response	26715889	CiViC
+CRBN	MUTATION	Multiple Myeloma	Lenalidomide,Pomalidomide	C	Resistance	23480694	CiViC
+FGFR1	AMPLIFICATION	Estrogen-receptor Positive Breast Cancer	Ponatinib	D	Sensitivity/Response	22238366	CiViC
+BTK	C481S	Chronic Lymphocytic Leukemia	Ibrutinib	B	Resistance	26182309	CiViC
+PDGFRA	AMPLIFICATION	Lung Non-small Cell Carcinoma	Sunitinib	D	Sensitivity/Response	19366796	CiViC
+BRCA1	MUTATION	Ovarian Cancer	Olaparib	B	Sensitivity/Response	21862407	CiViC
+BRCA2	MUTATION	Ovarian Cancer	Olaparib	B	Sensitivity/Response	21862407	CiViC
+PDGFRA	FIP1L1-PDGFRA	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Imatinib	C	Sensitivity/Response	24456122	CiViC
+BRCA1	MUTATION	Triple-receptor Negative Breast Cancer	Olaparib	B	Resistance	21862407	CiViC
+PDGFRA	FIP1L1-PDGFRA	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Ponatinib	D	Sensitivity/Response	24407160	CiViC
+PDGFRA	FIP1L1-PDGFRA T674I	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Ponatinib	D	Sensitivity/Response	24407160	CiViC
+EGFR	G719	Lung Adenocarcinoma	Erlotinib	B	Sensitivity/Response	26773740	CiViC
+BRD4	BRD4-NUTM1	NUT Midline Carcinoma	JQ1	D	Sensitivity/Response	20871596	CiViC
+EGFR	S720	Lung Adenocarcinoma	Erlotinib	C	Resistance	26773740	CiViC
+EGFR	K757R	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	26773740	CiViC
+EGFR	E746G	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	26773740	CiViC
+UGT1A1	UGT1A1*28	Cancer	Belinostat	A	Adverse Response	26313268	CiViC
+UGT1A1	UGT1A1*60	Cancer	Belinostat	B	Adverse Response	26313268	CiViC
+EGFR	V769_770insASV	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	26773740	CiViC
+DPYD	DPYD*2A HOMOZYGOSITY	Cancer	Capecitabine,Tegafur,Fluorouracil	A	Adverse Response	23988873	CiViC
+DPYD	DPYD*13 HOMOZYGOSITY	Cancer	Fluorouracil,Tegafur,Capecitabine	A	Adverse Response	23988873	CiViC
+DPYD	RS67376798 HOMOZYGOSITY	Cancer	Capecitabine,Fluorouracil,Tegafur	A	Adverse Response	23988873	CiViC
+EGFR	EXON 20 INSERTION	Lung Adenocarcinoma	Afatinib	B	Resistance	26051236	CiViC
+PDGFRA	TNKS2-PDGFRA	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Imatinib	C	Sensitivity/Response	25658984	CiViC
+SLCO1B1	RS4149056	Cancer	Methotrexate	B	Adverse Response	23652803	CiViC
+SLCO1B1	N130D	Cancer	Methotrexate	B	Adverse Response	23652803	CiViC
+TYMS	RS34743033	Cancer	Methotrexate	B	Adverse Response	23652803	CiViC
+ERBB3	V855A	Lung Non-small Cell Carcinoma	Afatinib,Pertuzumab	D	Sensitivity/Response	26689995	CiViC
+FGFR2	FGFR2-BICC1	Cholangiocarcinoma	PD173074,Infigratinib	D	Sensitivity/Response	24122810	CiViC
+FGFR2	FGFR2-AHCYL1	Cholangiocarcinoma	PD173074,Infigratinib	D	Sensitivity/Response	24122810	CiViC
+PTPRD	V253I	Ewing Sarcoma Of Bone	Teprotumumab,Cixutumumab	C	Sensitivity/Response	23800680	CiViC
+RRM1	OVEREXPRESSION	Pancreatic Cancer	Gemcitabine	D	Resistance	17224927	CiViC
+RRM2	OVEREXPRESSION	Pancreatic Cancer	Gemcitabine	D	Resistance	17224927	CiViC
+POLE	MUTATION	Glioblastoma Multiforme	Pembrolizumab	C	Sensitivity/Response	27683556	CiViC
+POLE	MUTATION	Endometrial Cancer	Pembrolizumab	C	Sensitivity/Response	27159395	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Afatinib	B	Resistance	24035188	CiViC
+MET	D1228V	Lung Non-small Cell Carcinoma	Cabozantinib	C	Sensitivity/Response	27694386	CiViC
+MET	D1228V	Lung Non-small Cell Carcinoma	Savolitinib	C	Resistance	27694386	CiViC
+RB1	MUTATION	Lung Small Cell Carcinoma	Chemotherapy	B	Sensitivity/Response	26802149	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Osimertinib	A	Sensitivity/Response	27959700	CiViC
+NTRK1	SQSTM1-NTRK1	Lung Non-small Cell Carcinoma	Entrectinib	C	Sensitivity/Response	26565381	CiViC
+NTRK3	ETV6-NTRK3	Salivary Gland Carcinoma	Entrectinib	C	Sensitivity/Response	26884591	CiViC
+NTRK3	ETV6-NTRK3 G623R	Breast Cancer	Entrectinib	C	Resistance	26884591	CiViC
+MSH2	LOSS	Urothelial Carcinoma	Durvalumab,Anti-PD-1 Monoclonal Antibody MEDI0680	C	Sensitivity/Response	26674132	CiViC
+MSH6	LOSS	Urothelial Carcinoma	Anti-PD-1 Monoclonal Antibody MEDI0680,Durvalumab	C	Sensitivity/Response	26674132	CiViC
+CDKN2A	LOSS	Ewing Sarcoma	Linsitinib,Palbociclib	D	Sensitivity/Response	27286459	CiViC
+CDKN2B	LOSS	Ewing Sarcoma	Palbociclib,Linsitinib	D	Sensitivity/Response	27286459	CiViC
+CDKN2A	LOSS	Dermatofibrosarcoma Protuberans	Palbociclib	D	Sensitivity/Response	25852058	CiViC
+ERBB2	Y772_A775DUP	Lung Adenocarcinoma	Afatinib	C	Sensitivity/Response	22325357	CiViC
+ERBB2	G776L	Lung Adenocarcinoma	Afatinib	C	Sensitivity/Response	22325357	CiViC
+ERBB2	G778_P780DUP	Lung Adenocarcinoma	Afatinib	C	Sensitivity/Response	22325357	CiViC
+ERBB2	G778_P780DUP	Lung Non-small Cell Carcinoma	Dacomitinib	C	Sensitivity/Response	25899785	CiViC
+ERBB2	M774DELINSWLV	Lung Non-small Cell Carcinoma	Dacomitinib	C	Sensitivity/Response	25899785	CiViC
+PTPRB	LOSS-OF-FUNCTION	Angiosarcoma	Sunitinib	D	Sensitivity/Response	24633157	CiViC
+BRCA1	MUTATION	Ovarian Cancer	Rucaparib	B	Sensitivity/Response	27908594	CiViC
+KRAS	G12D	Colorectal Cancer	Therapeutic Tumor Infiltrating Lymphocytes	C	Sensitivity/Response	27959684	CiViC
+HLA-C	COPY-NEUTRAL LOSS OF HETEROZYGOSITY	Colorectal Cancer	Therapeutic Tumor Infiltrating Lymphocytes	C	Resistance	27959684	CiViC
+JAK1	S703I	Hepatocellular Carcinoma	Ruxolitinib	D	Sensitivity/Response	26701727	CiViC
+BRAF	V600E	Colorectal Cancer	Cetuximab,Vemurafenib,Irinotecan	B	Sensitivity/Response	27729313	CiViC
+ARAF	S490T	Colorectal Cancer	Cetuximab,Vemurafenib,Irinotecan	C	Resistance	27729313	CiViC
+GNAS	R201C	Colorectal Cancer	Vemurafenib,Irinotecan,Cetuximab	C	Resistance	27729313	CiViC
+ATM	MUTATION	Mantle Cell Lymphoma	Olaparib	D	Sensitivity/Response	20124459	CiViC
+FGFR1	AMPLIFICATION	Lung Squamous Cell Carcinoma	Infigratinib	B	Sensitivity/Response	27870574	CiViC
+FGFR3	MUTATION	Bladder Carcinoma	Infigratinib	B	Sensitivity/Response	27870574	CiViC
+FGFR2	MUTATION	Cholangiocarcinoma	Infigratinib	C	Sensitivity/Response	27870574	CiViC
+FGFR2	FUSION	Cholangiocarcinoma	Infigratinib	C	Sensitivity/Response	27870574	CiViC
+FGFR2	FGFR2-BICC1	Urothelial Carcinoma	Erdafitinib	C	Sensitivity/Response	26324363	CiViC
+FGFR2	FUSION	Cancer	Erdafitinib	B	Sensitivity/Response	26324363	CiViC
+FGFR3	FGFR3-TACC3	Cancer	Erdafitinib	B	Sensitivity/Response	26324363	CiViC
+FGFR2	FGFR2-BICC1	Endometrial Cancer	Erdafitinib	C	Sensitivity/Response	26324363	CiViC
+AKT3	OVEREXPRESSION	Breast Cancer	Akt Inhibitor MK2206	D	Resistance	27297869	CiViC
+AKT3	OVEREXPRESSION	Triple-receptor Negative Breast Cancer	Pan-AKT Kinase Inhibitor GSK690693	E	Sensitivity/Response	24335962	CiViC
+BRCA1	LOSS-OF-FUNCTION	Breast Cancer	Quarfloxin,Pol I Inhibitor CX5461	D	Sensitivity/Response	28211448	CiViC
+BRCA2	LOSS-OF-FUNCTION	Breast Cancer	Quarfloxin,Pol I Inhibitor CX5461	D	Sensitivity/Response	28211448	CiViC
+ALK	ALTERNATIVE TRANSCRIPT (ATI)	Skin Melanoma	Crizotinib	C	Sensitivity/Response	26444240	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	20022809	CiViC
+GNA11	MUTATION	Uveal Melanoma	MEK Inhibitor PD0325901,Sotrastaurin Acetate	D	Sensitivity/Response	24141786	CiViC
+GNAQ	MUTATION	Uveal Melanoma	MEK Inhibitor PD0325901,Sotrastaurin Acetate	D	Sensitivity/Response	24141786	CiViC
+NF1	MUTATION	Plexiform Neurofibroma	Selumetinib	B	Sensitivity/Response	28029918	CiViC
+ATM	MUTATION	Prostate Cancer	Olaparib	C	Sensitivity/Response	26510020	CiViC
+PALB2	BIALLELIC INACTIVATION	Prostate Cancer	Olaparib	C	Sensitivity/Response	26510020	CiViC
+MET	AMPLIFICATION	Colorectal Cancer	Anti-EGFR Monoclonal Antibody	D	Resistance	23729478	CiViC
+PDGFRA	P577S	Melanoma	Imatinib,Crenolanib	D	Sensitivity/Response	24132921	CiViC
+PDGFRA	R841K	Melanoma	Imatinib,Crenolanib	D	Sensitivity/Response	24132921	CiViC
+PDGFRA	H845Y	Melanoma	Crenolanib,Imatinib	D	Sensitivity/Response	24132921	CiViC
+PDGFRA	G853D	Melanoma	Crenolanib,Imatinib	D	Sensitivity/Response	24132921	CiViC
+MET	AMPLIFICATION	Colorectal Cancer	Cetuximab,Crizotinib	D	Sensitivity/Response	23729478	CiViC
+MTAP	Underexpression	Breast Cancer	Pyrimidine Antagonist	D	Sensitivity/Response	26751376	CiViC
+VPS37A	UNDEREXPRESSION	Ovarian Cancer	Cetuximab	D	Resistance	22016507	CiViC
+EGFR	EXPRESSION	Chordoma	Lapatinib	B	Sensitivity/Response	23559153	CiViC
+BTK	T316A	Chronic Lymphocytic Leukemia	Ibrutinib	C	Resistance	27626698	CiViC
+ERBB2	T862A	Stomach Carcinoma	Lapatinib	D	Sensitivity/Response	22046346	CiViC
+ERBB2	V773A	Head And Neck Squamous Cell Carcinoma	Lapatinib	D	Sensitivity/Response	22046346	CiViC
+ERBB2	N857S	Ovarian Cancer	Lapatinib	D	Sensitivity/Response	22046346	CiViC
+ERBB2	H878Y	Hepatocellular Carcinoma	Lapatinib	D	Sensitivity/Response	22046346	CiViC
+FGFR2	AMPLIFICATION	Stomach Carcinoma	FGFR Inhibitor AZD4547	B	Sensitivity/Response	27179038	CiViC
+FGFR1	AMPLIFICATION	Breast Cancer	FGFR Inhibitor AZD4547	C	Sensitivity/Response	27179038	CiViC
+ERBB2	OVEREXPRESSION	Head And Neck Squamous Cell Carcinoma	Lapatinib	C	Sensitivity/Response	28061634	CiViC
+ERBB2	AMPLIFICATION	Colorectal Cancer	Cetuximab	B	Resistance	28223103	CiViC
+GNAS	T393C	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Resistance	24758907	CiViC
+KRAS	G12V	Colorectal Cancer	Selumetinib,Dactolisib	D	Sensitivity/Response	22392911	CiViC
+KRAS	G12A	Colorectal Cancer	Panitumumab	C	Resistance	18316791	CiViC
+KRAS	G12A	Lung Cancer	Gefitinib	B	Resistance	17409929	CiViC
+KRAS	G12A	Multiple Myeloma	Melphalan	B	Resistance	19284554	CiViC
+KRAS	G12A	Multiple Myeloma	Melphalan	D	Resistance	11050000	CiViC
+KRAS	G12A	Multiple Myeloma	Melphalan	D	Resistance	12483530	CiViC
+KRAS	G12A	Multiple Myeloma	Melphalan	D	Resistance	16497971	CiViC
+IDH1	R132	Malignant Glioma	Bevacizumab,Sunitinib	B	Sensitivity/Response	22199315	CiViC
+PIK3CA	E545K	Breast Cancer	Pictilisib Bismesylate	D	Sensitivity/Response	20453058	CiViC
+PTEN	LOSS	Her2-receptor Positive Breast Cancer	Trastuzumab	B	Resistance	21594665	CiViC
+PIK3CA	E545K	Her2-receptor Positive Breast Cancer	Trastuzumab Emtansine	B	Sensitivity/Response	26920887	CiViC
+PIK3CA	E545K	Lung Non-small Cell Carcinoma	PI103	D	Sensitivity/Response	19513541	CiViC
+PTEN	LOSS	Breast Cancer	Trastuzumab	B	Resistance	21594665	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	21258250	CiViC
+PIK3CA	MUTATION	Breast Cancer	Trastuzumab	B	Resistance	21594665	CiViC
+PIK3CA	MUTATION	Her2-receptor Positive Breast Cancer	Trastuzumab	B	Resistance	21594665	CiViC
+PIK3CA	H1047R	Breast Cancer	Trastuzumab	D	Resistance	20453058	CiViC
+PIK3CA	H1047R	Her2-receptor Positive Breast Cancer	Trastuzumab Emtansine	B	Sensitivity/Response	26920887	CiViC
+BRAF	V600E	Colorectal Cancer	Cetuximab,Panitumumab	B	Resistance	19001320	CiViC
+BRAF	V600E	Colorectal Cancer	Oxaliplatin	B	Resistance	19603024	CiViC
+BRAF	V600E	Colorectal Cancer	Irinotecan	B	Resistance	19603024	CiViC
+BRAF	V600E	Colorectal Cancer	Bevacizumab	B	Resistance	19571295	CiViC
+BRAF	V600E	Melanoma	Trametinib	B	Sensitivity/Response	22663011	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	19692680	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Afatinib	C	Sensitivity/Response	22452896	CiViC
+EGFR	Ex19 del L858R	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	24755888	CiViC
+EGFR	T790M	Lung Adenocarcinoma	Osimertinib	C	Sensitivity/Response	26269204	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Gefitinib	C	Resistance	15737014	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Gefitinib	C	Resistance	17020982	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Lapatinib	D	Resistance	18408761	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Dacomitinib	D	Sensitivity/Response	18089823	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Neratinib	D	Sensitivity/Response	16818618	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Afatinib	D	Sensitivity/Response	18408761	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Afatinib	D	Sensitivity/Response	21732342	CiViC
+EGFR	T790M	Lung Non-small Cell Carcinoma	Canertinib	D	Sensitivity/Response	18408761	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Imatinib	C	Resistance	15930265	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	19075254	CiViC
+KRAS	G13D	Colorectal Cancer	Dactolisib,Selumetinib	D	Sensitivity/Response	22392911	CiViC
+NRAS	Q61K	Colorectal Cancer	Selumetinib,Dactolisib	D	Sensitivity/Response	22392911	CiViC
+KRAS	A146T	Colorectal Cancer	Dactolisib,Selumetinib	D	Sensitivity/Response	22392911	CiViC
+KRAS	A146V	Colorectal Cancer	Selumetinib,Dactolisib	D	Sensitivity/Response	22392911	CiViC
+KRAS	G12C	Colorectal Cancer	Dactolisib,Selumetinib	D	Sensitivity/Response	22392911	CiViC
+KRAS	G12D	Colorectal Cancer	Dactolisib,Selumetinib	D	Sensitivity/Response	22392911	CiViC
+ATM	T2666A	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	MUTATION	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	R3008C	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	c.902-1G>T	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+KRAS	A146P	Colorectal Cancer	Cetuximab	B	Resistance	19603018	CiViC
+KRAS	G13D	Colorectal Cancer	Panitumumab	C	Resistance	18316791	CiViC
+KRAS	G12V	Colorectal Cancer	Panitumumab	C	Resistance	18316791	CiViC
+KRAS	G12D	Colorectal Cancer	Panitumumab	C	Resistance	18316791	CiViC
+KRAS	G12D	Lung Cancer	Gefitinib	B	Resistance	17409929	CiViC
+KRAS	G12D	Multiple Myeloma	Melphalan	B	Resistance	19284554	CiViC
+KRAS	G12D	Multiple Myeloma	Melphalan	D	Resistance	11050000	CiViC
+KRAS	G12D	Multiple Myeloma	Melphalan	D	Resistance	12483530	CiViC
+KRAS	G12D	Multiple Myeloma	Melphalan	D	Resistance	16497971	CiViC
+KRAS	G12C	Colorectal Cancer	Panitumumab	C	Resistance	18316791	CiViC
+KRAS	G12C	Lung Cancer	Gefitinib	B	Resistance	17409929	CiViC
+KRAS	G12C	Multiple Myeloma	Melphalan	B	Resistance	19284554	CiViC
+KRAS	G12C	Multiple Myeloma	Melphalan	D	Resistance	11050000	CiViC
+KRAS	G12C	Multiple Myeloma	Melphalan	D	Resistance	12483530	CiViC
+KRAS	G12C	Multiple Myeloma	Melphalan	D	Resistance	16497971	CiViC
+KRAS	G12R	Colorectal Cancer	Panitumumab	C	Resistance	18316791	CiViC
+KRAS	G12V	Lung Cancer	Gefitinib	C	Resistance	17409929	CiViC
+KRAS	G12S	Colorectal Cancer	Panitumumab	C	Resistance	18316791	CiViC
+KRAS	G12S	Lung Cancer	Gefitinib	B	Resistance	17409929	CiViC
+KRAS	G12S	Multiple Myeloma	Melphalan	B	Resistance	19284554	CiViC
+KRAS	G12S	Multiple Myeloma	Melphalan	D	Resistance	11050000	CiViC
+KRAS	G12S	Multiple Myeloma	Melphalan	D	Resistance	12483530	CiViC
+KRAS	G12S	Multiple Myeloma	Melphalan	D	Resistance	16497971	CiViC
+TP53	R273L	Ovarian Cancer	Cisplatin,Carboplatin	C	Resistance	11595686	CiViC
+TP53	Y220C	Stomach Carcinoma	Cisplatin,Mitomycin,Etoposide	C	Sensitivity/Response	14514923	CiViC
+TP53	R175H	Stomach Carcinoma	EAP Protocol	C	Sensitivity/Response	14514923	CiViC
+IDH1	R132C	Brain Glioma	Temozolomide	B	Sensitivity/Response	20975057	CiViC
+IDH1	R132C	Malignant Glioma	AGI-5198	D	Sensitivity/Response	23558169	CiViC
+IDH1	R132	Malignant Glioma	Bevacizumab	B	Sensitivity/Response	22199315	CiViC
+IDH1	R132C	Acute Myeloid Leukemia	Ivosidenib	B	Sensitivity/Response	25583779	CiViC
+IDH1	R132C	Acute Myeloid Leukemia	BPTES	D	Sensitivity/Response	24333121	CiViC
+PIK3CA	MUTATION	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Resistance	21258250	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Resistance	21258250	CiViC
+KIT	T417_D419delinsY	Gastrointestinal Stromal Tumor	Imatinib	C	Sensitivity/Response	18955451	CiViC
+KIT	D816V	Cancer	Imatinib	D	Resistance	14645423	CiViC
+PDGFRA	D842V	Cancer	Imatinib	D	Resistance	14645423	CiViC
+KIT	K484_G487DEL	Gastrointestinal Stromal Tumor	Imatinib	C	Sensitivity/Response	18955451	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Imatinib	B	Sensitivity/Response	14645423	CiViC
+KIT	EXON 11 MUTATION	Gastrointestinal Stromal Tumor	Imatinib	B	Sensitivity/Response	18955451	CiViC
+PDGFRA	V561D	Gastrointestinal Stromal Tumor	Imatinib	C	Sensitivity/Response	18955451	CiViC
+KIT	EXON 13 MUTATION	Gastrointestinal Stromal Tumor	Imatinib	C	Sensitivity/Response	14645423	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Imatinib	B	Reduced Sensitivity	18955451	CiViC
+PDGFRA	D842V	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	14645423	CiViC
+KIT	EXPRESSION	Gastrointestinal Stromal Tumor	Imatinib	B	Sensitivity/Response	18955451	CiViC
+KIT	D579DEL	Gastrointestinal Stromal Tumor	Imatinib	C	Sensitivity/Response	14645423	CiViC
+BRAF	V600K	Melanoma	Dabrafenib	B	Sensitivity/Response	21343559	CiViC
+BRAF	V600K	Melanoma	Trametinib	B	Sensitivity/Response	22663011	CiViC
+EGFR	G719A	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	20038723	CiViC
+EGFR	WILDTYPE	Lung Non-small Cell Carcinoma	Gefitinib	C		19692680	CiViC
+EGFR	E746_A750del	Bronchiolo-alveolar Adenocarcinoma	Erlotinib	C	Sensitivity/Response	15329413	CiViC
+EGFR	EXON 19 DELETION	Lung Adenocarcinoma	Gefitinib	B	Sensitivity/Response	22370314	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	15329413	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	20038723	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Gefitinib	C	Sensitivity/Response	15329413	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Gefitinib	D	Sensitivity/Response	24893891	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Lapatinib	D	Sensitivity/Response	18408761	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Dacomitinib	D	Sensitivity/Response	18089823	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Neratinib	D	Sensitivity/Response	16818618	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Afatinib	D	Sensitivity/Response	18408761	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Canertinib	D	Sensitivity/Response	18408761	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Erlotinib	C	Sensitivity/Response	15329413	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Gefitinib	B	Sensitivity/Response	22370314	CiViC
+ABL1	BCR-ABL M244V	Chronic Myeloid Leukemia	Imatinib	C	Sensitivity/Response	15930265	CiViC
+ABL1	BCR-ABL L248V	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL L248V	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib,Dasatinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Imatinib	C	Resistance	15930265	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL Q252H	Chronic Myeloid Leukemia	Imatinib	D	Sensitivity/Response	19075254	CiViC
+ABL1	BCR-ABL Y253H	Chronic Myeloid Leukemia	Nilotinib,Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	Y253F	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	Y253F	Chronic Myeloid Leukemia	Imatinib	C	Resistance	15930265	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib	D	Resistance	15930265	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL D276G	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL D276G	Chronic Myeloid Leukemia	Nilotinib	D	Sensitivity/Response	19075254	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib	C	Resistance	15930265	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Imatinib	C	Resistance	15930265	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Imatinib	C	Resistance	15930265	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Imatinib	D	Sensitivity/Response	19075254	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Imatinib	C	Sensitivity/Response	15930265	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Nilotinib	D	Sensitivity/Response	19075254	CiViC
+ABL1	BCR-ABL H396R	Chronic Myeloid Leukemia	Imatinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL H396R	Chronic Myeloid Leukemia	Imatinib	C	Resistance	15930265	CiViC
+TP53	Y234C	Ovarian Cancer	Cisplatin,Carboplatin	C	Resistance	11595686	CiViC
+TP53	ALTERATION	Ovarian Cancer	Cisplatin,Carboplatin	B	Resistance	11595686	CiViC
+TP53	DNA BINDING DOMAIN MUTATION	Breast Cancer	Tamoxifen	B	Resistance	10786679	CiViC
+TP53	MUTATION	Breast Cancer	Tamoxifen	C	Resistance	10786679	CiViC
+TP53	OVEREXPRESSION	Stomach Cancer	Mitomycin,Etoposide,Cisplatin	B	Sensitivity/Response	14514923	CiViC
+TP53	R282L	Stomach Carcinoma	EAP Protocol	C	Sensitivity/Response	14514923	CiViC
+TP53	R213P	Stomach Carcinoma	EAP Protocol	C	Sensitivity/Response	14514923	CiViC
+TP53	MUTATION	Stomach Carcinoma	Etoposide,Doxorubicin,Cisplatin	C	Sensitivity/Response	14514923	CiViC
+ABL1	BCR-ABL F486S	Chronic Myeloid Leukemia	Nilotinib	D	Sensitivity/Response	19075254	CiViC
+ATM	c.7089+1del	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	c.7515+1_2del	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	K293*	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	F1025L	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	D1930V	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	E2187*	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	L2427P	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	F2732V	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	D1682H	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	A2062V	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ATM	C2488Y	Chronic Lymphocytic Leukemia	Doxorubicin	D	Resistance	23585524	CiViC
+ABL1	BCR-ABL E255V	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	19075254	CiViC
+ABL1	BCR-ABL E255V	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL E292V	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F359C	Chronic Myeloid Leukemia	Nilotinib,Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL L384M	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Nilotinib	D	Sensitivity/Response	19075254	CiViC
+ABL1	BCR-ABL L387F	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL G398R	Chronic Myeloid Leukemia	Nilotinib	D	Sensitivity/Response	19075254	CiViC
+BRCA1	M1V	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	M1I	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	C61G	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	C64Y	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	R71G	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	R71K	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	R1495M	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	E1559K	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	D1692N	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	R1443*	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA1	Q1467*	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA2	M1R	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA2	M1I	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA2	V159M	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA2	V211L	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA2	V211I	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA2	R2336P	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+BRCA2	R2336H	Ovarian Cancer	Rucaparib	C	Sensitivity/Response	27908594	CiViC
+KIT	D820Y	Melanoma	Imatinib	C	Resistance	21642685	CiViC
+KIT	D820Y	Melanoma	Sunitinib	D		19035443	CiViC
+KIT	K642E	Mucosal Melanoma	Imatinib	C	Sensitivity/Response	18510589	CiViC
+GNAS	T393C	Esophageal Cancer	Cisplatin,Fluorouracil	B	Resistance	19274060	CiViC
+MGMT	UNDEREXPRESSION	Glioblastoma Multiforme	Temozolomide	B	Sensitivity/Response	17442989	CiViC
+MGMT	UNDEREXPRESSION	Malignant Glioma	Temozolomide	B	Sensitivity/Response	21365007	CiViC
+MGMT	UNDEREXPRESSION	Oligodendroglioma	Temozolomide	B	Sensitivity/Response	16541434	CiViC
+MGMT	UNDEREXPRESSION	Glioblastoma Multiforme	Temozolomide	B	Sensitivity/Response	21331613	CiViC
+MGMT	UNDEREXPRESSION	Neuroendocrine Tumor	Temozolomide	B	Sensitivity/Response	19118063	CiViC
+RRM1	UNDEREXPRESSION	Lung Non-small Cell Carcinoma	Cisplatin,Gemcitabine	B	Sensitivity/Response	24595080	CiViC
+NRAS	Q61K	Lung Non-small Cell Carcinoma	Selumetinib,Trametinib	D	Sensitivity/Response	23515407	CiViC
+FGFR1	EXPRESSION	Sarcoma	FGF/VEGF Receptor Tyrosine Kinase Inhibitor, PD173074,FGFR Inhibitor AZD4547,Infigratinib	D	Sensitivity/Response	27535980	CiViC
+KIT	N822K	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	16954519	CiViC
+KIT	Y823D	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	16954519	CiViC
+KIT	C809G	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	16954519	CiViC
+KIT	D820A	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	16954519	CiViC
+KIT	D820G	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	16954519	CiViC
+KIT	D816H	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	16954519	CiViC
+KIT	T670I	Gastrointestinal Stromal Tumor	Imatinib	C	Resistance	16954519	CiViC
+DNMT3A	MUTATION	Cancer	Nivolumab,Pembrolizumab,Atezolizumab	B	Resistance	28351930	CiViC
+BRAF	AMPLIFICATION	Colorectal Cancer	Panitumumab,Dabrafenib	C	Resistance	25673644	CiViC
+NRAS	MUTATION	Skin Melanoma	Ribociclib,Binimetinib	B	Sensitivity/Response	26987942	CiViC
+IDH1	MUTATION	Brain Glioma	Olaparib	D	Sensitivity/Response	28148839	CiViC
+ROS1	G2032R	Lung Adenocarcinoma	Crizotinib	C	Resistance	23724914	CiViC
+MAP2K1	K57N	Lung Adenocarcinoma	Selumetinib	D	Sensitivity/Response	18632602	CiViC
+NRAS	MUTATION	Skin Melanoma	Binimetinib	B	Sensitivity/Response	28284557	CiViC
+EGFR	MUTATION	Lung Cancer	Gefitinib	B	Sensitivity/Response	17409929	CiViC
+CTAG1B	OVEREXPRESSION	Multiple Myeloma	Autologous Anti-NY-ESO-1/LAGE-1 TCR-transduced C259 T Lymphocytes GSK3377794	B	Sensitivity/Response	26193344	CiViC
+CTAG2	OVEREXPRESSION	Multiple Myeloma	Autologous Anti-NY-ESO-1/LAGE-1 TCR-transduced C259 T Lymphocytes GSK3377794	B	Sensitivity/Response	26193344	CiViC
+KRAS	A146T	Colorectal Cancer	Cetuximab	D	Resistance	20570890	CiViC
+NTRK1	NTRK1 FUSIONS	Lung Non-small Cell Carcinoma	Entrectinib	C	Sensitivity/Response	26565381	CiViC
+NTRK1	NTRK1 FUSIONS	Cancer	Entrectinib	B	Sensitivity/Response	28183697	CiViC
+NTRK3	NTRK3 FUSIONS	Cancer	Entrectinib	B	Sensitivity/Response	28183697	CiViC
+NTRK1	SQSTM1-NTRK1	Lung Non-small Cell Carcinoma	Entrectinib	C	Sensitivity/Response	28183697	CiViC
+ROS1	REARRANGEMENT	Cancer	Entrectinib	B	Sensitivity/Response	28183697	CiViC
+ALK	ALK FUSIONS	Cancer	Entrectinib	B	Sensitivity/Response	28183697	CiViC
+NTRK1	NTRK1 FUSIONS	Cancer	Larotrectinib	C	Sensitivity/Response	26603524	CiViC
+NTRK1	LMNA-NTRK1	Sarcoma	Larotrectinib	C	Sensitivity/Response	26216294	CiViC
+NTRK1	NTRK1 FUSIONS	Sarcoma	Larotrectinib	C	Sensitivity/Response	26216294	CiViC
+NTRK1	AMPLIFICATION	Cancer	Entrectinib	B	Resistance	28183697	CiViC
+NTRK3	AMPLIFICATION	Cancer	Entrectinib	B	Resistance	28183697	CiViC
+NTRK1	LMNA-NTRK1	Colorectal Adenocarcinoma	Entrectinib	C	Sensitivity/Response	26546295	CiViC
+NTRK1	LMNA-NTRK1 G595R and G667C	Colorectal Adenocarcinoma	Entrectinib	C	Resistance	26546295	CiViC
+TP53	WILD TYPE	Cancer	Nutlin-3a	D	Sensitivity/Response	17671205	CiViC
+TP53	WILD TYPE	Cancer	AMGMDS3	D	Sensitivity/Response	25730903	CiViC
+TP53	WILD TYPE	Leukemia	RG7112	B	Sensitivity/Response	26459177	CiViC
+TP53	DELETERIOUS MUTATION	Leukemia	RG7112	B	Resistance	26459177	CiViC
+TP53	DELETERIOUS MUTATION	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	DELETERIOUS MUTATION	Cancer	Nutlin-3a	D	Resistance	17671205	CiViC
+ARID1A	LOSS-OF-FUNCTION	Ovarian Clear Cell Carcinoma	Dasatinib	D	Sensitivity/Response	27364904	CiViC
+ARID1A	LOSS-OF-FUNCTION	Ovarian Clear Cell Carcinoma	GSK126	D	Sensitivity/Response	25686104	CiViC
+PIK3CA	E545K	Cervix Carcinoma	Pictilisib	D	Sensitivity/Response	27489350	CiViC
+PIK3CA	E545K	Cervix Carcinoma	Cisplatin	D	Resistance	27489350	CiViC
+ALK	F1245V	Neuroblastoma	Entrectinib	C	Sensitivity/Response	28183697	CiViC
+CTNNB1	ACTIVATING MUTATION	Melanoma	Anti-CTLA-4 Monoclonal Antibody,Anti-PD-L1 Monoclonal Antibody	D	Resistance	25970248	CiViC
+MERTK	OVEREXPRESSION	Melanoma	UNC1062	D	Sensitivity/Response	23585477	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Erlotinib	A	Sensitivity/Response	24868098	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Erlotinib	A	Sensitivity/Response	24868098	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Afatinib	A	Sensitivity/Response	23982599	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Afatinib	A	Sensitivity/Response	23982599	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Docetaxel,Selumetinib	A	Resistance	28492898	CiViC
+CD274	EXPRESSION	Head And Neck Squamous Cell Carcinoma	Radiation Therapy	B	Resistance	28476872	CiViC
+MYC	OVEREXPRESSION	Lung Small Cell Carcinoma	Prexasertib,Cisplatin,Olaparib	D	Sensitivity/Response	28490518	CiViC
+FLT3	D835V	Acute Myeloid Leukemia	Tandutinib	D	Resistance	15256420	CiViC
+FLT3	D835V	Acute Myeloid Leukemia	Sunitinib,Cytarabine	D	Sensitivity/Response	15304385	CiViC
+FLT3	D835V	Acute Myeloid Leukemia	Sunitinib,Daunorubicin	D	Sensitivity/Response	15304385	CiViC
+TP53	OVEREXPRESSION	Ovarian Cancer	Carboplatin,Cisplatin	B	Resistance	11595686	CiViC
+EGFR	AMPLIFICATION	Lung Non-small Cell Carcinoma	Osimertinib,Rociletinib	D	Resistance	28202511	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	20038723	CiViC
+BRAF	V600E	Lung Non-small Cell Carcinoma	Dabrafenib,Trametinib	A	Sensitivity/Response	27283860	CiViC
+FGFR1	AMPLIFICATION	Lung Non-small Cell Carcinoma	Dovitinib	B	Sensitivity/Response	27315356	CiViC
+KIT	V559D	Gastrointestinal Stromal Tumor	Imatinib	C	Sensitivity/Response	22114577	CiViC
+KIT	V559D	Cancer	PD-180970,Sunitinib,Dasatinib,Imatinib,Tandutinib	D	Sensitivity/Response	16046538	CiViC
+FLT3	D835V	Acute Myeloid Leukemia	AS602868,Tyrphostin AG 1296	D	Sensitivity/Response	17330097	CiViC
+MET	OVEREXPRESSION	Uveal Melanoma	Selumetinib,Trametinib	D	Resistance	25952648	CiViC
+AKT1	E17K	Cancer	Capivasertib	B	Sensitivity/Response	28489509	CiViC
+PIK3CA	MUTATION	Cancer	Capivasertib	B	Sensitivity/Response	28489509	CiViC
+TP53	R248Q	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+GNAS	R201H	Follicular Thyroid Carcinoma	Radioactive Iodine	C	Sensitivity/Response	26788326	CiViC
+GNA11	MUTATION	Uveal Melanoma	Cabozantinib	B	Sensitivity/Response	28103611	CiViC
+NRAS	G12D	Colorectal Cancer	Cetuximab	B	Resistance	25666295	CiViC
+KRAS	MUTATION	Colorectal Cancer	Chemotherapy,Cetuximab	B	Resistance	20619739	CiViC
+KRAS	G12A	Colorectal Cancer	Regorafenib	D	Resistance	26161928	CiViC
+PIK3CA	E545K	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+PIK3CA	E545G	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+PIK3CA	H1047R	Colorectal Cancer	Vemurafenib	D	Resistance	22180495	CiViC
+BRAF	V600E	Colorectal Cancer	Cetuximab	B	Resistance	25666295	CiViC
+BRAF	V600E	Melanoma	Vemurafenib	B	Sensitivity/Response	23569304	CiViC
+BRAF	V600E	Melanoma	Vemurafenib	B	Sensitivity/Response	26557775	CiViC
+BRAF	V600E	Melanoma	Vemurafenib	B	Sensitivity/Response	25524477	CiViC
+BRAF	V600E	Skin Melanoma	Dabrafenib,Trametinib	B	Sensitivity/Response	25399551	CiViC
+BRAF	V600E	Ganglioglioma	Vemurafenib	C	Sensitivity/Response	25524464	CiViC
+BRAF	V600E	Ovarian Cystadenocarcinoma	Vemurafenib	C	Sensitivity/Response	26490654	CiViC
+EGFR	Ex19 del L858R	Lung Adenocarcinoma	Erlotinib	B	Sensitivity/Response	22285168	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Erlotinib	B	Sensitivity/Response	15329413	CiViC
+EGFR	L861Q	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	21531810	CiViC
+EGFR	T790M	Cancer	Erlotinib	D		19147750	CiViC
+EGFR	L858R	Cancer	Multikinase Inhibitor AEE788,Erlotinib,Gefitinib	D	Sensitivity/Response	19147750	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Dasatinib	C	Reduced Sensitivity	17264298	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Dasatinib	C	Resistance	16775234	CiViC
+HRAS	G13D	Skin Squamous Cell Carcinoma	Vemurafenib	C	Resistance	22256804	CiViC
+HRAS	G13D	Colorectal Cancer	Cetuximab	D	Resistance	26561417	CiViC
+KRAS	A146T	Colorectal Cancer	FOLFOX-4 Regimen,Cetuximab	B	Resistance	25666295	CiViC
+KRAS	Q61H	Colorectal Cancer	Chemotherapy,Cetuximab	C	Resistance	20619739	CiViC
+KRAS	Q61H	Colorectal Cancer	Cetuximab	C	Resistance	22722830	CiViC
+KRAS	Q61L	Colorectal Cancer	Chemotherapy,Cetuximab	C	Resistance	20619739	CiViC
+KRAS	Q61R	Colorectal Cancer	Irinotecan,Cetuximab	C	Resistance	20619739	CiViC
+KRAS	Q61K	Colorectal Cancer	Chemotherapy,Cetuximab	C	Resistance	20619739	CiViC
+KRAS	G13D	Colorectal Cancer	Cetuximab	D	Resistance	22722830	CiViC
+KRAS	G13D	Colorectal Cancer	Cetuximab	B	Resistance	25666295	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Erlotinib	B	Resistance	21969500	CiViC
+KRAS	Q61	Colorectal Cancer	Chemotherapy,Cetuximab	B	Resistance	20619739	CiViC
+KRAS	G12V	Colorectal Cancer	Regorafenib	D	Resistance	26161928	CiViC
+KRAS	G12D	Colorectal Cancer	Regorafenib	D	Resistance	26161928	CiViC
+KRAS	G12D	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+KRAS	G12D	Ovarian Cancer	Cetuximab	D	Resistance	22246397	CiViC
+KRAS	G12C	Colorectal Cancer	Regorafenib	D	Resistance	26161928	CiViC
+KRAS	G12R	Colorectal Cancer	Cetuximab	D	Resistance	22722830	CiViC
+KRAS	G12R	Colorectal Cancer	Regorafenib	D	Resistance	26161928	CiViC
+KRAS	G12S	Colorectal Cancer	Regorafenib	D	Resistance	26161928	CiViC
+FLT3	D835V	Acute Myeloid Leukemia	Sunitinib	C	Sensitivity/Response	15459012	CiViC
+AKT1	E17K	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+PDGFRA	D842V	Cancer	Sunitinib	D	Resistance	18955458	CiViC
+KIT	V560_L576DEL	Gastrointestinal Stromal Tumor	Regorafenib	D	Sensitivity/Response	25239608	CiViC
+KIT	K550_K558del	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+KIT	EXON 11 MUTATION	Gastrointestinal Stromal Tumor	Sunitinib	B	Resistance	18955458	CiViC
+KIT	W557_K558DELWK	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+KIT	W557_K558DELWK	Gastrointestinal Stromal Tumor	Ponatinib,Imatinib	D	Sensitivity/Response	25239608	CiViC
+KIT	W557_K558DELWK	Gastrointestinal Stromal Tumor	Sunitinib,Regorafenib	D	Sensitivity/Response	25239608	CiViC
+KIT	K558_V559del	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Regorafenib	C	Reduced Sensitivity	27371698	CiViC
+KIT	V560D	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+KIT	P551_E554delPMYE	Gastrointestinal Stromal Tumor	Ponatinib	D	Sensitivity/Response	25239608	CiViC
+KIT	V560D	Gastrointestinal Stromal Tumor	Sunitinib,Regorafenib,Ponatinib,Imatinib	D	Sensitivity/Response	25239608	CiViC
+KIT	L576P	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Regorafenib	B	Reduced Sensitivity	22614970	CiViC
+KIT	L576P	Cancer	Dasatinib,Imatinib	D	Sensitivity/Response	25317746	CiViC
+KIT	D579DEL	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+KIT	WILDTYPE	Gastrointestinal Stromal Tumor	Regorafenib	B	Sensitivity/Response	27371698	CiViC
+KIT	K642E	Melanoma	Dasatinib	C	Sensitivity/Response	21523734	CiViC
+KIT	N822K	Gastrointestinal Stromal Tumor	Regorafenib	D	Resistance	25239608	CiViC
+BRAF	V600K	Melanoma	Vemurafenib	B	Sensitivity/Response	25524477	CiViC
+BRAF	V600K	Skin Melanoma	Dabrafenib,Trametinib	B	Sensitivity/Response	25399551	CiViC
+EGFR	R108K	Malignant Glioma	Erlotinib	D	Sensitivity/Response	17177598	CiViC
+EGFR	T263P	Malignant Glioma	Erlotinib	D	Sensitivity/Response	17177598	CiViC
+EGFR	A289V	Malignant Glioma	Erlotinib	D	Sensitivity/Response	17177598	CiViC
+EGFR	G719	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	21531810	CiViC
+EGFR	G719S	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	19147750	CiViC
+EGFR	V742A	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	19147750	CiViC
+EGFR	E746_A750del	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	15329413	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Erlotinib	C	Sensitivity/Response	21969500	CiViC
+EGFR	E746_T751>I	Lung Adenocarcinoma	Gefitinib	C	Sensitivity/Response	15329413	CiViC
+EGFR	G719D	Lung Non-small Cell Carcinoma	Gefitinib,Erlotinib	C	Sensitivity/Response	21531810	CiViC
+EGFR	V774A	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	21531810	CiViC
+EGFR	V834I	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	21531810	CiViC
+EGFR	L838P	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	21531810	CiViC
+EGFR	V851I	Lung Non-small Cell Carcinoma	Erlotinib	C	Sensitivity/Response	21531810	CiViC
+EGFR	L858R	Cancer	Erlotinib	D	Sensitivity/Response	17877814	CiViC
+EGFR	L747_P753delinsS	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	19147750	CiViC
+EGFR	S768I	Lung Adenocarcinoma	Erlotinib	C	Resistance	22895145	CiViC
+EGFR	S768I	Lung Adenocarcinoma	Erlotinib	D	Resistance	19147750	CiViC
+EGFR	D770_N771insSVD	Lung Non-small Cell Carcinoma	Erlotinib	D	Resistance	24353160	CiViC
+EGFR	H773_V774insH	Lung Non-small Cell Carcinoma	Erlotinib	D	Resistance	24353160	CiViC
+EGFR	R831H	Malignant Mesothelioma	Erlotinib	D	Sensitivity/Response	20942962	CiViC
+EGFR	L838V	Lung Non-small Cell Carcinoma	Erlotinib	D	Resistance	19147750	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	18408761	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	21132006	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	24353160	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	27612423	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Crizotinib	C	Resistance	22235099	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	27032107	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Erlotinib	D	Sensitivity/Response	27102076	CiViC
+EGFR	L858R	Lung Adenocarcinoma	Cetuximab	D	Sensitivity/Response	27102076	CiViC
+EGFR	L858R	Malignant Glioma	Erlotinib	D	Sensitivity/Response	17177598	CiViC
+EGFR	L861	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	21531810	CiViC
+EGFR	L861Q	Malignant Glioma	Erlotinib	D	Sensitivity/Response	17177598	CiViC
+EGFR	E868G	Malignant Mesothelioma	Erlotinib	D	Sensitivity/Response	20942962	CiViC
+ABL1	BCR-ABL L248V	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Bosutinib	C	Reduced Sensitivity	22371878	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Dasatinib	C	Reduced Sensitivity	17264298	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL Q252H	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	Y253F	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Bosutinib	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Dasatinib	C	Reduced Sensitivity	17264298	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL D276G	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Bosutinib	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Bosutinib	C	Resistance	21865346	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Dasatinib	B	Resistance	19779040	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Axitinib	C	Sensitivity/Response	25686603	CiViC
+ABL1	BCR-ABL T315I	Acute Lymphoblastic Leukemia	Dasatinib	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Bosutinib	C	Reduced Sensitivity	22371878	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Bosutinib	C	Reduced Sensitivity	22371878	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Dasatinib	C	Reduced Sensitivity	17264298	CiViC
+ABL1	BCR-ABL H396R	Chronic Myeloid Leukemia	Bosutinib	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL H396R	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL	Acute Lymphoblastic Leukemia	Dasatinib	C	Sensitivity/Response	16775234	CiViC
+ABL1	BCR-ABL F486S	Chronic Myeloid Leukemia	Bosutinib	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL E255V	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL E255V	Chronic Myeloid Leukemia	Bosutinib	C	Reduced Sensitivity	22371878	CiViC
+KIT	V559D	Gastrointestinal Stromal Tumor	Ponatinib,Regorafenib,Imatinib	D	Sensitivity/Response	25239608	CiViC
+EGFR	R776C	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	19147750	CiViC
+BRAF	D594G	Colorectal Cancer	Irinotecan,Cetuximab	C	Resistance	26989027	CiViC
+ARID1A	Q456*	Ovarian Clear Cell Carcinoma	Dasatinib	D	Sensitivity/Response	27364904	CiViC
+BRAF	V600D	Melanoma	Vemurafenib	D	Sensitivity/Response	18287029	CiViC
+BRAF	V600D	Melanoma	Vemurafenib	D	Sensitivity/Response	20551065	CiViC
+EGFR	H773_V774insNPH	Lung Adenocarcinoma	Erlotinib	C	Resistance	24353160	CiViC
+EGFR	D770_N771insGL	Lung Adenocarcinoma	Erlotinib	C	Resistance	24353160	CiViC
+EGFR	A864T	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	19147750	CiViC
+EGFR	N826S	Lung Non-small Cell Carcinoma	Erlotinib	D	Resistance	19147750	CiViC
+EGFR	A763_Y764insFQEA	Lung Non-small Cell Carcinoma	Erlotinib	D	Sensitivity/Response	24353160	CiViC
+AKT1	Q79K	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+EGFR	VIII	Malignant Glioma	Erlotinib	D	Sensitivity/Response	17177598	CiViC
+KIT	T670I	Gastrointestinal Stromal Tumor	Regorafenib	D	Resistance	25239608	CiViC
+AKT3	E17K	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+ABL1	BCR-ABL L384M	Chronic Myeloid Leukemia	Dasatinib	C	Resistance	19779040	CiViC
+ABL1	BCR-ABL M343T	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL F317V	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Bosutinib	C	Reduced Sensitivity	22371878	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Dasatinib	C	Resistance	19779040	CiViC
+ABL1	BCR-ABL L387F	Chronic Myeloid Leukemia	Bosutinib	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL G398R	Chronic Myeloid Leukemia	Dasatinib	D	Sensitivity/Response	19075254	CiViC
+KIT	K550_W557del	Gastrointestinal Stromal Tumor	Sunitinib,Ponatinib,Regorafenib,Imatinib	D	Sensitivity/Response	25239608	CiViC
+KIT	D820Y	Gastrointestinal Stromal Tumor	Regorafenib	C	Sensitivity/Response	22614970	CiViC
+KIT	K558NP	Gastrointestinal Stromal Tumor	Sunitinib,Ponatinib,Regorafenib,Imatinib	D	Sensitivity/Response	25239608	CiViC
+KIT	N822K	Gastrointestinal Stromal Tumor	Regorafenib	C	Sensitivity/Response	22614970	CiViC
+PDGFRA	D842V	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+KIT	EXON 11 MUTATION	Gastrointestinal Stromal Tumor	Regorafenib	B	Sensitivity/Response	23177515	CiViC
+KIT	V569_L576DEL	Gastrointestinal Stromal Tumor	Sunitinib	B	Sensitivity/Response	26772734	CiViC
+BRAF	EXON 15 MUTATION	Gastrointestinal Stromal Tumor	Regorafenib	C	Resistance	22614970	CiViC
+BRCA1	W1815X	Ovarian Cancer	Olaparib	D	Sensitivity/Response	23415752	CiViC
+KIT	EXON 9 MUTATION	Gastrointestinal Stromal Tumor	Regorafenib	B	Sensitivity/Response	23177515	CiViC
+KIT	EXON 11 MUTATION	Gastrointestinal Stromal Tumor	Regorafenib	B	Sensitivity/Response	22614970	CiViC
+KIT	D816E	Gastrointestinal Stromal Tumor	Sunitinib,Imatinib	D	Resistance	25239608	CiViC
+EGFR	D770_N771insGT	Lung Adenocarcinoma	Erlotinib	C	Resistance	23371856	CiViC
+EGFR	EXON 20 INSERTION	Lung Adenocarcinoma	Erlotinib	C	Resistance	22895145	CiViC
+SMO	L412F	Basal Cell Carcinoma	Vismodegib	D	Resistance	25759020	CiViC
+SMO	L412F	Basal Cell Carcinoma	Vismodegib	C	Resistance	26822128	CiViC
+EGFR	W731L	Malignant Mesothelioma	Erlotinib	D	Sensitivity/Response	20942962	CiViC
+EGFR	E734Q	Malignant Mesothelioma	Erlotinib	D	Sensitivity/Response	20942962	CiViC
+EGFR	T785A	Malignant Mesothelioma	Erlotinib	D	Sensitivity/Response	20942962	CiViC
+EGFR	C797Y	Malignant Mesothelioma	Erlotinib	D	Sensitivity/Response	20942962	CiViC
+EGFR	Y801H	Malignant Mesothelioma	Erlotinib	D	Sensitivity/Response	20942962	CiViC
+EGFR	A767_V769dupASV	Lung Adenocarcinoma	Erlotinib	C	Resistance	24353160	CiViC
+EGFR	L747_S752delinsQ	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	15329413	CiViC
+EGFR	L861R	Lung Non-small Cell Carcinoma	Gefitinib	C	Sensitivity/Response	21531810	CiViC
+ABL1	BCR-ABL	Chronic Myeloid Leukemia	Dasatinib	C	Sensitivity/Response	16775234	CiViC
+ABL1	BCR-ABL E255K	Acute Lymphoblastic Leukemia	Dasatinib	C	Resistance	16775234	CiViC
+EGFR	RARE Exon 18-21 Mutation	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	21531810	CiViC
+EGFR	Ex19 del L858R	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	21531810	CiViC
+EGFR	EXON 19 DELETION	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	27566387	CiViC
+POLD1	C284Y	Lung Adenocarcinoma	Pembrolizumab	C	Sensitivity/Response	25765070	CiViC
+POLD1	E374K	Lung Non-small Cell Carcinoma	Pembrolizumab	C	Sensitivity/Response	25765070	CiViC
+PIK3R2	N561D	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+PIK3CA	D350G	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+NRAS	Q179X	Colorectal Cancer	Cetuximab	B	Resistance	25666295	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Adenocarcinoma	Crizotinib	C	Sensitivity/Response	25769807	CiViC
+ABL1	R351W	Lung Non-small Cell Carcinoma	Dasatinib	D	Sensitivity/Response	26758680	CiViC
+ABL1	G340L	Lung Non-small Cell Carcinoma	Imatinib Mesylate,Dasatinib	D	Sensitivity/Response	26758680	CiViC
+KIT	S628N	Cancer	Imatinib,Dasatinib	D	Sensitivity/Response	25317746	CiViC
+EGFR	M766_A767insAI	Lung Non-small Cell Carcinoma	Erlotinib	D	Resistance	24353160	CiViC
+EGFR	Y764_V765insHH	Lung Non-small Cell Carcinoma	Erlotinib	D	Resistance	24353160	CiViC
+EGFR	D770_N771insGY	Lung Adenocarcinoma	Erlotinib	C	Resistance	24353160	CiViC
+EGFR	P772_H773insYNP	Lung Non-small Cell Carcinoma	Erlotinib	C	Resistance	24353160	CiViC
+EGFR	P772_V774insPHV	Lung Adenocarcinoma	Erlotinib	C	Resistance	24353160	CiViC
+JAK2	F547 SPLICE SITE MUTATION	Melanoma	Pembrolizumab	C	Resistance	27433843	CiViC
+ARID1A	P1175FS*5	Ovarian Clear Cell Carcinoma	Dasatinib	D	Sensitivity/Response	27364904	CiViC
+VHL	MUTATION	Renal Cell Carcinoma	Anti-VEGF Monoclonal Antibody	B	Resistance	28103578	CiViC
+IDH2	MUTATION	Acute Myeloid Leukemia	Enasidenib	D	Sensitivity/Response	28193778	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Brigatinib	B	Sensitivity/Response	28475456	CiViC
+BRCA1	LOSS-OF-FUNCTION	Breast Cancer	Talazoparib	B	Sensitivity/Response	28242752	CiViC
+BRCA2	LOSS-OF-FUNCTION	Breast Cancer	Talazoparib	B	Sensitivity/Response	28242752	CiViC
+ERBB2	OVEREXPRESSION	Her2-receptor Positive Breast Cancer	Trastuzumab Emtansine	B	Sensitivity/Response	28526536	CiViC
+CDK4	AMPLIFICATION	Liposarcoma	Palbociclib	B	Sensitivity/Response	27124835	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Abemaciclib	B	Sensitivity/Response	27217383	CiViC
+RET	RET FUSIONS	Lung Non-small Cell Carcinoma	Cabozantinib	B	Sensitivity/Response	27825636	CiViC
+RET	RET FUSIONS	Lung Non-small Cell Carcinoma	Vandetanib	B	Sensitivity/Response	27803005	CiViC
+RET	RET FUSIONS	Lung Non-small Cell Carcinoma	Vandetanib	B	Sensitivity/Response	27825616	CiViC
+RET	RET FUSIONS	Lung Non-small Cell Carcinoma	Alectinib	B	Sensitivity/Response	27544060	CiViC
+CD274	EXPRESSION	Lung Non-small Cell Carcinoma	Durvalumab,Atezolizumab,Avelumab,Pembrolizumab,Nivolumab	B	Sensitivity/Response	28472902	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Alectinib,Crizotinib	B	Sensitivity/Response	28586279	CiViC
+EGFR	EXON 19 DELETION	Lung Non-small Cell Carcinoma	Dacomitinib,Erlotinib	B	Sensitivity/Response	26768165	CiViC
+EGFR	L858R	Lung Non-small Cell Carcinoma	Dacomitinib	B	Sensitivity/Response	26768165	CiViC
+FGFR3	FGFR3 FUSIONS	Adrenal Carcinoma	Erdafitinib	C	Sensitivity/Response	26324363	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Pemetrexed,Docetaxel,Trametinib	B	Sensitivity/Response	27876675	CiViC
+KRAS	MUTATION	Lung Non-small Cell Carcinoma	Atezolizumab,Nivolumab	B	Sensitivity/Response	28525386	CiViC
+KRAS	MUTATION	Colorectal Cancer	Binimetinib,Palbociclib	D	Sensitivity/Response	27167191	CiViC
+CDK4	EXPRESSION	Sarcoma	Palbociclib	D	Sensitivity/Response	26528855	CiViC
+CHEK1	OVEREXPRESSION	Lung Small Cell Carcinoma	Prexasertib,Cisplatin,Olaparib	D	Sensitivity/Response	28490518	CiViC
+BRCA2	LOSS-OF-FUNCTION	Ovarian Cancer	Talazoparib	B	Sensitivity/Response	28242752	CiViC
+BRCA1	LOSS-OF-FUNCTION	Ovarian Cancer	Talazoparib	B	Sensitivity/Response	28242752	CiViC
+EGFR	EXPRESSION	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	12748244	CiViC
+TP53	R248W	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R175H	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R273C	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R273H	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	G245S	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	Y220C	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	M237I	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R158H	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	V157F	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R249S	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R280K	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R280T	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+TP53	R158L	Cancer	AMGMDS3	D	Resistance	25730903	CiViC
+BRAF	L597Q	Skin Melanoma	Trametinib	C	Sensitivity/Response	24933606	CiViC
+EGFR	Gain-of-function	Lung Non-small Cell Carcinoma	Gefitinib	B	Sensitivity/Response	15118073	CiViC
+GNAQ	MUTATION	Uveal Melanoma	Cabozantinib	B	Sensitivity/Response	28103611	CiViC
+IDH2	MUTATION	Acute Myeloid Leukemia	Enasidenib	B	Sensitivity/Response	28588020	CiViC
+ATM	UNDEREXPRESSION	Stomach Cancer	Olaparib,Paclitaxel	B		26282658	CiViC
+FLT3	MUTATION	Acute Myeloid Leukemia	Midostaurin	A	Sensitivity/Response	28546144	CiViC
+VHL	MUTATION	Renal Cell Carcinoma	Everolimus	B	Sensitivity/Response	26951309	CiViC
+ERBB2	MUTATION	Breast Cancer	Neratinib	B	Sensitivity/Response	28679771	CiViC
+BAP1	MUTATION	Renal Cell Carcinoma	Everolimus,Sunitinib	B	Resistance	27751729	CiViC
+NRAS	MUTATION	Colorectal Cancer	Cetuximab,Panitumumab	A	Resistance	28275037	CiViC
+KRAS	MUTATION	Colorectal Cancer	Panitumumab,Cetuximab	A	Resistance	28275037	CiViC
+PDGFRA	D842V	Cancer	Imatinib Mesylate	D	Resistance	18955458	CiViC
+KIT	V560D	Cancer	Imatinib Mesylate	D	Sensitivity/Response	18955458	CiViC
+MYC	OVEREXPRESSION	Multiple Myeloma	JQ-1	D	Sensitivity/Response	21889194	CiViC
+RRM1	UNDEREXPRESSION	Pancreatic Cancer	Gemcitabine	B	Sensitivity/Response	19543324	CiViC
+RRM1	UNDEREXPRESSION	Pancreatic Cancer	Gemcitabine	B	Sensitivity/Response	17131328	CiViC
+RRM1	UNDEREXPRESSION	Lung Non-small Cell Carcinoma	Docetaxel,Gemcitabine,Vinorelbine	B	Sensitivity/Response	24647522	CiViC
+RRM1	UNDEREXPRESSION	Lung Non-small Cell Carcinoma	Vinorelbine,Gemcitabine,Paclitaxel	B	Sensitivity/Response	23038758	CiViC
+CD274	EXPRESSION	Lung Non-small Cell Carcinoma	Pembrolizumab	B	Sensitivity/Response	25891174	CiViC
+BRCA1	LOSS-OF-FUNCTION	Her2-receptor Negative Breast Cancer	Olaparib	B	Sensitivity/Response	28578601	CiViC
+BRCA2	LOSS-OF-FUNCTION	Her2-receptor Negative Breast Cancer	Olaparib	B	Sensitivity/Response	28578601	CiViC
+RAD50	L1237F	Ureter Small Cell Carcinoma	Checkpoint Kinase Inhibitor AZD7762,Irinotecan	C	Sensitivity/Response	24934408	CiViC
+BRCA1	MUTATION	Breast Cancer	Olaparib	B	Sensitivity/Response	28792849	CiViC
+BRCA2	MUTATION	Breast Cancer	Olaparib	B	Sensitivity/Response	28792849	CiViC
+NRG1	ATP1B1-NRG1	Cholangiocarcinoma	Afatinib	C	Sensitivity/Response	28950338	CiViC
+NRG1	SDC4-NRG1	Lung Adenocarcinoma	Afatinib	C	Sensitivity/Response	28950338	CiViC
+BRAF	V600E	Cholangiocarcinoma	Trametinib Dimethyl Sulfoxide,Dabrafenib	C	Sensitivity/Response	28480077	CiViC
+BRAF	V600E	Cholangiocarcinoma	Trametinib Dimethyl Sulfoxide,Dabrafenib	C	Sensitivity/Response	28078132	CiViC
+BRAF	V600E	Cholangiocarcinoma	Dabrafenib,Trametinib Dimethyl Sulfoxide	C	Sensitivity/Response	25435907	CiViC
+BRAF	V600	Cholangiocarcinoma	Vemurafenib	B	Sensitivity/Response	26287849	CiViC
+BRAF	V600E	Cholangiocarcinoma	Vemurafenib,Panitumumab,Irinotecan	C	Sensitivity/Response	26687137	CiViC
+FGFR2	FGFR2 fusions	Cholangiocarcinoma	Infigratinib	B	Sensitivity/Response	29182496	CiViC
+EGFR	EGFR-RAD51	Lung Adenocarcinoma	Erlotinib	C	Sensitivity/Response	29290255	CiViC
+FGFR2	FGFR2 mutations	Cholangiocarcinoma	Infigratinib	B	Sensitivity/Response	29182496	CiViC
+BRCA2	MUTATION	Pancreatic Cancer	Olaparib	B	Sensitivity/Response	25366685	CiViC
+BRCA1	MUTATION	Pancreatic Cancer	Olaparib	B	Sensitivity/Response	25366685	CiViC
+BRCA1	MUTATION	Pancreatic Cancer	Oxaliplatin,Cisplatin	B	Sensitivity/Response	25072261	CiViC
+BRCA2	MUTATION	Pancreatic Cancer	Platinum Compound	B	Sensitivity/Response	25072261	CiViC
+EGFR	MUTATION	Peritoneal Mesothelioma	Cytoreductive Surgery,Hyperthermic Intraperitoneal Chemotherapy	B	Sensitivity/Response	20942962	CiViC
+EGFR	COPY NUMBER VARIATION	Lung Non-small Cell Carcinoma	Erlotinib,Gefitinib	B	Sensitivity/Response	20826716	CiViC
+EGFR	COPY NUMBER VARIATION	Lung Non-small Cell Carcinoma	Gefitinib,Erlotinib	B	Sensitivity/Response	27664271	CiViC
+BAP1	ALTERNATIVE TRANSCRIPT (ATI)	Malignant Mesothelioma	Apitolisib,Olaparib	D	Sensitivity/Response	28389374	CiViC
+BRCA1	MUTATION	Pancreatic Cancer	Veliparib,Cisplatin,Gemcitabine	B	Sensitivity/Response	29338080	CiViC
+BRCA2	MUTATION	Pancreatic Cancer	Gemcitabine,Cisplatin,Veliparib	B	Sensitivity/Response	29338080	CiViC
+BRCA2	MUTATION	Pancreatic Cancer	Iniparib	C	Sensitivity/Response	21508395	CiViC
+ALK	STRN-ALK	Colon Adenocarcinoma	Ceritinib	C	Sensitivity/Response	26933125	CiViC
+ALK	ALK FUSIONS	Anaplastic Thyroid Carcinoma	Crizotinib	C	Sensitivity/Response	24687827	CiViC
+BRAF	V600E	Lung Non-small Cell Carcinoma	Vemurafenib	B	Sensitivity/Response	29320312	CiViC
+BRAF	V600E	Ovarian Cancer	Vemurafenib	B	Sensitivity/Response	29320312	CiViC
+BRAF	V600E	Colorectal Cancer	Vemurafenib	C	Sensitivity/Response	29320312	CiViC
+BRAF	V600E	Anaplastic Thyroid Carcinoma	Pertuzumab,Vemurafenib	C	Sensitivity/Response	29320312	CiViC
+BRAF	V600E	Laryngeal Squamous Cell Carcinoma	Vemurafenib	C	Sensitivity/Response	29320312	CiViC
+BRAF	CUX1-BRAF	Pancreatic Cancer	Vemurafenib	C	Sensitivity/Response	29320312	CiViC
+PTCH1	MUTATION	Cancer	Vismodegib	B	Sensitivity/Response	29320312	CiViC
+ERBB2	MUTATION	Lung Non-small Cell Carcinoma	Pertuzumab,Trastuzumab	B	Sensitivity/Response	29320312	CiViC
+ERBB2	AMPLIFICATION	Colorectal Cancer	Trastuzumab,Pertuzumab	B	Sensitivity/Response	29320312	CiViC
+ERBB2	AMPLIFICATION	Bladder Carcinoma	Trastuzumab,Pertuzumab	B	Sensitivity/Response	29320312	CiViC
+ERBB2	AMPLIFICATION	Biliary Tract Cancer	Trastuzumab,Pertuzumab	B	Sensitivity/Response	29320312	CiViC
+ERBB2	AMPLIFICATION	Salivary Gland Carcinoma	Trastuzumab,Pertuzumab	B	Sensitivity/Response	29320312	CiViC
+ERBB2	AMPLIFICATION	Pancreatic Cancer	Trastuzumab,Pertuzumab	B	Sensitivity/Response	29320312	CiViC
+ASS1	LOSS	Sarcoma	Pegargiminase,Chloroquine	D	Sensitivity/Response	27735949	CiViC
+ASS1	LOSS	Ovarian Cancer	Platinum Compound	D	Resistance	19533750	CiViC
+RASA1	LOSS-OF-FUNCTION	Lung Non-small Cell Carcinoma	Trametinib	D	Sensitivity/Response	29127119	CiViC
+TLK2	AMPLIFICATION	Breast Cancer	Go6983,GF109203X	D	Sensitivity/Response	27694828	CiViC
+BRAF	D594G	Skin Melanoma	Sorafenib	D	Sensitivity/Response	18794803	CiViC
+BRAF	D594G	Skin Melanoma	U0126	D	Resistance	18794803	CiViC
+BRAF	G469E	Skin Melanoma	Sorafenib	D	Sensitivity/Response	18794803	CiViC
+BRAF	G469E	Skin Melanoma	U0126	D		18794803	CiViC
+ALK	ALK FUSIONS	Vagina Sarcoma	Crizotinib	C	Sensitivity/Response	26942346	CiViC
+ALK	ALK FUSIONS	Epithelioid Inflammatory Myofibroblastic Sarcoma	Crizotinib	C	Sensitivity/Response	25028698	CiViC
+BRAF	V600	Melanoma	Cobimetinib,Vemurafenib	A	Sensitivity/Response	27480103	CiViC
+BRAF	V600E	Anaplastic Thyroid Carcinoma	Vemurafenib	B	Sensitivity/Response	26287849	CiViC
+BRAF	V600	Colorectal Cancer	Cetuximab,Encorafenib	B	Sensitivity/Response	28363909	CiViC
+BRAF	V600	Colorectal Cancer	Encorafenib,Cetuximab,Alpelisib	B	Sensitivity/Response	28363909	CiViC
+BRCA1	LOSS-OF-FUNCTION	Pancreatic Cancer	Olaparib	B	Sensitivity/Response	25366685	CiViC
+BRCA2	LOSS-OF-FUNCTION	Pancreatic Cancer	Olaparib	B	Sensitivity/Response	25366685	CiViC
+NTRK2	STRN-NTRK2	Sarcoma	Larotrectinib	C	Sensitivity/Response	29606586	CiViC
+NTRK3	ETV6-NTRK3	Pediatric Fibrosarcoma	Larotrectinib	B	Sensitivity/Response	29606586	CiViC
+NTRK1	LMNA-NTRK1	Sarcoma	Larotrectinib	C	Sensitivity/Response	29606586	CiViC
+NTRK1	TMP3-NTRK1	Sarcoma	Larotrectinib	C	Sensitivity/Response	29606586	CiViC
+NTRK1	PDE4DIP-NTRK1	Sarcoma	Larotrectinib	C	Sensitivity/Response	29606586	CiViC
+NTRK1	SQSTM1-NTRK1	Pediatric Fibrosarcoma	Larotrectinib	C	Sensitivity/Response	29606586	CiViC
+BRAF	V600E	Colorectal Cancer	Dabrafenib,Panitumumab,Trametinib	B	Sensitivity/Response	29431699	CiViC
+ERBB2	OVEREXPRESSION	Salivary Gland Cancer	Paclitaxel,Trastuzumab	C	Sensitivity/Response	23826550	CiViC
+ERBB2	OVEREXPRESSION	Salivary Gland Cancer	Capecitabine,Trastuzumab,Zoledronic Acid	C	Sensitivity/Response	20504363	CiViC
+BRAF	V600E	Melanoma	Dabrafenib,Trametinib	B	Sensitivity/Response	28891408	CiViC
+BRAF	V600K	Melanoma	Trametinib,Dabrafenib	B	Sensitivity/Response	28891408	CiViC
+BRAF	V600	Melanoma	Trametinib,Dabrafenib	B	Sensitivity/Response	28891408	CiViC
+ABL1	BCR-ABL T315A	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib Mesylate,Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib Mesylate,Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Nilotinib,Dasatinib,Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL Y253H	Chronic Myeloid Leukemia	Nilotinib,Imatinib Mesylate	C	Resistance	19652056	CiViC
+ABL1	BCR-ABL F317V	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL L248R	Chronic Myeloid Leukemia	Dasatinib,Imatinib Mesylate	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Dasatinib,Imatinib Mesylate	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL F317I	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL F317S	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL Q252H	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	15705718	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	C	Resistance	19652056	CiViC
+ABL1	BCR-ABL F359C	Chronic Myeloid Leukemia	Nilotinib,Imatinib Mesylate	C	Resistance	19652056	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib Mesylate,Dasatinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Dasatinib,Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL L248V	Chronic Myeloid Leukemia	Nilotinib,Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL Y253H	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F311L	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F359C	Chronic Myeloid Leukemia	Nilotinib,Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL H396P	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Dasatinib,Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL M244V	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL L248R	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL Q252H	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL D276G	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F317C	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F317I	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F317V	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL E355G	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL V379I	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL H396R	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+AKT1	Q79K	Melanoma	Dabrafenib	C	Resistance	24265155	CiViC
+AKT3	OVEREXPRESSION	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+BRAF	V600E/K and AMPLIFICATION	Melanoma	Dabrafenib,Vemurafenib	B	Resistance	24265155	CiViC
+NRAS	MUTATION	Melanoma	Dabrafenib,Vemurafenib	B	Resistance	24265155	CiViC
+KRAS	MUTATION	Melanoma	Vemurafenib,Dabrafenib	B	Resistance	24265155	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Nilotinib	D	Resistance	16772610	CiViC
+PREX2	R172I	Melanoma	Vemurafenib	C	Resistance	24265155	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	16772610	CiViC
+PTEN	LOSS	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+NRG1	NRG1 FUSIONS	Pancreatic Adenocarcinoma	Afatinib	C	Sensitivity/Response	29802158	CiViC
+ABL1	BCR-ABL Q252H	Chronic Myeloid Leukemia	Dasatinib	D	Resistance	16772610	CiViC
+PIK3CA	AMPLIFICATION	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib Mesylate	D	Resistance	16772610	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Nilotinib,Dasatinib,Imatinib Mesylate	D	Resistance	16772610	CiViC
+KRAS	G12/G13	Colorectal Cancer	Cetuximab	B	Resistance	19603024	CiViC
+PIK3CA	MUTATION	Colorectal Cancer	Cetuximab	B	Resistance	19603024	CiViC
+BRAF	MUTATION	Colorectal Cancer	Oxaliplatin	B	Resistance	19603024	CiViC
+BRAF	MUTATION	Colorectal Cancer	Irinotecan	B	Resistance	19603024	CiViC
+BRAF	MUTATION	Colorectal Cancer	Bevacizumab	B	Resistance	19603024	CiViC
+BRAF	MUTATION	Colorectal Cancer	Cetuximab	B	Resistance	19603024	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Dasatinib	B	Resistance	19779040	CiViC
+KRAS	G13V	Colorectal Cancer	Cetuximab,Panitumumab	C	Resistance	19223544	CiViC
+KRAS	G12S	Colorectal Cancer	Panitumumab,Cetuximab	C	Resistance	19223544	CiViC
+PTEN	LOSS	Colorectal Cancer	Cetuximab,Panitumumab	B	Resistance	19223544	CiViC
+KRAS	G12D	Colorectal Cancer	Cetuximab,Panitumumab	C	Resistance	19223544	CiViC
+KRAS	AMPLIFICATION	Melanoma	Vemurafenib	D	Resistance	24265155	CiViC
+KRAS	G12A	Colorectal Cancer	Cetuximab,Panitumumab	C	Resistance	19223544	CiViC
+KRAS	G13D	Colorectal Cancer	Cetuximab,Panitumumab	C	Resistance	19223544	CiViC
+KRAS	G12V	Colorectal Cancer	Cetuximab,Panitumumab	C	Resistance	19223544	CiViC
+PIK3CA	MUTATION	Colorectal Cancer	Cetuximab,Panitumumab	B	Resistance	19223544	CiViC
+KRAS	G12/G13	Colorectal Cancer	Panitumumab,Cetuximab	B	Resistance	19223544	CiViC
+PIK3CA	MUTATION	Colorectal Cancer	Aspirin	B	Sensitivity/Response	23094721	CiViC
+ABL1	R351W	Lung Non-small Cell Carcinoma	Imatinib	D	Sensitivity/Response	26758680	CiViC
+KIT	EXON 11 MUTATION	Gastrointestinal Stromal Tumor	Regorafenib	B	Sensitivity/Response	27371698	CiViC
+CSF3R	T618I	Chronic Neutrophilic Leukemia	Ruxolitinib	D	Sensitivity/Response	24081659	CiViC
+CSF3R	T618I	Chronic Neutrophilic Leukemia	Ruxolitinib	C	Sensitivity/Response	25180155	CiViC
+NTRK1	NTRK1-TRIM63	Melanoma	Larotrectinib	E	Sensitivity/Response	29683819	CiViC
+NTRK1	NTRK1-DDR2	Melanoma	Larotrectinib	E	Sensitivity/Response	29683819	CiViC
+NTRK1	NTRK1-GON4L	Melanoma	Larotrectinib	E	Sensitivity/Response	29683819	CiViC
+NTRK2	ETV6-NTRK2	Acute Myeloid Leukemia	Larotrectinib	C	Sensitivity/Response	29920189	CiViC
+BRAF	intron 10 rearrangement	Melanoma	Vemurafenib,Dabrafenib	B	Resistance	24265155	CiViC
+BRAF	intron 9 rearrangement	Melanoma	Dabrafenib,Vemurafenib	B	Resistance	24265155	CiViC
+BRAF	D594K	Colorectal Cancer	Irinotecan	B	Resistance	19603024	CiViC
+BRAF	D594K	Colorectal Cancer	Oxaliplatin	B	Resistance	19603024	CiViC
+FGFR3	FGFR3-TACC3	Urothelial Carcinoma	Infigratinib	B	Sensitivity/Response	29848605	CiViC
+IDH1	R132	Intrahepatic Cholangiocarcinoma	Dasatinib	D	Sensitivity/Response	27231123	CiViC
+STK11	MUTATION	Lung Adenocarcinoma	Pembrolizumab,Nivolumab,Atezolizumab	B	Resistance	29773717	CiViC
+NTRK3	ETV6-NTRK3	Congenital Fibrosarcoma	Larotrectinib	C	Sensitivity/Response	27093299	CiViC
+NTRK3	ETV6-NTRK3	Breast Secretory Carcinoma	Larotrectinib	C	Sensitivity/Response	29623306	CiViC
+NTRK1	NTRK1 FUSIONS	Cancer	Larotrectinib	B	Sensitivity/Response	29466156	CiViC
+NTRK3	NTRK3 FUSIONS	Cancer	Larotrectinib	B	Sensitivity/Response	29466156	CiViC
+NTRK1	NTRK1 FUSIONS	Cancer	Larotrectinib	B	Sensitivity/Response	29606586	CiViC
+NTRK3	ETV6-NTRK3	Pediatric B-lymphoblastic Leukemia	Fms/Trk Tyrosine Kinase Inhibitor PLX7486 Tosylate,Larotrectinib	D	Sensitivity/Response	29880614	CiViC
+BRAF	V600	Melanoma	Trametinib,Dabrafenib	B	Sensitivity/Response	25265492	CiViC
+BRAF	V600E	Melanoma	Trametinib,Dabrafenib	B	Sensitivity/Response	25265492	CiViC
+BRAF	V600E	Melanoma	Dabrafenib,Trametinib	B	Sensitivity/Response	23020132	CiViC
+BRAF	V600K	Melanoma	Trametinib,Dabrafenib	B	Sensitivity/Response	25265494	CiViC
+BRAF	V600	Melanoma	Vemurafenib,Cobimetinib	B	Sensitivity/Response	25037139	CiViC
+ABL1	ETV6-ABL1	Precursor B Lymphoblastic Lymphoma/leukemia	Dasatinib	C	Sensitivity/Response	25207766	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Imatinib Mesylate,Nilotinib	C	Resistance	19652056	CiViC
+ABL1	BCR-ABL E255V	Chronic Myeloid Leukemia	Nilotinib,Imatinib Mesylate	C	Resistance	19652056	CiViC
+BRAF	V600E	Anaplastic Thyroid Carcinoma	Trametinib,Dabrafenib	B	Sensitivity/Response	29072975	CiViC
+PDGFRB	EBF1-PDGFRB	Childhood B-cell Acute Lymphoblastic Leukemia	Imatinib	C	Sensitivity/Response	24186319	CiViC
+ABL1	C475V	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL N336S	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL E453A	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL L387F	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Imatinib Mesylate	B	Resistance	22371878	CiViC
+ABL1	BCR-ABL Q300R	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL F359I	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL F359C	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL E255V	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL F486S	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL H396R	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL Y253H	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Imatinib	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL M244V	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	22371878	CiViC
+PARP1	OVEREXPRESSION	Malignant Peripheral Nerve Sheath Tumor	Olaparib	D	Sensitivity/Response	26650448	CiViC
+BRD4	BRD4-NUTM1	NUT Midline Carcinoma	Birabresib	C	Sensitivity/Response	26976114	CiViC
+PDGFRA	FIP1L1-PDGFRA T674I	Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1	Imatinib	C	Resistance	21818111	CiViC
+JAK2	JAK2 F694L	Pediatric B-cell Acute Lymphoblastic Leukemia	Ruxolitinib	C	Sensitivity/Response	27860260	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Erlotinib	B	Sensitivity/Response	21783417	CiViC
+PDGFRB	EBF1-PDGFRB	Childhood B-cell Acute Lymphoblastic Leukemia	Imatinib	C	Sensitivity/Response	26872634	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Dasatinib	C	Reduced Sensitivity	17264298	CiViC
+ABL1	BCR-ABL V379I	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL A397P	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL F359C	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL E355G	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL M351T	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL E255K	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL Y253H	Chronic Myeloid Leukemia	Imatinib Mesylate	B	Resistance	17264298	CiViC
+ABL1	BCR-ABL G250E	Chronic Myeloid Leukemia	Imatinib Mesylate	B	Resistance	17264298	CiViC
+ABL1	BCR-ABL M244V	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL F359V	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL L248V	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL F317L	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+ABL1	BCR-ABL E459K	Chronic Myeloid Leukemia	Imatinib Mesylate	C	Resistance	17264298	CiViC
+PDGFRB	EBF1-PDGFRB	Pediatric B-lymphoblastic Leukemia	Dasatinib,Imatinib	C	Sensitivity/Response	25207766	CiViC
+ABL1	SNX2-ABL1	Pediatric B-cell Acute Lymphoblastic Leukemia	Dasatinib	C	Resistance	24215620	CiViC
+FGFR1	AMPLIFICATION	Breast Cancer	Pazopanib	C	Sensitivity/Response	29223982	CiViC
+ABL1	ABL1-RCSD	Pediatric B-cell Acute Lymphoblastic Leukemia	Imatinib	C	Sensitivity/Response	25207766	CiViC
+ABL1	ABL1-RCSD1	Pediatric B-cell Acute Lymphoblastic Leukemia	Dasatinib	D	Sensitivity/Response	25207766	CiViC
+ABL2	ABL2 fusions	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Dasatinib	D	Sensitivity/Response	25207766	CiViC
+JAK2	SSBP2-JAK2	B-lymphoblastic Leukemia/lymphoma, BCR-ABL1–like	Ruxolitinib	C	Sensitivity/Response	25207766	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Non-small Cell Carcinoma	Tepotinib	B	Sensitivity/Response	160289	CiViC
+IDH1	MUTATION	Acute Myeloid Leukemia	Ivosidenib	A	Sensitivity/Response	29860938	CiViC
+FLT3	MUTATION	Acute Myeloid Leukemia	Gilteritinib	B	Sensitivity/Response	28645776	CiViC
+ALK	ALK FUSIONS	Lung Non-small Cell Carcinoma	Lorlatinib	B	Sensitivity/Response	30413378	CiViC
+BRAF	V600	Melanoma	Binimetinib,Encorafenib	A	Sensitivity/Response	29573941	CiViC
+KIT	V555_V559DEL	Gastrointestinal Stromal Tumor	Sunitinib	C	Resistance	18955458	CiViC
+ABL1	FOXP1-ABL1	Pediatric B-lymphoblastic Leukemia	Dasatinib	C	Sensitivity/Response	30938769	CiViC
+ERBB2	AMPLIFICATION	Colorectal Cancer	Pertuzumab,Trastuzumab	B	Sensitivity/Response	30857956	CiViC
+PIK3CA	MUTATION	Breast Cancer	Alpelisib,Fulvestrant	A	Sensitivity/Response	31091374	CiViC
+EGFR	EGFR-RAD51	Lung Adenocarcinoma	Icotinib	C	Sensitivity/Response	31064887	CiViC
+PIK3CA	E542K	Breast Cancer	Fulvestrant,Alpelisib	A	Sensitivity/Response	31091374	CiViC
+BRAF	V600	Colorectal Cancer	Irinotecan,Vemurafenib,Cetuximab	B	Sensitivity/Response	147167	CiViC
+EGFR	MUTATION	Lung Non-small Cell Carcinoma	Dacomitinib	B	Sensitivity/Response	28958502	CiViC
+FLT3	ITD	Acute Myeloid Leukemia	Ponatinib	D	Sensitivity/Response	21482694	CiViC
+PDGFRA	FIP1L1-PDGFRA	Acute Myeloid Leukemia	Sorafenib,Sunitinib	D	Sensitivity/Response	21482694	CiViC
+KIT	N822K	Acute Myeloid Leukemia	Ponatinib	D	Sensitivity/Response	21482694	CiViC
+FGFR1	FGFR1OP2-FGFR1	Acute Myeloid Leukemia	Ponatinib	D	Sensitivity/Response	21482694	CiViC
+FLT3	ITD	Leukemia	Sunitinib,Sorafenib	D	Sensitivity/Response	21482694	CiViC
+KIT	A502_Y503insAY	Gastrointestinal Stromal Tumor	Sunitinib	D	Sensitivity/Response	25239608	CiViC
+KIT	V560G	Gastrointestinal Stromal Tumor	Ponatinib,Imatinib,Regorafenib	D	Sensitivity/Response	25239608	CiViC
+KIT	K642E	Gastrointestinal Stromal Tumor	Ponatinib,Sunitinib	D	Sensitivity/Response	25239608	CiViC
+KIT	N822K	Gastrointestinal Stromal Tumor	Imatinib,Sunitinib	D	Resistance	25239608	CiViC
+KIT	A829P	Gastrointestinal Stromal Tumor	Imatinib,Sunitinib	D	Resistance	25239608	CiViC
+KIT	T670I	Gastrointestinal Stromal Tumor	Imatinib	D	Resistance	25239608	CiViC
+FGFR3	MUTATION	Urothelial Carcinoma	Erdafitinib	A	Sensitivity/Response	31340094	CiViC
+TP53	R273H	Osteosarcoma	Doxorubicin,Methotrexate	D	Resistance	17363498	CiViC
+NFE2L2	MUTATION	Lung Squamous Cell Carcinoma	Sapanisertib	B	Sensitivity/Response	174406	CiViC
+IDH1	MUTATION	Cholangiocarcinoma	Ivosidenib	B	Sensitivity/Response	31300360	CiViC
+KIT	D816V	Cancer	Dasatinib,Imatinib	C	Resistance	25317746	CiViC
+RET	CCDC6-RET	Colorectal Cancer	Agerafenib	C	Sensitivity/Response	29538669	CiViC
+ALK	CAD-ALK	Colorectal Cancer	Entrectinib	C	Sensitivity/Response	26633560	CiViC
+ROS1	GOPC-ROS1	Glioblastoma Multiforme	Lorlatinib	D	Sensitivity/Response	30171048	CiViC
+NRG1	ATP1B1-NRG1	Pancreatic Ductal Adenocarcinoma	Afatinib	C	Sensitivity/Response	31068372	CiViC
+NRG1	APP-NRG1	Pancreatic Ductal Adenocarcinoma	Afatinib	C	Sensitivity/Response	31068372	CiViC
+NTRK3	ETV6-NTRK3	Cancer	Larotrectinib	B	Sensitivity/Response	30624546	CiViC
+MET	R1004G	Head And Neck Cancer	Crizotinib	C	Sensitivity/Response	31391294	CiViC
+BRAF	G466V	Colorectal Cancer	Panitumumab,Irinotecan	D	Sensitivity/Response	28783719	CiViC
+FGFR3	Mutations	Urinary Bladder Cancer	Gemcitabine,Cisplatin	B	Sensitivity/Response	29941343	CiViC
+H3-3A	K27M	Glioma	Akt/ERK Inhibitor ONC201	B	Sensitivity/Response	172409	CiViC
+BRAF	V600D	Melanoma	BRAF Inhibitor	B	Sensitivity/Response	31580757	CiViC
+BRAF	V600D	Melanoma	Mitogen-Activated Protein Kinase Kinase Inhibitor,BRAF Inhibitor	B	Sensitivity/Response	31580757	CiViC
+BRAF	V600_K601>E	Melanoma	Mitogen-Activated Protein Kinase Kinase Inhibitor,BRAF Inhibitor	B	Sensitivity/Response	31580757	CiViC
+BRAF	G469	Melanoma	Mitogen-Activated Protein Kinase Kinase Inhibitor,BRAF Inhibitor	B	Sensitivity/Response	31580757	CiViC
+FGF19	EXPRESSION	Hepatocellular Carcinoma	Fisogatinib	B	Sensitivity/Response	31575541	CiViC
+ERBB2	AMPLIFICATION	Cholangiocarcinoma	Trastuzumab,Pertuzumab	C	Sensitivity/Response	31453370	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Non-small Cell Carcinoma	Crizotinib	B	Sensitivity/Response	123413	CiViC
+MET	EXON 14 SKIPPING MUTATION	Lung Non-small Cell Carcinoma	Crizotinib	C	Sensitivity/Response	26892698	CiViC
+ERBB2	AMPLIFICATION	Stomach Cancer	Trastuzumab Deruxtecan	B	Sensitivity/Response	31047804	CiViC
+ABL1	SNX2-ABL1	Pediatric B-cell Acute Lymphoblastic Leukemia	Dasatinib,Imatinib	D	Resistance	24367893	CiViC
+BRAF	AMPLIFICATION	Melanoma	Trametinib,Dabrafenib	B	Resistance	25452114	CiViC
+RET	M918T	Thyroid Gland Medullary Carcinoma	Cabozantinib	B	Sensitivity/Response	27525386	CiViC
+BRCA2	K3226*	Glioblastoma Multiforme	Olaparib,Temozolomide	C	Sensitivity/Response	31619547	CiViC
+BRAF	N486_P490del	Pancreatic Cancer	Trametinib	C	Sensitivity/Response	29903880	CiViC
+BRAF	D594G	Cancer	Trametinib	D	Sensitivity/Response	28783719	CiViC
+BRAF	NRF1-BRAF	Urothelial Carcinoma	Trametinib	C	Sensitivity/Response	31010895	CiViC
+ABL1	BCR-ABL T315V	Chronic Myeloid Leukemia	Axitinib	D	Sensitivity/Response	25686603	CiViC
+ABL1	BCR-ABL V299L	Chronic Myeloid Leukemia	Axitinib	D	Sensitivity/Response	25686603	CiViC
+ABL1	BCR-ABL T315A	Chronic Myeloid Leukemia	Axitinib	D	Sensitivity/Response	25686603	CiViC
+ABL1	BCR-ABL E279K	Chronic Myeloid Leukemia	Axitinib	D	Sensitivity/Response	25686603	CiViC
+ABL1	BCR-ABL F317R	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL L248R F359I	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL L248R	Chronic Myeloid Leukemia	Axitinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL T315I	Acute Lymphoblastic Leukemia	Imatinib,Nilotinib,Dasatinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL T315I	Chronic Myeloid Leukemia	Nilotinib,Dasatinib,Imatinib	D	Resistance	25686603	CiViC
+ABL1	BCR-ABL E255K V299L	Chronic Myeloid Leukemia	Dasatinib,Ponatinib	D	Sensitivity/Response	25686603	CiViC
+ABL1	ABL1-RCSD1	Pediatric B-lymphoblastic Leukemia	Imatinib	C	Sensitivity/Response	27125982	CiViC
+DPYD	EXON 11-19 DELETION	Head And Neck Squamous Cell Carcinoma	Leucovorin,Fluorouracil	C	Sensitivity/Response	31871216	CiViC
+MET	EXON 14 SKIPPING MUTATION	Histiocytic And Dendritic Cell Cancer	Crizotinib	C	Sensitivity/Response	25971938	CiViC
+MET	EXON 14 SKIPPING MUTATION	Cancer	Capmatinib	D	Sensitivity/Response	25971938	CiViC
+CDK4	EXPRESSION	Childhood B-cell Acute Lymphoblastic Leukemia	Ribociclib,Dexamethasone	D	Sensitivity/Response	29408328	CiViC
+CDK6	OVEREXPRESSION	Glioblastoma Proneural Subtype	Palbociclib	D	Sensitivity/Response	28903422	CiViC
+CDK6	EXPRESSION	Childhood B-cell Acute Lymphoblastic Leukemia	Ribociclib,Dexamethasone	D	Sensitivity/Response	29408328	CiViC
+FGFR1	AMPLIFICATION	Adenosquamous Cell Lung Carcinoma	Pazopanib	C	Sensitivity/Response	24302556	CiViC
+NT5C2	R367Q	Childhood Acute Lymphocytic Leukemia	Mercaptopurine,Thioguanine	C	Resistance	23377183	CiViC
+NT5C2	R238W	Childhood Acute Lymphocytic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	23377183	CiViC
+NT5C2	S445F	Childhood Acute Lymphocytic Leukemia	Thioguanine,Mercaptopurine	D	Resistance	23377183	CiViC
+ABL1	BCR-ABL D363G	Chronic Myeloid Leukemia	Imatinib	C	Resistance	16775234	CiViC
+ABL1	BCR-ABL E98G	Chronic Myeloid Leukemia	Imatinib	C	Resistance	16775234	CiViC
+ABL1	BCR-ABL M244V	Chronic Myeloid Leukemia	Imatinib	C	Resistance	16775234	CiViC
+NT5C2	R367Q	Childhood Acute Lymphocytic Leukemia	Thioguanine,Mercaptopurine	D	Resistance	23377183	CiViC
+PRPS1	T303S	Childhood B-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	25962120	CiViC
+PRPS1	L191F	Childhood B-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	25962120	CiViC
+PRPS1	D183E	Childhood B-cell Acute Lymphoblastic Leukemia	Thioguanine,Mercaptopurine	D	Resistance	25962120	CiViC
+PRPS1	K176N	Childhood B-cell Acute Lymphoblastic Leukemia	Thioguanine,Mercaptopurine	D	Resistance	25962120	CiViC
+PRPS1	N144S	Childhood B-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	25962120	CiViC
+PRPS1	S103I	Childhood B-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Thioguanine	D	Resistance	25962120	CiViC
+PRPS1	S103N	Childhood B-cell Acute Lymphoblastic Leukemia	Thioguanine,Mercaptopurine	D	Resistance	25962120	CiViC
+PRPS1	S103T	Childhood B-cell Acute Lymphoblastic Leukemia	Thioguanine,Mercaptopurine	D	Resistance	25962120	CiViC
+PRPS1	A190T	Childhood B-cell Acute Lymphoblastic Leukemia	Thioguanine,Mercaptopurine	D	Resistance	25962120	CiViC
+PRPS1	N144S	Childhood B-cell Acute Lymphoblastic Leukemia	Cytarabine	D	Sensitivity/Response	25962120	CiViC
+PRPS1	L191F	Childhood B-cell Acute Lymphoblastic Leukemia	Cytarabine	D	Sensitivity/Response	25962120	CiViC
+PRPS1	A190T	Childhood B-cell Acute Lymphoblastic Leukemia	Mercaptopurine,Lometrexol	D	Sensitivity/Response	25962120	CiViC
+ROS1	REARRANGEMENT	Lung Non-small Cell Carcinoma	Crizotinib	A	Sensitivity/Response	29596029	CiViC
+IL6	OVEREXPRESSION	Rhabdomyosarcoma	Bazedoxifene	D	Resistance	28672024	CiViC
+PDGFRA	OVEREXPRESSION	Rhabdomyosarcoma	Sunitinib	D	Sensitivity/Response	19366796	CiViC
+PDGFRA	BCR-PDGFRA	B-cell Acute Lymphoblastic Leukemia	Imatinib	C	Sensitivity/Response	12944919	CiViC
+PDGFB	COL1A1-PDGFB	Dermatofibrosarcoma Protuberans	Sunitinib	C	Sensitivity/Response	29760553	CiViC
+PDGFRB	OVEREXPRESSION	Dermatofibrosarcoma Protuberans	Sunitinib	C	Sensitivity/Response	29760553	CiViC
+NTRK3	ETV6-NTRK3	B-cell Adult Acute Lymphocytic Leukemia	Larotrectinib	C	Sensitivity/Response	31905241	CiViC
+NTRK3	ETV6-NTRK3	Acute Myeloid Leukemia	Entrectinib	D	Sensitivity/Response	29237803	CiViC
+PIK3CA	V955I	Colorectal Cancer	Cetuximab	C	Resistance	28424201	CiViC
+ABL1	Double Ph	Chronic Myeloid Leukemia	Imatinib	C	Resistance	12623848	CiViC
+FLT3	D835Y	Acute Myeloid Leukemia	Gilteritinib	D	Sensitivity/Response	27908881	CiViC
+PML	PML-RARA A216V	Acute Promyelocytic Leukemia	Arsenic Trioxide	B	Resistance	26537301	CiViC
+PIK3CA	H1047R	Colorectal Cancer	Akt Inhibitor MK2206,Vemurafenib	D	Sensitivity/Response	22180495	CiViC
