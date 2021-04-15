@@ -4,7 +4,9 @@ Comprehensive characterization of 536 patient-derived xenograft models prioritiz
 
 Hua Sun*, Song Cao*, R. Jay Mashl*, Chia-Kuei Mo*, Simone Zaccaria*, et al.
 
-> '*':These authors contributed equally;  '#':Corresponding author;  Email: <lding@wustl.edu>
+> '*':These authors contributed equally
+> Corresponding author - Li Ding
+> Email: <lding@wustl.edu>
 
 
 
