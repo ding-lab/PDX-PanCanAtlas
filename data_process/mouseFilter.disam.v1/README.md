@@ -79,7 +79,7 @@ Input
   ```
   Pair-end fastq gzip files (e.g. *.1.fq.gz / *.2.fq.gz)
   
-  Recommend to use the trimmed fastq file.
+  * Recommend to use the trimmed fastq file.
   ```
 
 Output
