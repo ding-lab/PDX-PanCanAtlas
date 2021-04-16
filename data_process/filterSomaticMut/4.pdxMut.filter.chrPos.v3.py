@@ -10,9 +10,9 @@
     USAGE
     =======
     # filter PDX sample mut based on ref loci & human tumor from matched case
-    python3 run.py -m meta3.tsv --info sample.info -r ref_db.loci --meta3 input.tsv -o outdir --outname filtered_pdxMut.meta3.tsv
+    python3 run.py -m meta3.tsv --info sample.info -r ref_db.loci -o outdir
     or
-    python3 run.py -m meta3.tsv --info sample.info -r ref_db.loci --meta3 input.tsv -o outdir
+    python3 run.py -m meta3.tsv --info sample.info -r ref_db.loci -o outdir --outname filtered_pdxMut.meta3.tsv
   
 
 """
