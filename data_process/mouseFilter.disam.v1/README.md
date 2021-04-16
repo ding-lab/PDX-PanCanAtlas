@@ -1,6 +1,6 @@
 
 
-A mouse reads filtering pipeline from WGS/WES and RNA-seq data
+A mouse reads filtering pipeline for PDX data (WGS/WES/RNA-seq)
 
 
 Install
@@ -61,28 +61,15 @@ Options:
 Example
 -------
 
-1. WGS/WES full step
+* PDX WGS/WES data
         
         sh pdx_disam_kit.sh -p dnaFull -n sample -1 fq1.gz -2 fq2.gz -o outdir
 
-2. RNA full step
+* PDX RNA-Seq data
         
         sh pdx_disam_kit.sh -p rnaFull -n sample -1 fq1.gz -2 fq2.gz -o outdir
 
 
-3. Separate steps
-   
-   * Make human to bam
-   
-     `sh pdx_disam_kit.sh -p humanBam -n sample -1 fq1.gz -2 fq2.gz -o outdir`
-
-   * Make mouse to bam
-   
-     `sh pdx_disam_kit.sh -p mouseBam -n sample -1 fq1.gz -2 fq2.gz -o outdir`
-
-   * Disambiguate
-   
-     `sh pdx_disam_kit.sh -p disambiguate -n sample -d pdx_wxs_dir`
 
 
 Input
