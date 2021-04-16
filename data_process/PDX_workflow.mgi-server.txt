@@ -12,6 +12,11 @@ Pipeline location in MGI-server
 Submit job script:
     /gscmnt/gc3021/dinglab/hsun/Toolkit/LSF_mgi/lsf_submit.sh
     
+Pipelines for running in MIG-server
+    /gscmnt/gc3021/dinglab/hsun/pdx_analysis.worklogs.mgi
+    (feel free to change codes)
+    
+    
 
 
 Set reference
@@ -28,8 +33,67 @@ https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/bamToolkit
     trimming adaptor and filtering poor reads: trimGalor.sh
     make bam file : fq2bam_remDup.sh
     
+    
+    * Example code for running batch data in MGI-Server:
+    
+    ```
+    
+    TABLE=./data.sample.table
+        # make table like:
+        # sampleName  dataType  fq1   fq2
+        # TATCGCAC-CTTAGTGT WES /path/TATCGCAC-CTTAGTGT.r1_val_1.fq.gz  /path/TATCGCAC-CTTAGTGT.r2_val_2.fq.gz
+
+
+    outdir=`pwd`/trimmed_fq
+    mkdir -p $outdir
+
+    config=/gscmnt/gc3021/dinglab/hsun/PDX-workflow/bamToolkit/config.human.ini
+
+    #research-hpc
+    submit=/gscmnt/gc3021/dinglab/hsun/Toolkit/LSF_mgi/lsf_submit.sh
+
+    script=/gscmnt/gc3021/dinglab/hsun/PDX-workflow/bamToolkit/trimGalor.sh
+
+    sed '1d' $TABLE | while read name dataType fq1 fq2
+    do
+	    sh $submit 8 1 ${name} bash $script -C ${config} -S ${name} -1 ${fq1} -2 ${fq2} -L 50 -O ${outdir}
+    done
+    
+    ```
+    
+    
 https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/mouseFilter.disam.v1
     Mouse reads filter for WES/RNA-Seq data of PDXs
+    
+    
+    * Example code for running batch data in MGI-Server:
+    
+    ```
+    TABLE=./data.table
+    # seqID  mgiID  group (header=T)
+    # group -- PDX/Human/Cell_Line/Mouse
+    # gerald_HFMHWDSXX_2_AACTTGAT-AACTTGAT  TWDE-Fields_1180-D1180-09-XT2_PDX-DNA  PDX
+
+    pdx_script=/gscmnt/gc3021/dinglab/hsun/PDX-workflow/mouseFilter.disam.v1/pdx_disam_kit.sh
+
+    SUBMIT=~/pdxNet/hsun/Toolkit/LSF_mgi/lsf_submit.sh
+    
+    outdir_pdx=$OUTDIR/3.pdx_wxs_filtered_bam
+    
+    awk -F['\t'] '$3~"PDX"' $TABLE | while read seqID mgiID group
+    do
+
+        if [ ! -d $outdir_pdx ]; then mkdir $outdir_pdx; fi
+
+        FQ1=$DIR/$seqID/*_val_1.fq.gz
+        FQ2=$DIR/$seqID/*_val_2.fq.gz
+
+        sh $SUBMIT 48 1 pdx_wxs_fq2bam.${mgiID} bash $pdx_script -p dnaFull -n ${mgiID} -1 $FQ1 -2 $FQ2 -o $outdir_pdx
+
+    done
+    
+    ``` 
+
 
 
 Sample quality control 
@@ -148,8 +212,5 @@ https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/geneExpress
 Fusion
 =====================
 https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/fusion
-
-
-
 
 
