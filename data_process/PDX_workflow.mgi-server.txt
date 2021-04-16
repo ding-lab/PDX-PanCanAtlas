@@ -140,6 +140,16 @@ https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/somatic.Mut
             
 
 
+
+Extra filter for somatic mutations (tumor-normal/tumor-only, human/pdx)
+=====================
+https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/filterSomaticMut
+	General human cancer somatic mutations: 
+	https://github.com/ding-lab/PDX-PanCanAtlas/blob/master/data_process/appendix_db/GRCh38.cosmic90_tcga.codingMut.filtered.mouse_dbSNP.loci.zip
+The detailed description of the filtering, please see the 'Methods' section from our manuscript
+
+
+
 Germline mutation
 =====================
 https://github.com/ding-lab/germlinewrapper
@@ -184,6 +194,9 @@ Somatic copy number – TumorOnly
 =====================
 CNVKit (PoolNormal approach)
 https://github.com/ding-lab/cnvkit_pipeline
+
+"reference_normals.cnn" https://github.com/ding-lab/PDX-PanCanAtlas/tree/master/data_process/appendix_db
+[Note] The pool-normal file is only limited to use in this study.
 
 Please set "config.gencode_grch38.mgi.ini" location to the 'cnvkit_wxs.pipeline.mgi.v4.sh'
 
