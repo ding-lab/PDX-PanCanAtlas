@@ -74,10 +74,12 @@ Example
 
 Input
 -------
-* WGS/WES/RNA-seq
+* PDX WGS/WES/RNA-seq data 
   
   ```
-  Pair fastq gzip files (e.g. *.1.fq.gz / *.2.fq.gz)
+  Pair-end fastq gzip files (e.g. *.1.fq.gz / *.2.fq.gz)
+  
+  Recommend to use the trimmed fastq file.
   ```
 
 Output
