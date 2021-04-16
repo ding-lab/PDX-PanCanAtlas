@@ -3,7 +3,7 @@
 # Hua Sun
 # 5/5/2019
 
-# sh fq2bam_human.sh -C contig.ini -T human -S sampleName -1 SAMPLE.fq1.gz -2 SAMPLE.fq2.gz -O /path/outDir
+# sh fq2bam_human.sh -C contig.ini -S sampleName -1 SAMPLE.fq1.gz -2 SAMPLE.fq2.gz -O /path/outDir
 # -T human/mouse
 # memory set 18 Gb
 
