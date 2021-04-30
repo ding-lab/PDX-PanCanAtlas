@@ -13,7 +13,7 @@ USAGE="Usage: bash run_CharGer_on_VEP.sh -I [input_sample.vcf] -o [output basena
 
 # --- Options processing -------------------------------------------
 
-while getopts "I:a:o:O:L:" opt; do
+while getopts "I:o:O:L:" opt; do
 	case $opt in
 		I)
 			INPUT_VCF=$OPTARG # input VEP annotated VCF file
