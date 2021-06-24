@@ -31,6 +31,10 @@ Run in MGI-server
 2. sh run.mgi.call.starFusion.byDir.sh ./RNA/3.pdx_rna_filtered_fq
 ```
 
+[Note] Filter non-cancer and normal fusions (from TCGA), please use the file 'https://github.com/ding-lab/PDX-PanCanAtlas/blob/master/data_process/appendix_db/filterFusionSet_noncancer_tcgaNor.v1.tsv'
+
+
+
 Contact
 -------------
 Hua Sun, <hua.sun@wustl.edu>
