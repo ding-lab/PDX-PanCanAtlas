@@ -23,7 +23,13 @@ $STAR_FUSION --genome_lib_dir $CTAT_LIB_DIR \
 	--output_dir $starFusionOutDir
 ```
 
+Run in MGI-server
+--------
 
+```
+1. set the 'call.starFusion.full.v2.sh' location to the 'run.mgi.call.starFusion.byDir.sh'
+2. sh run.mgi.call.starFusion.byDir.sh ./RNA/3.pdx_rna_filtered_fq
+```
 
 Contact
 -------------
