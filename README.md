@@ -2,7 +2,7 @@
 
 Comprehensive characterization of 536 patient-derived xenograft models prioritizes candidates for targeted treatment
 
-[Nature Communications](https://www.nature.com/articles/s41467-021-25177-3) (2021)
+_Nature Communications_ (2021) [[Link](https://www.nature.com/articles/s41467-021-25177-3)]
 
 Hua Sun*, Song Cao*, R. Jay Mashl*, Chia-Kuei Mo*, Simone Zaccaria*, et al.
 
