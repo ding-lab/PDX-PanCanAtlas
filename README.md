@@ -2,6 +2,8 @@
 
 Comprehensive characterization of 536 patient-derived xenograft models prioritizes candidates for targeted treatment
 
+[Nature Communications](https://www.nature.com/articles/s41467-021-25177-3) (2021)
+
 Hua Sun*, Song Cao*, R. Jay Mashl*, Chia-Kuei Mo*, Simone Zaccaria*, et al.
 
 > Corresponding author: Li Ding
@@ -19,11 +21,11 @@ Hua Sun*, Song Cao*, R. Jay Mashl*, Chia-Kuei Mo*, Simone Zaccaria*, et al.
 
 ## Data Access
 
-* PDX Database [Link is provided in the manuscript]
+* Web portal for PDXs data https://pdx.wustl.edu/pdx/
   
   > Author: Jay Mashl, <rmashl@wustl.edu>
 
-* Data freeze [Link is provided in the manuscript]
+* Data freeze https://figshare.com/articles/dataset/DataFreeze_v5/14390408
 
   > Author: Hua Sun
 
